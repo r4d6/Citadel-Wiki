@@ -1,7 +1,9 @@
 
 # Basic standerds that you want or have to follow!
 
-The standerd template
+The Standard Template! All Pull Requests will start out with this template below.
+
+~~------------------------------------------------------------------------------------------------------------------------------~~
 
 Write **BELOW** The Headers and **ABOVE** The comments else it may not be viewable.
 You can view Contributing.MD for a detailed description of the pull request process.
@@ -54,17 +56,21 @@ server: something server ops should know
 Both :cl:'s are required for the changelog to work! You can put your name to the right of the first :cl: if you want to overwrite your GitHub username as author ingame.
 You can use multiple of the same prefix (they're only used for the icon ingame) and delete the unneeded ones. Despite some of the tags, changelogs should generally represent how a player might be affected by the changes rather than a summary of the PR's contents. 
 
+~~------------------------------------------------------------------------------------------------------------------------------~~
+
+End of the Standard Template
+
 ## How to use the the auto tagging system
 We have a bot that is _really_ helpful for adding in basic tags, most of the time they will add sprites, sound changes and cofig changes all on its own. 
-Some times you want to add in your own tags to show that its a Do Not Merge or a Work In Progress - To add these tags you must at the start of the name of the Poll Request in *brackets* do -
+Some times you want to add in your own tags to show that its a Do Not Merge or a Work In Progress - To add these tags you must at the start of the name of the Pull Request in *brackets* do -
 [S]   for fix
 [WIP] for Work In Progress 
 [DNM] for Do Not Merge 
-[READY] to auto tag that the poll request is ready for review.
+[READY] to auto tag that the pull request is ready for review.
 ######[READY] WILL remove Work In Progress - Also note that changing the heading of a Pull request will add tags using brackets 
 
 ## The Changlog section
-If you make a poll request without changing them they *WILL NOT* auto add the tags to the poll request, and once you hit summit you can not add the tags via Changlogs, so make sure your adding the correct tags as they can not be easily removed.
+If you make a pull request without changing them they *WILL NOT* auto add the tags to the pull request, and once you hit summit you can not add the tags via Changlogs, so make sure your adding the correct tags as they can not be easily removed.
 To remove a most tags you will need a maintainer to take off the tag.
 
 ## Why is this good for the game
