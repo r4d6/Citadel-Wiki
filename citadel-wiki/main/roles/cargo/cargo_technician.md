@@ -3,7 +3,7 @@ Cargo Technician
 
 "For Cargonia!" - Cargo Technician Action Figure
 
-**The Cargo Technician** handles deliveries in and out of the station. Although they answer directly to the [Quartermaster](/citadel-wiki/main/roles/command/quartermaster.md), they can perform many of the same tasks their superior can. It's a fairly straightforward role, making it a good choice for new players who want more of a job or direction than the /greytide/ can provide.
+**The Cargo Technician** handles deliveries in and out of the station. Although they answer directly to the [Quartermaster](/citadel-wiki/main/roles/command/quartermaster.md), they can perform many of the same tasks their superior can. It's a fairly straightforward role, making it a good choice for new players who want more of a job or direction than the [greytide](/citadel-wiki/main/roles/civillian/assistant.md) can provide.
 
 ## Moving Freight
 
