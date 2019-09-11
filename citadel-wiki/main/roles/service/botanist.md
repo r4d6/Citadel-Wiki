@@ -1,7 +1,7 @@
 The Botanist
 ===
 
-**The Botanist**, as you can imagine, grows and tends to plants. Although you answer to the [Head of Personnel](/citadel-wiki/main/roles/command/head_of_personnel.md) and will likely be working with the /Chef/ and /Bartender/ most of the time, you can grow things for other departments and even the station at large. In a way, their job resembles the very thing they work with - easy to understand at a base level but there's a lot more to it beneath the surface.
+**The Botanist**, as you can imagine, grows and tends to plants. Although you answer to the [Head of Personnel](/citadel-wiki/main/roles/command/head_of_personnel.md) and will likely be working with the [Cook](/citadel-wiki/main/roles/service/cook.md) and [Bartender](h/citadel-wiki/main/roles/service/bartender.md) most of the time, you can grow things for other departments and even the station at large. In a way, their job resembles the very thing they work with - easy to understand at a base level but there's a lot more to it beneath the surface.
 
 ## Photosynthesis: Hacked
 
