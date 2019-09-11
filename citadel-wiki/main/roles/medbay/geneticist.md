@@ -1,7 +1,7 @@
 The Geneticist
 ===
 
-The Geneticist effectively has two jobs - cloning deceased crew members and unlocking the crew's true potential. Fortunately the former is something /Medical Doctors/ are equally capable of handling, but it's still something you're expected to know the /ins and outs of/. Plus, the job you're primarily here to do is a bit more challenging.
+The Geneticist effectively has two jobs - cloning deceased crew members and unlocking the crew's true potential. Fortunately the former is something [Medical Doctors](/citadel-wiki/main/roles/medbay/medical_doctor.md) are equally capable of handling, but it's still something you're expected to know the /ins and outs of/. Plus, the job you're primarily here to do is a bit more challenging.
 
 ## Basically, We're Monky
 
