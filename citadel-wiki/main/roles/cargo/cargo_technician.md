@@ -21,5 +21,12 @@ You may have noticed that some items are priced higher than your initial budget.
 
 ## Tag 'Em 'n Bag 'Em - Bounties
 
-Every shift, CentCom provides the station with a list of bounties...
+Every shift, CentCom will put out a list of bounties for things they <want> need. They're a great way to keep your department in the black and range from the mundane to the eccentric, although there tend to be some constants (Adamantine, Alien Organs, Syndicate documents). Check what they are on a Nanotrasen bounty console, get them on an outbound cargo shuttle and you'll be handsomely rewarded.
+
+<image of the bounty console>
+
+There's just one catch: **most bounties leave you dependent on other departments to complete**. Fortunately your coworkers are generally willing to complete them for you unless they have [ulterior motives]() - they just need to know what the bounties are. 
+That's why you'll want to get the word out as soon as possible.
+
+Although you could use the requests console system, it's more far common to simply print out a bunch of bounty sheets and distribute them around the station. Not only does this allow the station at large to know what you're looking for, but it also means you don't have to discern what department could get you what bounties if you're aren't sure. Just bear in mind paper doesn't automatically update, so you'll still have to inform the crew if new bounties come in.
 
