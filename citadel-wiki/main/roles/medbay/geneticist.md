@@ -6,7 +6,7 @@ The Geneticist effectively has two jobs - cloning deceased crew members and unlo
 ## Basically, We're Monky
 
 To begin your work, you need a test subject.
-Unless you have a willing /Assistant/, odds are you're going to have to make use of one of the many monkeys you have at your disposal. Stuff your subject into the <>, and head over to the computer - the screen should look something like this:
+Unless you have a willing [Assistant](/citadel-wiki/main/roles/civillian/assistant.md), odds are you're going to have to make use of one of the many monkeys you have at your disposal. Stuff your subject into the <>, and head over to the computer - the screen should look something like this:
 <image>
 
 Provided you're working with a monkey, the first step should be a breeze. Simply look for the single enzyme block with a hexadecimal value over 800...
