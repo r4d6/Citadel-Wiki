@@ -25,8 +25,7 @@ Every shift, CentCom will put out a list of bounties for things they <want> need
 
 <image of the bounty console>
 
-There's just one catch: **most bounties leave you dependent on other departments to complete**. Fortunately your coworkers are generally willing to complete them for you unless they have [ulterior motives]() - they just need to know what the bounties are. 
-That's why you'll want to get the word out as soon as possible.
+There's just one catch: **most bounties leave you dependent on other departments to complete**. Fortunately your coworkers are generally willing to complete them for you unless they have [ulterior motives](/citadel-wiki/main/roles/antagonist) - they just need to know what the bounties are. That's why you'll want to get the word out as soon as possible.
 
 Although you could use the requests console system, it's more far common to simply print out a bunch of bounty sheets and distribute them around the station. Not only does this allow the station at large to know what you're looking for, but it also means you don't have to discern what department could get you what bounties if you're aren't sure. Just bear in mind paper doesn't automatically update, so you'll still have to inform the crew if new bounties come in.
 
