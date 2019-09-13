@@ -1,7 +1,7 @@
 # BASIC REAGENTS
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
-|---|---|---|---|---|---|---|----------|---|---|---|---|---|
+|---|---|---|---|---|---|---|------------------|---|---|---|---|---|
 |Flight Potion | 7 | <ul><li>Holy Water</li><li>Uranium</li></ul> | N/A | N/A | N/A | N/A | Strange mutagenic compound of unknown origins. | No OD | No addiction | 0.16 | N/A |N/A|
 |Replicating Foam | 7 | N/A | N/A | N/A | N/A | N/A | will do medium brute damage and occasionally expand again when expanding. | No OD | No addiction | 0.16 | N/A |N/A|
 |Networked Fibers | 7 | N/A | N/A | N/A | N/A | N/A | will do high brute and burn damage and will generate resources quicker, but can only expand manually. | No OD | No addiction | 0.16 | N/A |N/A|
@@ -141,7 +141,7 @@
 # MEDICINE:
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
-|---|---|---|---|---|---|---|----------|---|---|---|---|---|
+|---|---|---|---|---|---|---|------------------|---|---|---|---|---|
 |Leporazine | 8.4 | <ul><li>Silicon</li><li>Copper</li></ul> | N/A | N/A | N/A | N/A | Leporazine will effectively regulate a patient's body temperature, ensuring it never leaves safe levels. | No OD | No addiction | 0.16 | N/A |N/A|
 |Quantum Medicine | 7 | N/A | N/A | N/A | N/A | N/A | Rare and experimental particles, that apparently swap the user's body with one from an alternate dimension where it's completely healthy. | No OD | No addiction | 0.16 | N/A |N/A|
 |Adminordrazine | 7 | N/A | N/A | N/A | N/A | N/A | It's magic. We don't have to explain it. | No OD | No addiction | 0.16 | N/A |N/A|
@@ -208,7 +208,7 @@
 # TOXIN:
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
-|---|---|---|---|---|---|---|----------|---|---|---|---|---|
+|---|---|---|---|---|---|---|------------------|---|---|---|---|---|
 |Leaper venom | 7 | N/A | N/A | N/A | N/A | N/A | A toxin spat out by leapers that, while harmless in small doses, quickly creates a toxic reaction if too much is in the body. | No OD | No addiction | 0.16 | N/A |N/A|
 |sucrose agar | 2 | <ul><li>Sugar</li><li>mutagenic agar</li></ul> | N/A | N/A | N/A | N/A | Might cause unpredictable mutations. Keep away from children. | No OD | No addiction | 0.16 | N/A |N/A|
 |mutagenic agar | 2 | <ul><li>Unstable mutagen</li><li>Virus Food</li></ul> | N/A | N/A | N/A | N/A | Might cause unpredictable mutations. Keep away from children. | No OD | No addiction | 0.16 | N/A |N/A|
@@ -268,7 +268,7 @@
 # CONSUMABLE
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
-|---|---|---|---|---|---|---|----------|---|---|---|---|---|
+|---|---|---|---|---|---|---|------------------|---|---|---|---|---|
 |Light Beer | 5 | N/A | N/A | N/A | N/A | N/A | An alcoholic beverage brewed since ancient times on Old Earth. This variety has reduced calorie and alcohol content. | No OD | No addiction | 0.16 | N/A |N/A|
 |Green Beer | 6 | <ul><li>Green Crayon Powder</li><li>Beer</li></ul> | N/A | N/A | N/A | N/A | An alcoholic beverage brewed since ancient times on Old Earth. This variety is dyed a festive green. | No OD | No addiction | 0.16 | N/A |N/A|
 |Beer | 4 | N/A | N/A | N/A | N/A | N/A | An alcoholic beverage brewed since ancient times on Old Earth. Still popular today. | No OD | No addiction | 0.16 | N/A |N/A|
@@ -499,7 +499,7 @@
 These chems lie on the cutting edge of chemical technology, and as such are not recommended for beginners!
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
-|---|---|---|---|---|---|---|----------|---|---|---|---|---|
+|---|---|---|---|---|---|---|------------------|---|---|---|---|---|
 |Astrogen | 7 | <ul><li>Eigenstasium</li><li>Plasma</li><li>Synaptizine</li><li>Aluminium</li></ul> | 700 | 1150 | 814 | Extremely exothermic | An opalescent murky liquid that is said to distort your soul from your being. | 20 | 24.5 | 0 | N/A |N/A|
 |Eigenstasium | 3.7 | <ul><li>Bluespace Dust</li><li>Stable Plasma</li><li>Sugar</li></ul> | 350 | 650 | 214 | Extremely exothermic | A strange mixture formed from a controlled reaction of bluespace with plasma, that causes localised eigenstate fluxuations within the patient | 15 | 15 | 0.192 | N/A |N/A|
 |Succubus milk | 7 | <ul><li>Saline-Glucose Solution</li><li>Milk</li><li>Synthflesh</li><li>Silicon</li><li>Crocin</li></ul> | 200 | 900 | 313 | Exothermic | A volatile collodial mixture derived from milk that encourages mammary production via a potent estrogen mix. | 17 | No addiction | 0.1 | Modesty milk | Modesty milk | 
@@ -533,7 +533,7 @@ These chems lie on the cutting edge of chemical technology, and as such are not 
 # PLANTS
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
-|---|---|---|---|---|---|---|----------|---|---|---|---|---|
+|---|---|---|---|---|---|---|------------------|---|---|---|---|---|
 |E-Z-Nutrient | 2 | N/A | N/A | N/A | N/A | N/A | Cheap and extremely common type of plant nutriment. | No OD | No addiction | 0.16 | N/A |N/A|
 |Left 4 Zed | 1.5 | N/A | N/A | N/A | N/A | N/A | Unstable nutriment that makes plants mutate more often than usual. | No OD | No addiction | 0.16 | N/A |N/A|
 |Robust Harvest | 1 | N/A | N/A | N/A | N/A | N/A | Very potent nutriment that prevents plants from mutating. | No OD | No addiction | 0.16 | N/A |N/A|
@@ -543,7 +543,7 @@ These chems lie on the cutting edge of chemical technology, and as such are not 
 # URANIUM
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
-|---|---|---|---|---|---|---|----------|---|---|---|---|---|
+|---|---|---|---|---|---|---|------------------|---|---|---|---|---|
 |unstable uranium gel | 4 | N/A | N/A | N/A | N/A | N/A | A silvery-white metallic chemical element in the actinide series, weakly radioactive. | No OD | No addiction | 0.16 | N/A |N/A|
 |stable uranium gel | 4 | N/A | N/A | N/A | N/A | N/A | A silvery-white metallic chemical element in the actinide series, weakly radioactive. | No OD | No addiction | 0.16 | N/A |N/A|
 |decaying uranium gel | 4 | <ul><li>Uranium</li><li>Virus Food</li></ul> | N/A | N/A | N/A | N/A | A silvery-white metallic chemical element in the actinide series, weakly radioactive. | No OD | No addiction | 0.16 | N/A |N/A|
@@ -553,7 +553,7 @@ These chems lie on the cutting edge of chemical technology, and as such are not 
 # COLOURS
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
-|---|---|---|---|---|---|---|----------|---|---|---|---|---|
+|---|---|---|---|---|---|---|------------------|---|---|---|---|---|
 |Red Crayon Powder | 0.5 | N/A | N/A | N/A | N/A | N/A | a red powder made by grinding down crayons, good for colouring chemical reagents. | No OD | No addiction | 0.16 | N/A |N/A|
 |Orange Crayon Powder | 2 | N/A | N/A | N/A | N/A | N/A | an orange powder made by grinding down crayons, good for colouring chemical reagents. | No OD | No addiction | 0.16 | N/A |N/A|
 |Yellow Crayon Powder | 5 | N/A | N/A | N/A | N/A | N/A | a yellow powder made by grinding down crayons, good for colouring chemical reagents. | No OD | No addiction | 0.16 | N/A |N/A|
@@ -570,7 +570,7 @@ These chems lie on the cutting edge of chemical technology, and as such are not 
 # RACE MUTATIONS
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
-|---|---|---|---|---|---|---|----------|---|---|---|---|---|
+|---|---|---|---|---|---|---|------------------|---|---|---|---|---|
 |Mutation Toxin | 7 | N/A | N/A | N/A | N/A | N/A | A corruptive toxin. | No OD | No addiction | 4e+030 | N/A |N/A|
 |Felinid Mutation Toxin | 7 | N/A | N/A | N/A | N/A | N/A | A humanizing toxin. | No OD | No addiction | 4e+030 | N/A |N/A|
 |Lizard Mutation Toxin | 7 | N/A | N/A | N/A | N/A | N/A | A lizarding toxin. | No OD | No addiction | 4e+030 | N/A |N/A|
