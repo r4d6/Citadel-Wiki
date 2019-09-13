@@ -29,3 +29,11 @@ There's just one catch: **most bounties leave you dependent on other departments
 
 Although you could use the requests console system, it's more far common to simply print out a bunch of bounty sheets and distribute them around the station. Not only does this allow the station at large to know what you're looking for, but it also means you don't have to discern what department could get you what bounties if you're aren't sure. Just bear in mind paper doesn't automatically update, so you'll still have to inform the crew if new bounties come in.
 
+## GET DAT FUKKIN' DOSH
+If the rest of the crew isn't helping with bounties or you need more money than they provide, fortunately you have options:
+
+-As mentioned earlier, CentCom will take any spare crates or canisters you have. This includes the ones they send your orders in, so try to get them back.
+-CentCom likes canisters full of valuable gases more than your standard fuel/water or empty ones, but [with one exception]() you'll probably have to talk to the [Atmospherics]() department to get some.
+-[Hacking the supply console]() lets you sell contraband too, so feel free to sell any spare organs you may find, not just ones requested for bounties.
+-Some of the more valuable ores miners bring up are worth supply points, not just mining points.
+-If the export scanner says it has value, it can be sold.
