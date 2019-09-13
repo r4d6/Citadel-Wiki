@@ -1,5 +1,5 @@
 #BASIC REAGENTS
- **Name** | **Reagent pH** | **Reagents** | **Reaction temp** | **Explosion temp** | **pH range** | **Kinetics** | **Description** | **OD level** | **Addiction level** | **Metabolism rate** |**Impure chem**|InverseChem 
+ Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem 
  ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|Flight Potion | 7 | N/A | N/A | N/A | N/A | N/A | Strange mutagenic compound of unknown origins. | N/A | N/A | 0.16 | N/A |N/A | 
  Replicating Foam | 7 | N/A | N/A | N/A | N/A | N/A | will do medium brute damage and occasionally expand again when expanding. | N/A | N/A | 0.16 | N/A |N/A | 
  Networked Fibers | 7 | N/A | N/A | N/A | N/A | N/A | will do high brute and burn damage and will generate resources quicker, but can only expand manually. | N/A | N/A | 0.16 | N/A |N/A | 
@@ -137,7 +137,7 @@
  
  
 #MEDICINE:
- **Name** | **Reagent pH** | **Reagents** | **Reaction temp** | **Explosion temp** | **pH range** | **Kinetics** | **Description** | **OD level** | **Addiction level** | **Metabolism rate** |**Impure chem**|InverseChem 
+ Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem 
  ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|Leporazine | 8.4 | N/A | N/A | N/A | N/A | N/A | Leporazine will effectively regulate a patient's body temperature, ensuring it never leaves safe levels. | N/A | N/A | 0.16 | N/A |N/A | 
  Quantum Medicine | 7 | N/A | N/A | N/A | N/A | N/A | Rare and experimental particles, that apparently swap the user's body with one from an alternate dimension where it's completely healthy. | N/A | N/A | 0.16 | N/A |N/A | 
  Adminordrazine | 7 | N/A | N/A | N/A | N/A | N/A | It's magic. We don't have to explain it. | N/A | N/A | 0.16 | N/A |N/A | 
@@ -201,7 +201,7 @@
  Medicine | 7 | N/A | N/A | N/A | N/A | N/A |  | N/A | N/A | 0.16 | N/A |N/A | 
  
  #TOXIN:
- **Name** | **Reagent pH** | **Reagents** | **Reaction temp** | **Explosion temp** | **pH range** | **Kinetics** | **Description** | **OD level** | **Addiction level** | **Metabolism rate** |**Impure chem**|InverseChem 
+ Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem 
  ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|Leaper venom | 7 | N/A | N/A | N/A | N/A | N/A | A toxin spat out by leapers that, while harmless in small doses, quickly creates a toxic reaction if too much is in the body. | N/A | N/A | 0.16 | N/A |N/A | 
  sucrose agar | 2 | N/A | N/A | N/A | N/A | N/A | Might cause unpredictable mutations. Keep away from children. | N/A | N/A | 0.16 | N/A |N/A | 
  mutagenic agar | 2 | N/A | N/A | N/A | N/A | N/A | Might cause unpredictable mutations. Keep away from children. | N/A | N/A | 0.16 | N/A |N/A | 
@@ -258,7 +258,7 @@
  Toxin | 7 | N/A | N/A | N/A | N/A | N/A | A toxic chemical. | N/A | N/A | 0.16 | N/A |N/A | 
  
  #CONSUMABLE
- **Name** | **Reagent pH** | **Reagents** | **Reaction temp** | **Explosion temp** | **pH range** | **Kinetics** | **Description** | **OD level** | **Addiction level** | **Metabolism rate** |**Impure chem**|InverseChem 
+ Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem 
  ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|Light Beer | 5 | N/A | N/A | N/A | N/A | N/A | An alcoholic beverage brewed since ancient times on Old Earth. This variety has reduced calorie and alcohol content. | N/A | N/A | 0.16 | N/A |N/A | 
  Green Beer | 6 | N/A | N/A | N/A | N/A | N/A | An alcoholic beverage brewed since ancient times on Old Earth. This variety is dyed a festive green. | N/A | N/A | 0.16 | N/A |N/A | 
  Beer | 4 | N/A | N/A | N/A | N/A | N/A | An alcoholic beverage brewed since ancient times on Old Earth. Still popular today. | N/A | N/A | 0.16 | N/A |N/A | 
@@ -486,7 +486,7 @@
  
 #FERMI
  These chems lie on the cutting edge of chemical technology, and as such are not recommended for beginners!
- **Name** | **Reagent pH** | **Reagents** | **Reaction temp** | **Explosion temp** | **pH range** | **Kinetics** | **Description** | **OD level** | **Addiction level** | **Metabolism rate** |**Impure chem**|InverseChem 
+ Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem 
  ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|Astrogen | 7 | N/A | N/A | N/A | N/A | N/A | An opalescent murky liquid that is said to distort your soul from your being. | 20 | 24.5 | 0 | N/A |N/A | 
  Eigenstasium | 3.7 | N/A | N/A | N/A | N/A | N/A | A strange mixture formed from a controlled reaction of bluespace with plasma, that causes localised eigenstate fluxuations within the patient | 15 | 15 | 0.192 | N/A |N/A | 
  Succubus milk | 7 | N/A | N/A | N/A | N/A | N/A | A volatile collodial mixture derived from milk that encourages mammary production via a potent estrogen mix. | 17 | N/A | 0.1 | Modesty milk | Modesty milk | 
@@ -518,21 +518,21 @@
  
  
 #PLANTS
- **Name** | **Reagent pH** | **Reagents** | **Reaction temp** | **Explosion temp** | **pH range** | **Kinetics** | **Description** | **OD level** | **Addiction level** | **Metabolism rate** |**Impure chem**|InverseChem 
+ Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem 
  ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|E-Z-Nutrient | 2 | N/A | N/A | N/A | N/A | N/A | Cheap and extremely common type of plant nutriment. | N/A | N/A | 0.16 | N/A |N/A | 
  Left 4 Zed | 1.5 | N/A | N/A | N/A | N/A | N/A | Unstable nutriment that makes plants mutate more often than usual. | N/A | N/A | 0.16 | N/A |N/A | 
  Robust Harvest | 1 | N/A | N/A | N/A | N/A | N/A | Very potent nutriment that prevents plants from mutating. | N/A | N/A | 0.16 | N/A |N/A | 
  Generic nutriment | 3 | N/A | N/A | N/A | N/A | N/A | Some kind of nutriment. You can't really tell what it is. You should probably report it, along with how you obtained it. | N/A | N/A | 0.16 | N/A |N/A | 
  
  #URANIUM
- **Name** | **Reagent pH** | **Reagents** | **Reaction temp** | **Explosion temp** | **pH range** | **Kinetics** | **Description** | **OD level** | **Addiction level** | **Metabolism rate** |**Impure chem**|InverseChem 
+ Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem 
  ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|unstable uranium gel | 4 | N/A | N/A | N/A | N/A | N/A | A silvery-white metallic chemical element in the actinide series, weakly radioactive. | N/A | N/A | 0.16 | N/A |N/A | 
  stable uranium gel | 4 | N/A | N/A | N/A | N/A | N/A | A silvery-white metallic chemical element in the actinide series, weakly radioactive. | N/A | N/A | 0.16 | N/A |N/A | 
  decaying uranium gel | 4 | N/A | N/A | N/A | N/A | N/A | A silvery-white metallic chemical element in the actinide series, weakly radioactive. | N/A | N/A | 0.16 | N/A |N/A | 
  Uranium | 4 | N/A | N/A | N/A | N/A | N/A | A silvery-white metallic chemical element in the actinide series, weakly radioactive. | N/A | N/A | 0.16 | N/A |N/A | 
  
  #COLOURS
- **Name** | **Reagent pH** | **Reagents** | **Reaction temp** | **Explosion temp** | **pH range** | **Kinetics** | **Description** | **OD level** | **Addiction level** | **Metabolism rate** |**Impure chem**|InverseChem 
+ Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem 
  ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|Red Crayon Powder | 0.5 | N/A | N/A | N/A | N/A | N/A | a red powder made by grinding down crayons, good for colouring chemical reagents. | N/A | N/A | 0.16 | N/A |N/A | 
  Orange Crayon Powder | 2 | N/A | N/A | N/A | N/A | N/A | an orange powder made by grinding down crayons, good for colouring chemical reagents. | N/A | N/A | 0.16 | N/A |N/A | 
  Yellow Crayon Powder | 5 | N/A | N/A | N/A | N/A | N/A | a yellow powder made by grinding down crayons, good for colouring chemical reagents. | N/A | N/A | 0.16 | N/A |N/A | 
@@ -547,7 +547,7 @@
  
  
 #RACE MUTATIONS
- **Name** | **Reagent pH** | **Reagents** | **Reaction temp** | **Explosion temp** | **pH range** | **Kinetics** | **Description** | **OD level** | **Addiction level** | **Metabolism rate** |**Impure chem**|InverseChem 
+ Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem 
  ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|Mutation Toxin | 7 | N/A | N/A | N/A | N/A | N/A | A corruptive toxin. | N/A | N/A | 4e+030 | N/A |N/A | 
  Felinid Mutation Toxin | 7 | N/A | N/A | N/A | N/A | N/A | A humanizing toxin. | N/A | N/A | 4e+030 | N/A |N/A | 
  Lizard Mutation Toxin | 7 | N/A | N/A | N/A | N/A | N/A | A lizarding toxin. | N/A | N/A | 4e+030 | N/A |N/A | 
