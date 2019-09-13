@@ -2,7 +2,7 @@
 
 |Name | Reagent pH | Reagents | Reaction temp | Explosion temp | pH range | Kinetics | Description | OD level | Addiction level |  Metabolism rate | Impure chem | InverseChem|
 |---|---|---|---|---|---|---|------------------|---|---|---|---|---|
-|<font color="#ff0000">Flight Potion</font>| 7 | <ul><li>Holy Water</li><li>Uranium</li></ul> | N/A | N/A | N/A | N/A | Strange mutagenic compound of unknown origins. | No OD | No addiction | 0.16 | N/A |N/A|
+|<spans color="#ff0000">Flight Potion</spans>| 7 | <ul><li>Holy Water</li><li>Uranium</li></ul> | N/A | N/A | N/A | N/A | Strange mutagenic compound of unknown origins. | No OD | No addiction | 0.16 | N/A |N/A|
 |Replicating Foam | 7 | N/A | N/A | N/A | N/A | N/A | will do medium brute damage and occasionally expand again when expanding. | No OD | No addiction | 0.16 | N/A |N/A|
 |Networked Fibers | 7 | N/A | N/A | N/A | N/A | N/A | will do high brute and burn damage and will generate resources quicker, but can only expand manually. | No OD | No addiction | 0.16 | N/A |N/A|
 |Shifting Fragments | 7 | N/A | N/A | N/A | N/A | N/A | will do medium brute damage. | No OD | No addiction | 0.16 | N/A |N/A|
