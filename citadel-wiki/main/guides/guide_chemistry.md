@@ -2,7 +2,7 @@
 
 |Name | Reagents | Reaction vars | Description | Chem properties | Impure chems|
 |---|---|---|----------|---|---|
-|Flight Potion ![#FFEBEB](https://placehold.it/15/FFEBEB/000000?text=+) pH:7 | <ul><li>Holy Water</li><li>Uranium</li></ul> |     | Strange mutagenic compound of unknown origins. | Metabolism_rate:0.4 Overdose:No OD Addiction:No addiction | N/A |N/A|
+|Flight Potion ![#FFEBEB](https://placehold.it/15/FFEBEB/000000?text=+) pH:7 | <ul><li>Holy Water</li><li>Uranium</li></ul> |     | Strange mutagenic compound of unknown origins. <img width=700/>| Metabolism_rate:0.4 Overdose:No OD Addiction:No addiction | N/A |N/A|
 |Replicating Foam ![#7B5A57](https://placehold.it/15/7B5A57/000000?text=+) pH:7 | N/A |  | will do medium brute damage and occasionally expand again when expanding. | Metabolism_rate:0.4 Overdose:No OD Addiction:No addiction | N/A |N/A|
 |Networked Fibers ![#CDC0B0](https://placehold.it/15/CDC0B0/000000?text=+) pH:7 | N/A |  | will do high brute and burn damage and will generate resources quicker, but can only expand manually. | Metabolism_rate:0.4 Overdose:No OD Addiction:No addiction | N/A |N/A|
 |Shifting Fragments ![#C8963C](https://placehold.it/15/C8963C/000000?text=+) pH:7 | N/A |  | will do medium brute damage. | Metabolism_rate:0.4 Overdose:No OD Addiction:No addiction | N/A |N/A|
