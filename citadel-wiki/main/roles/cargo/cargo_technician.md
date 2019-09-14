@@ -14,11 +14,21 @@ Notice how the belt leading into the shuttle is longer than the one leading out 
 
 As for what you'll be loading onto the shuttle? In addition to [CentCom's shopping list](#tag-em-n-bag-em---bounties), they'll pretty much take any spare crates and canisters you have lying around, alongside anything your export scanner deems of value (it's the thing you start with that looks like a gun but isn't).
 
+## One Spaceman's Trash...
+
+You'll be surprised by what some people throw out! No, really: before it heads down to the recycler, the station's disposal system will run through your department, fully visible on a conveyor belt. While you could just pull the lever and let it run automatically, you might miss out on a lot! Sure, a lot of it may simply be trash, but there's also...
+
+- **Crucial Evidence**: Sometimes [antagonists](/citadel-wiki/main/roles/antagonist) may try to dispose of proof of their wrongdoing, be it bullet casings or body parts. It could be worth having a [Detective](/citadel-wiki/main/roles/security/detective.md) take a look at, [unless you've got something to hide]().
+
+- **Useful Items**: You may find things you wouldn't be able to get normally, even if you asked...
+
 ## Taking Orders - The Supply Console
 
 That's not to say you won't have to import goods every now and then - the kingdom of Cargonia serves the people of the station, not just themselves and CentCom.
 
 (picture of roundstart supply console interface) <>: Shows where the shuttle is located. Although it's easy to tell this just from looking outside...
+
+<MULEbot>
 
 You may have noticed that some items are priced higher than your initial budget.
 
@@ -41,6 +51,6 @@ If the rest of the crew isn't helping with bounties or you need more money than 
 - Some of the more valuable ores miners bring up are worth supply points, not just mining points.
 - If the export scanner says it has value, it can be sold.
 
-There's also the perks of proper paperwork: although requisition forms primarily exist to show who ordered what and aren't terribly important (beyond rejecting orders right in front of someone's face), supply manifests (the papers that come on every crate you order) provide a small rebate when stamped correctly. Simply verify their accuracy (station name, crate contents, etc.) before stamping them accordingly and getting them on an outbound cargo shuttle. **Make sure you used the right stamp - filling manifests out incorrectly will result in a small reduction of funds**.
+There's also the perks of proper paperwork: although requisition forms primarily exist to show who ordered what and aren't terribly important (beyond rejecting orders right in front of someone's face), supply manifests (the papers that come on every crate you order) provide a small rebate when stamped correctly. Simply verify their accuracy (station name, crate contents, etc.) before stamping them accordingly and getting them on an outbound cargo shuttle. Make sure you used the right stamp - **filling manifests out incorrectly will result in a small reduction of funds**.
 
-If you're particularly desperate and/or have time to kill, you can order Freelance Paperwork...
+If you're particularly desperate for funds and/or have time to kill, you can order Freelance Paperwork. Considering returning the crate and correctly stamped manifest equate to a full refund, it's basically free money - all you have to do is get out a pen and fill it all out yourself before shipping it back to CentCom.
