@@ -642,88 +642,88 @@ These chems lie on the cutting edge of chemical technology, and as such are not 
 
 # CHEMICAL REACTIONS
 
-|Name | Reagents | Reaction vars | Description ||
+|Name | Reagents | Reaction vars | Description |
 |---|---|---|----------|
-|Cheesewheel | <ul><li><a href="#Milk">Milk</a>: 40u</li><li><a href="#Universal Enzyme">Universal Enzyme</a>: 5u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|EMP Pulse | <ul><li><a href="#Uranium">Uranium</a>: 1u</li><li><a href="#Iron">Iron</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|corgium | <ul><li><a href="#Nutriment">Nutriment</a>: 1u</li><li><a href="#Colorful Reagent">Colorful Reagent</a>: 1u</li><li><a href="#Strange Reagent">Strange Reagent</a>: 1u</li><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|synthmeat | <ul><li><a href="#Blood">Blood</a>: 5u</li><li><a href="#Cryoxadone">Cryoxadone</a>: 1u</li></ul> | | fill in manually |<ul> </ul>|
-|Slime Monkey | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/grey</li><li>Can react in mob: Yes</li></ul>|
-|Slime Crit Lesser | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/gold</li><li>Can react in mob: Yes</li></ul>|
-|Slime Stabilizer | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/blue</li><li>Can react in mob: Yes</li></ul>|
-|Slime EMP | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/yellow</li><li>Can react in mob: Yes</li></ul>|
-|Bloodlust | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/red</li><li>Can react in mob: Yes</li></ul>|
-|Gender Potion | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/pink</li><li>Can react in mob: Yes</li></ul>|
-|Bluespace Floor | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/bluespace</li><li>Can react in mob: Yes</li></ul>|
-|Slime Territory | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/cerulean</li><li>Can react in mob: Yes</li></ul>|
-|Sepia Floor | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/sepia</li><li>Can react in mob: Yes</li></ul>|
-|Slime Crayon | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/pyrite</li><li>Can react in mob: Yes</li></ul>|
-|Transfer Potion | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/rainbow</li><li>Can react in mob: Yes</li></ul>|
-|Bee Explosion | <ul><li><a href="#honey">honey</a>: 1u</li><li><a href="#Strange Reagent">Strange Reagent</a>: 1u</li><li><a href="#Radium">Radium</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Solid Plasma | <ul><li><a href="#Iron">Iron</a>: 5u</li><li><a href="#Frost Oil">Frost Oil</a>: 5u</li><li><a href="#Plasma">Plasma</a>: 20u</li></ul> | | fill in manually |<ul> </ul>|
-|Iron Foam | <ul><li><a href="#Iron">Iron</a>: 3u</li><li><a href="#Foaming agent">Foaming agent</a>: 1u</li><li><a href="#Fluorosulfuric acid">Fluorosulfuric acid</a>: 1u</li></ul> | | fill in manually |<ul> </ul>|
-|Chocolate Bar | <ul><li><a href="#Chocolate Milk">Chocolate Milk</a>: 4u</li><li><a href="#Sugar">Sugar</a>: 2u</li></ul> | | fill in manually |<ul> </ul>|
-|Dough | <ul><li><a href="#Water">Water</a>: 10u</li><li><a href="#Flour">Flour</a>: 15u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Explosion | <ul><li><a href="#Water">Water</a>: 1u</li><li><a href="#Potassium">Potassium</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Slime Glass | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/metal</li><li>Can react in mob: Yes</li></ul>|
-|Slime Crit Friendly | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/gold</li><li>Can react in mob: Yes</li></ul>|
-|Slime Bork 2 | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/silver</li><li>Can react in mob: Yes</li></ul>|
-|Slime Fireproof | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/darkblue</li><li>Can react in mob: Yes</li></ul>|
-|Slime Glow | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/yellow</li><li>Can react in mob: Yes</li></ul>|
-|Slime Speed | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/red</li><li>Can react in mob: Yes</li></ul>|
-|Renaming Potion | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/lightpink</li><li>Can react in mob: Yes</li></ul>|
-|Slime Radio | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/bluespace</li><li>Can react in mob: Yes</li></ul>|
-|Slime Camera | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/sepia</li><li>Can react in mob: Yes</li></ul>|
-|Fermis plush | <ul><li><a href="#Sugar">Sugar</a>: 10u</li><li><a href="#Blood">Blood</a>: 10u</li><li><a href="#Stable Plasma">Stable Plasma</a>: 10u</li></ul> | | fill in manually |<ul> </ul>|
-|Rice Bowl | <ul><li><a href="#Rice">Rice</a>: 10u</li><li><a href="#Water">Water</a>: 10u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/reagent_containers/glass/bowl</li><li>Can react in mob: Yes</li></ul>|
-|Tofu | <ul><li><a href="#Soy Milk">Soy Milk</a>: 10u</li><li><a href="#Universal Enzyme">Universal Enzyme</a>: 5u</li></ul> | | fill in manually |<ul> </ul>|
-|Chocolate Bar | <ul><li><a href="#Soy Milk">Soy Milk</a>: 2u</li><li><a href="#Coco Powder">Coco Powder</a>: 2u</li><li><a href="#Sugar">Sugar</a>: 2u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Cake Batter | <ul><li><a href="#Soy Milk">Soy Milk</a>: 15u</li><li><a href="#Flour">Flour</a>: 15u</li><li><a href="#Sugar">Sugar</a>: 5u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Imitation Carpmeat | <ul><li><a href="#Carpotoxin">Carpotoxin</a>: 5u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/reagent_containers/food/snacks/tofu</li><li>Can react in mob: Yes</li></ul>|
-|Cake Batter | <ul><li><a href="#Egg Yolk">Egg Yolk</a>: 15u</li><li><a href="#Flour">Flour</a>: 15u</li><li><a href="#Sugar">Sugar</a>: 5u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|N2O explosion | <ul><li><a href="#Nitrous Oxide">Nitrous Oxide</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|plastic polymers | <ul><li><a href="#Oil">Oil</a>: 5u</li><li><a href="#Sulphuric acid">Sulphuric acid</a>: 2u</li><li><a href="#Ash">Ash</a>: 3u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Slime Spawn | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/grey</li><li>Can react in mob: Yes</li></ul>|
-|Slime Metal | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/metal</li><li>Can react in mob: Yes</li></ul>|
-|Slime Crit | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/gold</li><li>Can react in mob: Yes</li></ul>|
-|Slime Bork | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/silver</li><li>Can react in mob: Yes</li></ul>|
-|Slime Freeze | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/darkblue</li><li>Can react in mob: Yes</li></ul>|
-|Slime fire | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/orange</li><li>Can react in mob: Yes</li></ul>|
-|Slime Powercell | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/yellow</li><li>Can react in mob: Yes</li></ul>|
-|Slime Steroid | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/purple</li><li>Can react in mob: Yes</li></ul>|
-|Slime Plasma | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/darkpurple</li><li>Can react in mob: Yes</li></ul>|
-|Slime Mutator | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/red</li><li>Can react in mob: Yes</li></ul>|
-|Docility Potion | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/pink</li><li>Can react in mob: Yes</li></ul>|
-|Slime Explosion | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/oil</li><li>Can react in mob: Yes</li></ul>|
-|Slime Potion 2 | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/lightpink</li><li>Can react in mob: Yes</li></ul>|
-|Adamantine | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/adamantine</li><li>Can react in mob: Yes</li></ul>|
-|Slime Crystal | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/bluespace</li><li>Can react in mob: Yes</li></ul>|
-|Slime Steroid 2 | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/cerulean</li><li>Can react in mob: Yes</li></ul>|
-|Slime Stop | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/sepia</li><li>Can react in mob: Yes</li></ul>|
-|Slime Paint | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/pyrite</li><li>Can react in mob: Yes</li></ul>|
-|Random Core | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/rainbow</li><li>Can react in mob: Yes</li></ul>|
-|Metal Foam | <ul><li><a href="#Aluminium">Aluminium</a>: 3u</li><li><a href="#Foaming agent">Foaming agent</a>: 1u</li><li><a href="#Fluorosulfuric acid">Fluorosulfuric acid</a>: 1u</li></ul> | | fill in manually |<ul> </ul>|
-|Smart Metal Foam | <ul><li><a href="#Aluminium">Aluminium</a>: 3u</li><li><a href="#Smart foaming agent">Smart foaming agent</a>: 1u</li><li><a href="#Fluorosulfuric acid">Fluorosulfuric acid</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Meth explosion | <ul><li><a href="#Diethylamine">Diethylamine</a>: 1u</li><li><a href="#Iodine">Iodine</a>: 1u</li><li><a href="#Phosphorus">Phosphorus</a>: 1u</li><li><a href="#Hydrogen">Hydrogen</a>: 1u</li></ul> | | fill in manually |<ul> </ul>|
-|Solid Gold | <ul><li><a href="#Frost Oil">Frost Oil</a>: 5u</li><li><a href="#Gold">Gold</a>: 20u</li><li><a href="#Iron">Iron</a>: 1u</li></ul> | | fill in manually |<ul> </ul>|
-|Soapification | <ul><li><a href="#Liquid gibs">Liquid gibs</a>: 10u</li><li><a href="#Lye">Lye</a>: 10u</li></ul> | | fill in manually |<ul> </ul>|
-|Candlefication | <ul><li><a href="#Liquid gibs">Liquid gibs</a>: 5u</li><li><a href="#Oxygen">Oxygen</a>: 5u</li></ul> | | fill in manually |<ul> </ul>|
-|Meatification | <ul><li><a href="#Liquid gibs">Liquid gibs</a>: 10u</li><li><a href="#Nutriment">Nutriment</a>: 10u</li><li><a href="#Carbon">Carbon</a>: 10u</li></ul> | | fill in manually |<ul> </ul>|
-|Foam | <ul><li><a href="#Fluorosurfactant">Fluorosurfactant</a>: 1u</li><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> </ul>|
-|Life | <ul><li><a href="#Strange Reagent">Strange Reagent</a>: 1u</li><li><a href="#Synthflesh">Synthflesh</a>: 1u</li><li><a href="#Blood">Blood</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Life (Friendly) | <ul><li><a href="#Strange Reagent">Strange Reagent</a>: 1u</li><li><a href="#Synthflesh">Synthflesh</a>: 1u</li><li><a href="#Sugar">Sugar</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|LDM Vortex | <ul><li><a href="#Liquid Dark Matter">Liquid Dark Matter</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Nitroglycerin explosion | <ul><li><a href="#Nitroglycerin">Nitroglycerin</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Holy Explosion | <ul><li><a href="#Holy Water">Holy Water</a>: 1u</li><li><a href="#Potassium">Potassium</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Flight Potion | <ul><li><a href="#Holy Water">Holy Water</a>: 5u</li><li><a href="#Uranium">Uranium</a>: 5u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/rainbow</li><li>Can react in mob: Yes</li></ul>|
-|Black Powder Kaboom | <ul><li><a href="#Black Powder">Black Powder</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Meth explosion | <ul><li><a href="#Methamphetamine">Methamphetamine</a>: 1u</li></ul> | | fill in manually |<ul> </ul>|
-|Teslium Destabilization | <ul><li><a href="#Teslium">Teslium</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Teslium Destabilization | <ul><li><a href="#Teslium">Teslium</a>: 1u</li><li><a href="#Water">Water</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|sorium_vortex | <ul><li><a href="#Sorium">Sorium</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Flash powder activation | <ul><li><a href="#Flash Powder">Flash Powder</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|smoke_powder_smoke | <ul><li><a href="#Smoke Powder">Smoke Powder</a>: 1u</li></ul> | | fill in manually |<ul> </ul>|
-|sonic_powder_deafen | <ul><li><a href="#Sonic Powder">Sonic Powder</a>: 1u</li></ul> | | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
-|Clusterblorble | <ul><li><a href="#Slime Jelly">Slime Jelly</a>: 1u</li></ul> | | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/rainbow</li><li>Can react in mob: Yes</li></ul>|
+|Cheesewheel | <ul><li><a href="#Milk">Milk</a>: 40u</li><li><a href="#Universal Enzyme">Universal Enzyme</a>: 5u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|EMP Pulse | <ul><li><a href="#Uranium">Uranium</a>: 1u</li><li><a href="#Iron">Iron</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|corgium | <ul><li><a href="#Nutriment">Nutriment</a>: 1u</li><li><a href="#Colorful Reagent">Colorful Reagent</a>: 1u</li><li><a href="#Strange Reagent">Strange Reagent</a>: 1u</li><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|synthmeat | <ul><li><a href="#Blood">Blood</a>: 5u</li><li><a href="#Cryoxadone">Cryoxadone</a>: 1u</li></ul> | fill in manually |<ul> </ul>|
+|Slime Monkey | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/grey</li><li>Can react in mob: Yes</li></ul>|
+|Slime Crit Lesser | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/gold</li><li>Can react in mob: Yes</li></ul>|
+|Slime Stabilizer | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/blue</li><li>Can react in mob: Yes</li></ul>|
+|Slime EMP | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/yellow</li><li>Can react in mob: Yes</li></ul>|
+|Bloodlust | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/red</li><li>Can react in mob: Yes</li></ul>|
+|Gender Potion | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/pink</li><li>Can react in mob: Yes</li></ul>|
+|Bluespace Floor | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/bluespace</li><li>Can react in mob: Yes</li></ul>|
+|Slime Territory | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/cerulean</li><li>Can react in mob: Yes</li></ul>|
+|Sepia Floor | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/sepia</li><li>Can react in mob: Yes</li></ul>|
+|Slime Crayon | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/pyrite</li><li>Can react in mob: Yes</li></ul>|
+|Transfer Potion | <ul><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/rainbow</li><li>Can react in mob: Yes</li></ul>|
+|Bee Explosion | <ul><li><a href="#honey">honey</a>: 1u</li><li><a href="#Strange Reagent">Strange Reagent</a>: 1u</li><li><a href="#Radium">Radium</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Solid Plasma | <ul><li><a href="#Iron">Iron</a>: 5u</li><li><a href="#Frost Oil">Frost Oil</a>: 5u</li><li><a href="#Plasma">Plasma</a>: 20u</li></ul> | fill in manually |<ul> </ul>|
+|Iron Foam | <ul><li><a href="#Iron">Iron</a>: 3u</li><li><a href="#Foaming agent">Foaming agent</a>: 1u</li><li><a href="#Fluorosulfuric acid">Fluorosulfuric acid</a>: 1u</li></ul> | fill in manually |<ul> </ul>|
+|Chocolate Bar | <ul><li><a href="#Chocolate Milk">Chocolate Milk</a>: 4u</li><li><a href="#Sugar">Sugar</a>: 2u</li></ul> | fill in manually |<ul> </ul>|
+|Dough | <ul><li><a href="#Water">Water</a>: 10u</li><li><a href="#Flour">Flour</a>: 15u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Explosion | <ul><li><a href="#Water">Water</a>: 1u</li><li><a href="#Potassium">Potassium</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Slime Glass | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/metal</li><li>Can react in mob: Yes</li></ul>|
+|Slime Crit Friendly | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/gold</li><li>Can react in mob: Yes</li></ul>|
+|Slime Bork 2 | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/silver</li><li>Can react in mob: Yes</li></ul>|
+|Slime Fireproof | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/darkblue</li><li>Can react in mob: Yes</li></ul>|
+|Slime Glow | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/yellow</li><li>Can react in mob: Yes</li></ul>|
+|Slime Speed | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/red</li><li>Can react in mob: Yes</li></ul>|
+|Renaming Potion | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/lightpink</li><li>Can react in mob: Yes</li></ul>|
+|Slime Radio | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/bluespace</li><li>Can react in mob: Yes</li></ul>|
+|Slime Camera | <ul><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/sepia</li><li>Can react in mob: Yes</li></ul>|
+|Fermis plush | <ul><li><a href="#Sugar">Sugar</a>: 10u</li><li><a href="#Blood">Blood</a>: 10u</li><li><a href="#Stable Plasma">Stable Plasma</a>: 10u</li></ul> | fill in manually |<ul> </ul>|
+|Rice Bowl | <ul><li><a href="#Rice">Rice</a>: 10u</li><li><a href="#Water">Water</a>: 10u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/reagent_containers/glass/bowl</li><li>Can react in mob: Yes</li></ul>|
+|Tofu | <ul><li><a href="#Soy Milk">Soy Milk</a>: 10u</li><li><a href="#Universal Enzyme">Universal Enzyme</a>: 5u</li></ul> | fill in manually |<ul> </ul>|
+|Chocolate Bar | <ul><li><a href="#Soy Milk">Soy Milk</a>: 2u</li><li><a href="#Coco Powder">Coco Powder</a>: 2u</li><li><a href="#Sugar">Sugar</a>: 2u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Cake Batter | <ul><li><a href="#Soy Milk">Soy Milk</a>: 15u</li><li><a href="#Flour">Flour</a>: 15u</li><li><a href="#Sugar">Sugar</a>: 5u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Imitation Carpmeat | <ul><li><a href="#Carpotoxin">Carpotoxin</a>: 5u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/reagent_containers/food/snacks/tofu</li><li>Can react in mob: Yes</li></ul>|
+|Cake Batter | <ul><li><a href="#Egg Yolk">Egg Yolk</a>: 15u</li><li><a href="#Flour">Flour</a>: 15u</li><li><a href="#Sugar">Sugar</a>: 5u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|N2O explosion | <ul><li><a href="#Nitrous Oxide">Nitrous Oxide</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|plastic polymers | <ul><li><a href="#Oil">Oil</a>: 5u</li><li><a href="#Sulphuric acid">Sulphuric acid</a>: 2u</li><li><a href="#Ash">Ash</a>: 3u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Slime Spawn | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/grey</li><li>Can react in mob: Yes</li></ul>|
+|Slime Metal | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/metal</li><li>Can react in mob: Yes</li></ul>|
+|Slime Crit | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/gold</li><li>Can react in mob: Yes</li></ul>|
+|Slime Bork | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/silver</li><li>Can react in mob: Yes</li></ul>|
+|Slime Freeze | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/darkblue</li><li>Can react in mob: Yes</li></ul>|
+|Slime fire | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/orange</li><li>Can react in mob: Yes</li></ul>|
+|Slime Powercell | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/yellow</li><li>Can react in mob: Yes</li></ul>|
+|Slime Steroid | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/purple</li><li>Can react in mob: Yes</li></ul>|
+|Slime Plasma | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/darkpurple</li><li>Can react in mob: Yes</li></ul>|
+|Slime Mutator | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/red</li><li>Can react in mob: Yes</li></ul>|
+|Docility Potion | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/pink</li><li>Can react in mob: Yes</li></ul>|
+|Slime Explosion | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/oil</li><li>Can react in mob: Yes</li></ul>|
+|Slime Potion 2 | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/lightpink</li><li>Can react in mob: Yes</li></ul>|
+|Adamantine | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/adamantine</li><li>Can react in mob: Yes</li></ul>|
+|Slime Crystal | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/bluespace</li><li>Can react in mob: Yes</li></ul>|
+|Slime Steroid 2 | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/cerulean</li><li>Can react in mob: Yes</li></ul>|
+|Slime Stop | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/sepia</li><li>Can react in mob: Yes</li></ul>|
+|Slime Paint | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/pyrite</li><li>Can react in mob: Yes</li></ul>|
+|Random Core | <ul><li><a href="#Plasma">Plasma</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/rainbow</li><li>Can react in mob: Yes</li></ul>|
+|Metal Foam | <ul><li><a href="#Aluminium">Aluminium</a>: 3u</li><li><a href="#Foaming agent">Foaming agent</a>: 1u</li><li><a href="#Fluorosulfuric acid">Fluorosulfuric acid</a>: 1u</li></ul> | fill in manually |<ul> </ul>|
+|Smart Metal Foam | <ul><li><a href="#Aluminium">Aluminium</a>: 3u</li><li><a href="#Smart foaming agent">Smart foaming agent</a>: 1u</li><li><a href="#Fluorosulfuric acid">Fluorosulfuric acid</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Meth explosion | <ul><li><a href="#Diethylamine">Diethylamine</a>: 1u</li><li><a href="#Iodine">Iodine</a>: 1u</li><li><a href="#Phosphorus">Phosphorus</a>: 1u</li><li><a href="#Hydrogen">Hydrogen</a>: 1u</li></ul> | fill in manually |<ul> </ul>|
+|Solid Gold | <ul><li><a href="#Frost Oil">Frost Oil</a>: 5u</li><li><a href="#Gold">Gold</a>: 20u</li><li><a href="#Iron">Iron</a>: 1u</li></ul> | fill in manually |<ul> </ul>|
+|Soapification | <ul><li><a href="#Liquid gibs">Liquid gibs</a>: 10u</li><li><a href="#Lye">Lye</a>: 10u</li></ul> | fill in manually |<ul> </ul>|
+|Candlefication | <ul><li><a href="#Liquid gibs">Liquid gibs</a>: 5u</li><li><a href="#Oxygen">Oxygen</a>: 5u</li></ul> | fill in manually |<ul> </ul>|
+|Meatification | <ul><li><a href="#Liquid gibs">Liquid gibs</a>: 10u</li><li><a href="#Nutriment">Nutriment</a>: 10u</li><li><a href="#Carbon">Carbon</a>: 10u</li></ul> | fill in manually |<ul> </ul>|
+|Foam | <ul><li><a href="#Fluorosurfactant">Fluorosurfactant</a>: 1u</li><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> </ul>|
+|Life | <ul><li><a href="#Strange Reagent">Strange Reagent</a>: 1u</li><li><a href="#Synthflesh">Synthflesh</a>: 1u</li><li><a href="#Blood">Blood</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Life (Friendly) | <ul><li><a href="#Strange Reagent">Strange Reagent</a>: 1u</li><li><a href="#Synthflesh">Synthflesh</a>: 1u</li><li><a href="#Sugar">Sugar</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|LDM Vortex | <ul><li><a href="#Liquid Dark Matter">Liquid Dark Matter</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Nitroglycerin explosion | <ul><li><a href="#Nitroglycerin">Nitroglycerin</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Holy Explosion | <ul><li><a href="#Holy Water">Holy Water</a>: 1u</li><li><a href="#Potassium">Potassium</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Flight Potion | <ul><li><a href="#Holy Water">Holy Water</a>: 5u</li><li><a href="#Uranium">Uranium</a>: 5u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/rainbow</li><li>Can react in mob: Yes</li></ul>|
+|Black Powder Kaboom | <ul><li><a href="#Black Powder">Black Powder</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Meth explosion | <ul><li><a href="#Methamphetamine">Methamphetamine</a>: 1u</li></ul> | fill in manually |<ul> </ul>|
+|Teslium Destabilization | <ul><li><a href="#Teslium">Teslium</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Teslium Destabilization | <ul><li><a href="#Teslium">Teslium</a>: 1u</li><li><a href="#Water">Water</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|sorium_vortex | <ul><li><a href="#Sorium">Sorium</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Flash powder activation | <ul><li><a href="#Flash Powder">Flash Powder</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|smoke_powder_smoke | <ul><li><a href="#Smoke Powder">Smoke Powder</a>: 1u</li></ul> | fill in manually |<ul> </ul>|
+|sonic_powder_deafen | <ul><li><a href="#Sonic Powder">Sonic Powder</a>: 1u</li></ul> | fill in manually |<ul> <li>Can react in mob: Yes</li></ul>|
+|Clusterblorble | <ul><li><a href="#Slime Jelly">Slime Jelly</a>: 1u</li></ul> | fill in manually |<ul> <li>Required container: /obj/item/slime_extract/rainbow</li><li>Can react in mob: Yes</li></ul>|
 
 
