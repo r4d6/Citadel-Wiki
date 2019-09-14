@@ -661,7 +661,7 @@ These chems lie on the cutting edge of chemical technology, and as such are not 
 
 # CHEMICAL REACTIONS
 
-|Name | Reagents | Reaction vars | Description ||
+|Name | Reagents | Reaction vars | Description |
 |---|---|---|----------|
 |Goldschlager | <ul><li>Vodka: 10</li><li>Gold: 1</li></ul> | | fill in manually | Can react in mob: Yes|
 |Vodka Martini | <ul><li>Vodka: 2</li><li>Vermouth: 1</li></ul> | | fill in manually | Can react in mob: Yes|
