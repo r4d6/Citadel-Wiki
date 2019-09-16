@@ -22,11 +22,17 @@ You'll be surprised by what some people throw out! No, really: before it heads d
 
 - **Useful Items**: You may find things you wouldn't be able to get normally, even if you asked...
 
+- **Bounty Goods**: 
+
 ## Taking Orders - The Supply Console
 
 That's not to say you won't have to import goods every now and then - the kingdom of Cargonia serves the people of the station, not just themselves and CentCom.
 
-(picture of roundstart supply console interface) <>: Shows where the shuttle is located. Although it's easy to tell this just from looking outside...
+(picture of roundstart supply console interface)
+
+- <>: Shows where the shuttle is located. Although it's easy to tell this just from looking outside...
+
+- Pending Orders: Customer orders may feature a reason why they want what they ordered and will give you the option to approve or deny them. Orders put in by your department will automatically be loaded on the shuttle while it's at CentCom, unless cancelled or you lack the funds to purchase them.
 
 <MULEbot>
 
