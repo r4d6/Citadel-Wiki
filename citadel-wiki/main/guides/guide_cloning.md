@@ -6,3 +6,12 @@ Death is inevitable even in the 26th century, but unlike the days of old it isn'
 **A message from the gods:** "Those who return from the afterlife are not to take any newfound information with them. You may however recall everything from your past life, up to the point of blacking out/losing consciousness. See [Rule 5.5](https://katlin.dog/citadel-rules/main#rule-5-do-not-metagame).
 
 ## Die Another Day
+Modern Nanotrasen stations feature a state-of-the-art Cloning Room within their medbay, which is where you'll most likely carry out said task. The process is simple: insert the body in the DNA Scanner, close it, then consult the Cloning Console.
+<image>
+
+Press "Start Scan" - if successful, you'll then want to "View Records" and choose the person you wish to clone by selecting their record.
+
+[Special care]() should be taken when attempting to clone [Plasmamen](), 
+
+...the following checklist:
+- **Is the patient alive?** [Normally](), it isn't possible to clone a living person, but "prescanning" is one of the best ways you can ensure someone can be 
