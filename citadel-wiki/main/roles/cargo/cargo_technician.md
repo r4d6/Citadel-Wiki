@@ -31,8 +31,9 @@ That's not to say you won't have to import goods every now and then - the kingdo
 (picture of roundstart supply console interface)
 
 - <>: Shows where the shuttle is located. Although it's easy to tell this just from looking outside...
-
-- Pending Orders: Customer orders may feature a reason why they want what they ordered and will give you the option to approve or deny them. Orders put in by your department will automatically be loaded on the shuttle while it's at CentCom, unless cancelled or you lack the funds to purchase them.
+- Cart: Approved requests or orders made by your department show up here. They'll automatically be purchased and loaded onto the shuttle once called back from CentCom, unless cancelled or you lack the needed funds.
+- Requests: Orders put in by the crew will show up here, sometimes with a reason why. You can either approve or deny these requests.
+- Items: If you think you've seen more options than this before, ...
 
 <MULEbot>
 
@@ -60,3 +61,8 @@ If the rest of the crew isn't helping with bounties or you need more money than 
 There's also the perks of proper paperwork: although requisition forms primarily exist to show who ordered what and aren't terribly important (beyond rejecting orders right in front of someone's face), supply manifests (the papers that come on every crate you order) provide a small rebate when stamped correctly. Simply verify their accuracy (station name, crate contents, etc.) before stamping them accordingly and getting them on an outbound cargo shuttle. Make sure you used the right stamp - **filling manifests out incorrectly will result in a small reduction of funds**.
 
 If you're particularly desperate for funds and/or have time to kill, you can order Freelance Paperwork. Considering returning the crate and correctly stamped manifest equate to a full refund, it's basically free money - all you have to do is get out a pen and fill it all out yourself before shipping it back to CentCom.
+
+## Fission Mailed - Antagonist Tips
+When you're up to no good, controlling what gets on and off the station is a big deal.
+- As mentioned before, cargo is the station's only source of mindshields. If you're a [Cultist]() or (even better, a) Revolutionary, you'll want to ruin that as soon as you're a known threat.
+-Although nobody may bat an eye at hacking supply consoles, [emagging]() them is a different story. Make sure you dispose of any paperwork your Syndicate orders create.
