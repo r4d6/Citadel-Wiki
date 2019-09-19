@@ -64,5 +64,6 @@ If you're particularly desperate for funds and/or have time to kill, you can ord
 
 ## Fission Mailed - Antagonist Tips
 When you're up to no good, controlling what gets on and off the station is a big deal.
-- As mentioned before, cargo is the station's only source of mindshields. If you're a [Cultist]() or (even better, a) Revolutionary, you'll want to ruin that as soon as you're a known threat.
--Although nobody may bat an eye at hacking supply consoles, [emagging]() them is a different story. Make sure you dispose of any paperwork your Syndicate orders create.
+- As mentioned before, cargo is the station's only source of mindshields. If you're a [Cultist]() or (even better, a) [Revolutionary](), you'll want to ruin that as soon as you're a known threat.
+- Although nobody may bat an eye at hacking supply consoles, [emagging]() them is a different story. Make sure you dispose of any paperwork your Syndicate orders create.
+- Your department sees everything that goes through disposals, ...
