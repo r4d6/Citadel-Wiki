@@ -1,9 +1,9 @@
 Guide to Cloning
 ===
 
-Death is inevitable even in the 26th century, but unlike the days of old it isn't necessarily the end. When resuscitation fails, there is another option: **cloning**. Provided someone hasn't signed a DNR (Do Not Resuscitate) order and their ghost is still present (meaning the player hasn't disconnected or found a new life in a [ghost role]()), you'll be able to return them to the realm of the living.
+Death is inevitable even in the 26th century, but unlike the days of old it isn't necessarily the end. When resuscitation fails, there is another option: **cloning**. Provided someone hasn't signed a DNR, or "Do Not Resuscitate" order and their ghost is still present (meaning the player hasn't disconnected or found a new life in a [ghost role]()), you'll be able to return them to the realm of the living.
 
-**A message from the gods:** "Those who return from the afterlife are not to take any newfound information with them. You may however recall everything from your past life, up to the point of blacking out/losing consciousness. See [Rule 5.5](https://katlin.dog/citadel-rules/main#rule-5-do-not-metagame).
+**A message from the gods:** "Those who return from the afterlife are not to take any newfound information with them. You may however recall everything from your past life, up to the point of blacking out/losing consciousness. See [Rule 5.5](https://katlin.dog/citadel-rules/main#rule-5-do-not-metagame)."
 
 ## Die Another Day
 Modern Nanotrasen stations feature a state-of-the-art Cloning Room within their medbay, which is where you'll most likely carry out said task. 
@@ -35,9 +35,9 @@ Beyond that, there's also what each specific error code means:
 ## Ethical Difficulties - The Prototype Cloner
 Cloning is still a relatively new technology, but old prototype cloners can still be found amongst the cosmos. You may remember hearing that you can't clone someone who's already alive - as it turns out, there's good reason for that. Should you come across one these old prototypes, you'll find out precisely why.
 
-Although it can't be upgraded like modern cloners, it **will** produce clones of living persons, minus the genitalia. That's not the only issue, however: it might not act exactly like you since it isn't you. Your clone is controlled by another player. When a prototype clone is made, it puts out an offer to any ghosts present to become a "defective" clone. If none accept, it comes out as braindead as a [humanized monkey](). Antagonists should note that while possible, it's highly unlikely their clone will also be an antagonist, although it's even less likely that a non-antagonist's clone will be an antagonist.
+Although it can't be upgraded like modern cloners, it **will** produce clones of living persons, minus the genitalia. That's not the only issue, however: it might not act exactly like you since it isn't you. Your clone is controlled by another player. When a prototype clone is made, it puts out an offer to any ghosts present to become a "defective" clone. If none accept, it comes out as braindead as a [humanized monkey](). Antagonists should note that while possible, it's highly unlikely their clone will also be an antagonist - likewise, it's an equally small chance that a non-antagonist's clone will be an antagonist.
 
-**Another word from the gods:** Once again, you're not to take any knowledge from the afterlife back into the realm of the living. In the case of prototype cloners, the same goes for anything that happened during the round, even if the person you're a clone of experienced it firsthand.
+**Another word from the gods:** "Once again, you're not to take any knowledge from the afterlife back into the realm of the living. In the case of prototype cloners, the same goes for anything that happened during the round, even if the person you're a clone of experienced it firsthand."
 
 If you're a ghost and interested in being someone's defective clone but don't know them well enough or think you can do their character justice, don't worry! Most people are just happy to have a sentient clone and you're not meant to be a carbon copy of them anyway. You can try (but are no means limited to) some of the following gimmicks:
 - Strongly exaggerate what character traits you know they have (i.e. if you're Julio Steele, be the most stereotypical Mexican you can imagine)
