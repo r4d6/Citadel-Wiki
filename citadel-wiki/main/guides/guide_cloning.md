@@ -40,9 +40,13 @@ Unfortunately, the process isn't always straightforward.
 
 - **Subject no longer contains the fundamental materials required to create a living clone:** You've got a husk or someone that's otherwise taken too much damage and your cloner isn't upgraded enough to compensate. Remove their brain and scan that.
 
-- **Subject's brain is not responding to scanning stimuli.** Either they committed suicide or [made a deal with the devil](/citadel-wiki/main/roles/antagonist). They're gone, Jim.
+- **Subject's brain is not responding to scanning stimuli:** Either they committed suicide or [made a deal with the devil](/citadel-wiki/main/roles/antagonist). They're gone, Jim.
 
-There's also the possibility clones can come out improperly, particularly when the cloner isn't upgraded.
+- **Unable to initiate cloning cycle:** You shouldn't see this one - if you do, pray (or ahelp it) since cloning is out of the question.
+
+There's also the possibility clones can come out improperly, particularly when the cloner isn't upgraded. Power failures or [emags]() can eject clones prematurely, and they'll likely perish quickly unless they can get into a cryogenic tube. Even complete clones may want to look towards similar treatment if they come out with "cellular damage".
+
+Specifically with unupgraded cloners, people may be reborn with random (usually negative) [mutations](), although it's usually nothing mutadone and/or mannitol can't fix. Some may come out of the pod with [traumas](), which require [further medical attention]() to get rid of. There's even been cases of people coming back with a different gender, which while not quite on the level of brain surgery takes a lot more than pills to fix.
 
 ## Ethical Difficulties - The Prototype Cloner
 Cloning is still a relatively new technology, but old prototype cloners can still be found amongst the cosmos. You may remember hearing that you can't clone someone who's already alive - as it turns out, there's good reason for that. Should you come across one these old prototypes, you'll find out precisely why.
