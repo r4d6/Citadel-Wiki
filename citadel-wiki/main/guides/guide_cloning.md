@@ -8,11 +8,11 @@ Death is inevitable even in the 26th century, but unlike the days of old it isn'
 ## Die Another Day
 Modern Nanotrasen stations feature a state-of-the-art Cloning Room within their medbay, which is where you'll most likely carry out said task. The more of the person you can bring in the better, but the bare minimum required is their brain.
 
-Although primarily intended to bring back the deceased, you may find living crew itching to get scanned, particularly those in high-risk jobs such as [Shaft Miners]() or [Security Officers](). In the Citadel sector of space it's on you to provide a reason for someone not to be scanned, as opposed to them proving they're worthy of being scanned, so odds are you should just scan them. It won't let you create a living copy of them then and there, but these "pre-scans" nearly ensure they can be cloned later if need be - odds are they'll be in better shape now than they would be coming in later. **Whether dead or alive, the process is the same:** insert the person in the DNA Scanner, close it, then consult the Cloning Console.
+Although primarily intended to bring back the deceased, you may find living crew itching to get scanned, particularly those in high-risk jobs such as [Shaft Miners](/citadel-wiki/main/roles/cargo/shaft_miner.md) or [Security Officers](/citadel-wiki/main/roles/security/security_officer.md). In the Citadel sector of space it's on you to provide a reason for someone not to be scanned, as opposed to them proving they're worthy of being scanned, so odds are you should just scan them. It won't let you create a living copy of them then and there, but these "pre-scans" nearly ensure they can be cloned later if need be - odds are they'll be in better shape now than they would be coming in later. **Whether dead or alive, the process is the same:** insert the person in the DNA Scanner, close it, then consult the Cloning Console.
 
-Press "Start Scan" - it'll tell you if the scan succeeded. Sometimes you may need to "Refresh" it first. When it's time to bring someone back, you'll want to "View Records" and choose the person you wish to clone by selecting their record. You could delete them too, but it isn't often you're going to outside of dealing with [antagonists]().
+Press "Start Scan" - it'll tell you if the scan succeeded. Sometimes you may need to "Refresh" it first. When it's time to bring someone back, you'll want to "View Records" and choose the person you wish to clone by selecting their record. You could delete them too, but it isn't often you're going to outside of dealing with [antagonists](/citadel-wiki/main/roles/antagonist).
 
-If the Cloning Pod turns green and something starts to form inside it, you've got a clone en route! If you happen to have their body, you may want to strip it and place their belongings together for their clone to collect, otherwise you can let the clone do the dirty work. Regardless, you should dispose of their old body in the morgue once they're back up on their feet, along with marking it cloned so the [Chaplain]() can deal with it.
+If the Cloning Pod turns green and something starts to form inside it, you've got a clone en route! If you happen to have their body, you may want to strip it and place their belongings together for their clone to collect, otherwise you can let the clone do the dirty work. Regardless, you should dispose of their old body in the morgue once they're back up on their feet, along with marking it cloned so the [Chaplain](/citadel-wiki/main/roles/civillian/chaplain.md) can deal with it.
 
 ## Technical Dilemmas
 Unfortunately, the process isn't always straightforward. If you find yourself unable to clone someone, consult the following checklist:
@@ -21,15 +21,25 @@ Unfortunately, the process isn't always straightforward. If you find yourself un
 
 - **Are they a husk?** If their corpse is particularly grey and groaty, they may have been husked. Unless your cloner is upgraded, you may need to surgically remove the brain and scan that. If that doesn't work, you may well have a victim of a [changeling]() and there's nothing you can do.
 
-- **Are they headless or without a brain?** See if you can get a blood sample if you don't already have one. If so, get the blood and body to botany - [it's their problem now](). Otherwise, they're staying six feet under.
+- **Are they headless or without a brain?** See if you can get a blood sample if you don't already have one. If so, get the blood and body to botany - [it's their problem now](/citadel-wiki/main/roles/service/botanist.md). Otherwise, they're staying six feet under.
 
-- **Do you know exactly how they were killed?** Although it's impossible to be certain unless you were a witness (or even their murderer), if you know they were husked by a changeling, sharded by a [blood cultist](), or took their own life, they aren't coming back.
+- **Do you know exactly how they were killed?** Although it's impossible to be certain unless you were a witness (or even their murderer), if you know they were husked by a changeling, sharded by a [blood cultist](/citadel-wiki/main/roles/antagonist), or took their own life, they aren't coming back.
 
-- **Have you tried more than once?** Ghosts aren't always aware of what's going on with their old body right away. Some may need time to make their way back to it...
+- **Have you tried more than once?** Ghosts aren't always aware of what's going on with their old body right away. Some may need time to make their way back to it.
 
-Beyond that, there's also what each specific error code means:
+Beyond that there's also what each specific error code means, past the blatantly obvious ones:
 
 - **Initialisation failure:** They ain't dead yet, or their ghost is trapped somewhere.
+
+- **Mental interface failure** A fairly common one, it just means their ghost isn't nearby. Sometimes all it takes is a few more tries, but if that doesn't work you can assume the worst.
+
+- **Unable to locate valid genetic data:** You can't clone non-humanoids - talk to mining about getting a Lazarus Injector instead.
+
+- **Subject no longer contains the fundamental materials required to create a living clone:** You've got a husk or someone that's otherwise taken too much damage and your cloner isn't upgraded enough to compensate. Remove their brain and scan that.
+
+- **Subject's brain is not responding to scanning stimuli.** Either they committed suicide or [made a deal with the devil](/citadel-wiki/main/roles/antagonist). They're gone, Jim.
+
+
 
 -people not coming out of unupgraded cloners right
 
