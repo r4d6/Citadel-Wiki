@@ -6,13 +6,13 @@ Death is inevitable even in the 26th century, but unlike the days of old it isn'
 **A message from the gods:** "Those who return from the afterlife are not to take any newfound information with them. You may however recall everything from your past life, up to the point of blacking out/losing consciousness. See [Rule 5.5](https://katlin.dog/citadel-rules/main#rule-5-do-not-metagame)."
 
 ## Die Another Day
-Modern Nanotrasen stations feature a state-of-the-art Cloning Room within their medbay, which is where you'll most likely carry out said task. 
+Modern Nanotrasen stations feature a state-of-the-art Cloning Room within their medbay, which is where you'll most likely carry out said task. The more of the person you can bring in the better, but the bare minimum required is their brain.
 
 Although primarily intended to bring back the deceased, you may find living crew itching to get scanned, particularly those in high-risk jobs such as [Shaft Miners]() or [Security Officers](). In the Citadel sector of space it's on you to provide a reason for someone not to be scanned, as opposed to them proving they're worthy of being scanned, so odds are you should just scan them. It won't let you create a living copy of them then and there, but these "pre-scans" nearly ensure they can be cloned later if need be - odds are they'll be in better shape now than they would be coming in later. **Whether dead or alive, the process is the same:** insert the person in the DNA Scanner, close it, then consult the Cloning Console.
 
 Press "Start Scan" - it'll tell you if the scan succeeded. Sometimes you may need to "Refresh" it first. When it's time to bring someone back, you'll want to "View Records" and choose the person you wish to clone by selecting their record. You could delete them too, but it isn't often you're going to outside of dealing with [antagonists]().
 
-If the Cloning Pod turns green and something starts to form inside it, you've got a clone en route! If you have their body, you should prepare a body bag...
+If the Cloning Pod turns green and something starts to form inside it, you've got a clone en route! If you happen to have their body, you may want to strip it and place their belongings together for their clone to collect, otherwise you can let the clone do the dirty work. Regardless, you should dispose of their old body in the morgue once they're back up on their feet, along with marking it cloned so the [Chaplain]() can deal with it.
 
 ## Technical Dilemmas
 Unfortunately, the process isn't always straightforward. If you find yourself unable to clone someone, consult the following checklist:
@@ -29,6 +29,7 @@ Unfortunately, the process isn't always straightforward. If you find yourself un
 
 Beyond that, there's also what each specific error code means:
 
+- **Initialisation failure:** They ain't dead yet, or their ghost is trapped somewhere.
 
 -people not coming out of unupgraded cloners right
 
