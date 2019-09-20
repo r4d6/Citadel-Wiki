@@ -17,7 +17,7 @@ If the Cloning Pod turns green and something starts to form inside it, you've go
 ## Technical Dilemmas
 Unfortunately, the process isn't always straightforward. If you find yourself unable to clone someone, consult the following checklist:
 
-- Are they alive? [Normally](), it isn't possible to clone a living person, but as mentioned earlier the act of prescanning will all but ensure they can be cloned if needed.
+- Are they alive? [Normally](#ethical-difficulties---the-prototype-cloner), it isn't possible to clone a living person, but as mentioned earlier the act of prescanning will all but ensure they can be cloned if needed.
 
 - Are they a husk? If their corpse is particularly grey and groaty, they may have been husked. Unless your cloner is upgraded, you may need to surgically remove the brain and scan that. If that doesn't work, you may well have a victim of a [changeling]() and there's nothing you can do.
 
