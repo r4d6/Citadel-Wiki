@@ -47,7 +47,7 @@ There's also the possibility clones can come out improperly, particularly when t
 ## Ethical Difficulties - The Prototype Cloner
 Cloning is still a relatively new technology, but old prototype cloners can still be found amongst the cosmos. You may remember hearing that you can't clone someone who's already alive - as it turns out, there's good reason for that. Should you come across one these old prototypes, you'll find out precisely why.
 
-
+![alt text](https://raw.githubusercontent.com/EmeraldSundisk/Citadel-Wiki/master/citadel-wiki-static/cakevapechasecropped.png "Prototype clones can quite different from the person they're a clone of.")
 
 Although it can't be upgraded like modern cloners, it **will** produce clones of living persons, minus the genitalia. That's not the only issue, however: it might not act exactly like you since it isn't you. Your clone is controlled by another player. When a prototype clone is made, it puts out an offer to any ghosts present to become a "defective" clone. If none accept, it comes out as braindead as a [humanized monkey](). Antagonists should note that while possible, it's highly unlikely their clone will also be an antagonist - likewise, it's an equally small chance that a non-antagonist's clone will be an antagonist.
 
