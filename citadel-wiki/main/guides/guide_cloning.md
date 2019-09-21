@@ -6,9 +6,9 @@ Death is inevitable even in the 26th century, but unlike the days of old it isn'
 **A message from the gods:** *"Those who return from the afterlife are not to take any newfound information with them. You may however recall everything from your past life, up to the point of blacking out/losing consciousness. See [Rule 5.5](https://katlin.dog/citadel-rules/main#rule-5-do-not-metagame)."*
 
 ## Die Another Day
-Modern Nanotrasen stations feature a state-of-the-art Cloning Room within their medbay, which is where you'll most likely carry out said task. The more of the person you can bring in the better, but the bare minimum required is their brain.
+Modern Nanotrasen stations feature a state-of-the-art Cloning Room within their medbay, which is where you'll most likely carry out said task. The more of the person you can bring in the better, but **the bare minimum required is their brain**.
 
-Although primarily intended to bring back the deceased, you may find living crew itching to get scanned, particularly those in high-risk jobs such as [Shaft Miners](/citadel-wiki/main/roles/cargo/shaft_miner.md) or [Security Officers](/citadel-wiki/main/roles/security/security_officer.md). In the Citadel sector of space it's on you to provide a reason for someone not to be scanned, as opposed to them proving they're worthy of being scanned, so odds are you should just scan them. It won't let you create a living copy of them then and there, but these "pre-scans" nearly ensure they can be cloned later if need be - odds are they'll be in better shape now than they would be coming in later. **Whether dead or alive, the process is the same:** insert the person in the DNA Scanner, close it, then consult the Cloning Console.
+Although primarily intended to bring back the deceased, you may find living crew itching to get scanned, particularly those in high-risk jobs such as [Shaft Miners](/citadel-wiki/main/roles/cargo/shaft_miner.md) or [Security Officers](/citadel-wiki/main/roles/security/security_officer.md). In the Citadel sector of space **it's on you to provide a reason for someone not to be scanned**, as opposed to them proving they're worthy of being scanned, so odds are you should just scan them. It won't let you create a living copy of them then and there, but these "pre-scans" nearly ensure they can be cloned later if need be - odds are they'll be in better shape now than they would be coming in later. **Whether dead or alive, the process is the same:** insert the person in the DNA Scanner, close it, then consult the Cloning Console.
 
 
 
@@ -16,8 +16,16 @@ Press "Start Scan" - it'll tell you if the scan succeeded. Sometimes you may nee
 
 If the Cloning Pod turns green and something starts to form inside it, you've got a clone en route! If you happen to have their body, you may want to strip it and place their belongings together for their clone to collect, otherwise you can let the clone do the dirty work. Regardless, you should dispose of their old body in the morgue once they're back up on their feet, along with marking it cloned so the [Chaplain](/citadel-wiki/main/roles/civillian/chaplain.md) can deal with it.
 
+#### [Plasmamen]() in particular require special procedures when it comes to cloning:
+
+- If they get prescanned, look into getting a spare Plasmaman Suit as soon as possible. They may be ready to be cloned before their original body is found.
+
+- You'll want them under a shower as soon as they come out of the cloning pod, especially if you don't have a spare plasmaman suit in hand. Unfortunately, not every station you'll be working on had the foresight to place one nearby.
+
+- If they don't have a suit, they'll need a way to breathe while stuck in the shower
+
 ## Technical Dilemmas
-Unfortunately, the process isn't always straightforward.
+Unfortunately, the cloning process isn't always a straightforward one.
 #### If you find yourself unable to clone someone, consult the following checklist:
 
 - **Are they alive?** [Normally](#ethical-difficulties---the-prototype-cloner), it isn't possible to clone a living person, but as mentioned earlier the act of prescanning will all but ensure they can be cloned if needed.
