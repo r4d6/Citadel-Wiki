@@ -800,5 +800,3 @@ These chems lie on the cutting edge of chemical technology, and as such are not 
 |smoke_powder_smoke | <ul><li><a href="#Smoke Powder">Smoke Powder</a>: 1u</li></ul> | <ul><li>Min react temp: 374K</li></ul>| fill in manually <ul>|
 |sonic_powder_deafen | <ul><li><a href="#Sonic Powder">Sonic Powder</a>: 1u</li></ul> | <ul><li>Min react temp: 374K</li><li>Can react in mob: Yes</li></ul>| fill in manually <ul>|
 |Clusterblorble | <ul><li><a href="#Slime Jelly">Slime Jelly</a>: 1u</li></ul> | <ul><li>Required container: /obj/item/slime_extract/rainbow</li><li>Can react in mob: Yes</li></ul>| fill in manually <ul>|
-
-
