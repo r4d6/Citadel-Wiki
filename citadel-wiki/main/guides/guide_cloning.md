@@ -18,11 +18,11 @@ If the Cloning Pod turns green and something starts to form inside it, you've go
 
 #### [Plasmamen]() in particular require special procedures when it comes to cloning:
 
-- If they get prescanned, look into getting a spare Plasmaman Suit as soon as possible. They may be ready to be cloned before their original body is found.
+- If they get prescanned, look into getting a spare Plasmaman Suit as soon as possible. They may be ready to be cloned before their original body is found, so talk to the cargo department if needed.
 
-- You'll want them under a shower as soon as they come out of the cloning pod, especially if you don't have a spare plasmaman suit in hand. Unfortunately, not every station you'll be working on had the foresight to place one nearby.
+- You'll want them under a shower as soon as they come out of the cloning pod, especially if you don't have a spare plasmaman suit on hand. Unfortunately, not every station you'll be working on had the foresight to place one nearby.
 
-- If they don't have a suit, they'll need a way to breathe while stuck in the shower
+- If they don't have a suit, they'll need a way to breathe while stuck in the shower. [Salbutamol](/citadel-wiki/main/guides/guide_chemistry.md#salbutamol) will stave off suffocation damage, in the meantime engineering may be able to get you a plasma tank more quickly than cargo can get you a suit.
 
 ## Technical Dilemmas
 Unfortunately, the cloning process isn't always a straightforward one.
