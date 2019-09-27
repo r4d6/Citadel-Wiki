@@ -52,7 +52,7 @@ Unfortunately, the cloning process isn't always a straightforward one.
 
 - **Unable to initiate cloning cycle:** You shouldn't see this one - if you do, pray (or ahelp it) since cloning is out of the question.
 
-There's also the possibility clones can come out improperly, particularly when the cloner isn't upgraded. Power failures or [emags]() can eject clones prematurely, and they'll likely perish quickly unless they can get into a cryogenic tube. Even complete clones may want to look towards similar treatment if they come out with "cellular damage".
+There's also the possibility **clones can come out improperly**, particularly when the cloner isn't upgraded. Power failures or [emags]() can eject clones prematurely, and they'll likely perish quickly unless they can get into a cryogenic tube. Even complete clones may want to look towards similar treatment if they come out with "cellular damage".
 
 Specifically with unupgraded cloners, people may be reborn with random (usually negative) [mutations](), although it's usually nothing mutadone and/or mannitol can't fix. Some may come out of the pod with [traumas](), which require [further medical attention]() to get rid of. There's even been cases of people coming back with a different gender, which while not quite on the level of brain surgery takes a lot more than pills to fix.
 
