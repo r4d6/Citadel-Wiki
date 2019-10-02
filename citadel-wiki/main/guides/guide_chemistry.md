@@ -203,7 +203,81 @@
 
 # FERMI
 
-These chems lie on the cutting edge of chemical technology, and as such are not recommended for beginners!
+These chems lie on the cutting edge of chemical technology, and as such are not recommended for beginners! A quick overview of the chems are (MKUltra to come):
+### <a href="#Eigenstasium"> Eigenstasium</a>
+**Normal use:** When the chem is created, it saves the creation location.
+If the chem is of a high purity, upon ingestion it teleports the patient to the creation location. If it’s below that, it doesn’t.
+Regardless of purity, it will place a split version of the patient in the return location, to signify where the patient’ll return. 
+When the chem has finished metabolising, it teleports the patient back to the location the patient took it.
+
+**Overdose:** Teleports the patient around the station randomly. Whee!
+
+**Addiction:** There are several things known from Eigenstasium addiction:
+1. Makes the patient hungry.
+2. Makes the patient jittery.
+2. Teleports items off the patient.
+3. Phases in clones from alternative dimentions.
+
+**Lockers:** When sprayed on 2 or more lockers it links them together, letting the user enter one and exit out the next in sequence. if 3 lockers: 1 > 2 > 3 > 1 > 2, etc. For 2, it is a simple 1 > 2 > 1 > 2, etc.
+
+### <a href="#Astrogen"> Astrogen</a>
+**Normal use:** Creates an astral projection of the patient, transferring their mind into it, letting them roam around the station quickly. The projection can try to interact with other people like this, letting them project a message into their mind. If the patient click the patientrself, the patient can return to their body after the initall dose settles. If the patient attempts to interact with someone else with astrogen in their system it lets the patient possess them provided they continue to have astrogen to support the link!
+
+**Floor:** Turns the floor transparent!
+
+**Bedsheets:** Turns bedsheets into a cosmic variant.
+
+**Addiction:** Patients who have developed an addiction slowly phase out of existance over a period of roughly 60 minutes. In extreme cases, they are never seen again. It is highly recommended to give patients with an addition a low dose to keep their fate at bay.
+
+### <a href="#Hatmium"> Hat growth serium</a>
+**Normal use:** Spawns a hat on the patient's head, with slowly increasing strength as it metabolises. Makes the patient say fun phrases when they speak, and renders them unable to remove it by themselves, instead opting to tip their hat.
+
+**Overdose:** Weakens the hat instead.
+
+**Purity:** Strength gain is equal to purity for both OD and otherwise.
+
+**When dropped:** The hat gets mad and attacks! But it does very little damage.
+
+**Explosion:** A buncha angry hats accompanied with rooting tooting phrases attack!
+
+### <a href="#Naninte bane"> Nanite bane</a>
+**Normal use:**  Reduces the nanite volume of a person (if they have nanites), equal to purity.
+
+**OD:** Small chance to electrocute and cause an EMP on the person and drains nanites faster.
+
+**Inverted chem:** Chance to electrocute and cause an EMP on the person, but doesn’t drain nanites, and metabolises faster.
+
+**Sprayed:** Causes an single small EMP when sprayed.
+
+### <a href="#synthetic-derived growth factor"> Synthetic-derived growth factor</a>
+**Normal use:** Creates a clone of the patient, Requires around 20u to make a healthy clone, Inoptimal volumes cause damage on the clone, or failure to clone alltogether.
+Clones have been observed to either have mental awareness right after cloning, or for said mental activity to restore after a period of time.
+
+**Impure chem:**Damages the patient's cells.
+
+**Inverse chem:**
+Attempts to make a clone, but clones are often turned into horrible mindless monstrosities, often attacking right after the process is complete.
+
+**Explosion:**
+Spawns horrifying teratomas.
+
+### <a href="#Furranium"> Furranium</a>
+**Normal use:**
+Makes people speak with a certain inflection, if highly pure, the tongue will need to be treated with Yamerol.
+
+### <a href="#Yamerol"> Yamerol</a>
+**Normal use:**
+Reverts Furranium dosing, and soothes lung and tongue damage.
+
+**Overdose:**
+Reforms critical lungs and tongues (for now).
+
+**Impure chem:**
+Causes oxygen, lung and tongue damage. If the patient has no lungs, it will rapidly cause problems.
+
+### Buffers: <a href="#Acidic buffer"> Acidic buffer</a> or <a href="#Basic buffer"> Basic buffer</a>
+**Normal use:**
+Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self consumes (i.e. deletes itself) from the beaker if the beaker has reagents, and the beaker doesn’t have stabilising agent.
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -212,7 +286,7 @@ These chems lie on the cutting edge of chemical technology, and as such are not 
 |<a href="#Succubus milk"><h5 id="Succubus milk">![#E60584](https://placehold.it/15/E60584/000000?text=+)Succubus milk</h5></a> pH: 7 | <ul><li><a href="#Saline-Glucose Solution">Saline-Glucose Solution</a>: 0.1u</li><li><a href="#Milk">Milk</a>: 0.1u</li><li><a href="#Synthflesh">Synthflesh</a>: 0.2u</li><li><a href="#Silicon">Silicon</a>: 0.3u</li><li><a href="#Crocin">Crocin</a>: 0.3u</li></ul> | <ul><li>Min react temp: 200K</li> <li>Explosion_temp: 900K</li> <li>pH range: 3 to 13</li> <li>Exothermic</li> </ul>| A volatile collodial mixture derived from milk that encourages mammary production via a potent estrogen mix. | <ul><li>Metabolism_rate: 0.125u/s</li> <li>Overdose: 17u</li>  <li>Impure chem:<a href="#Modesty milk">Modesty milk</a></li><li>Inverse chem:<a href="#Modesty milk">Modesty milk</a></li> <li>Minimum purity: 0.1</li> <li>Special explosion: Yes</li></ul>|
 |<a href="#Incubus draft"><h5 id="Incubus draft">![#888888](https://placehold.it/15/888888/000000?text=+)Incubus draft</h5></a> pH: 7 | <ul><li><a href="#Blood">Blood</a>: 0.5u</li><li><a href="#Synthflesh">Synthflesh</a>: 0.2u</li><li><a href="#Carbon">Carbon</a>: 0.2u</li><li><a href="#Crocin">Crocin</a>: 0.2u</li><li><a href="#Saline-Glucose Solution">Saline-Glucose Solution</a>: 0.1u</li></ul> | <ul><li>Min react temp: 200K</li> <li>Explosion_temp: 900K</li> <li>pH range: 0 to 9</li> <li>Exothermic</li> </ul>| A volatile collodial mixture derived from various masculine solutions that encourages a larger gentleman's package via a potent testosterone mix, formula derived from a collaboration from Fermichem  and Doctor Ronald Hyatt, who is well known for his phallus palace. | <ul><li>Metabolism_rate: 0.25u/s</li> <li>Overdose: 17u</li>  <li>Impure chem:<a href="#Chastity draft">Chastity draft</a></li><li>Inverse chem:<a href="#Chastity draft">Chastity draft</a></li> <li>Minimum purity: 0.1</li> <li>Special explosion: Yes</li></ul>|
 |<a href="#Hat growth serium"><h5 id="Hat growth serium">![#7c311a](https://placehold.it/15/7c311a/000000?text=+)Hat growth serium</h5></a> pH: 4 | <ul><li><a href="#Ethanol">Ethanol</a>: 0.1u</li><li><a href="#Nutriment">Nutriment</a>: 0.3u</li><li><a href="#Cooking Oil">Cooking Oil</a>: 0.2u</li><li><a href="#Iron">Iron</a>: 0.1u</li><li><a href="#Gold">Gold</a>: 0.3u</li></ul> | <ul><li>Min react temp: 500K</li> <li>Explosion_temp: 750K</li> <li>pH range: 0 to 8</li> <li>Endothermic</li> </ul>| A strange substance that draws in a hat from the hat dimention. | <ul><li>Metabolism_rate: 0.1u/s</li> <li>Overdose: 25u</li>  <li>Minimum purity: 0.5</li> <li>Special explosion: Yes</li></ul>|
-|<a href="#Furranium"><h5 id="Furranium">![#f9b9bc](https://placehold.it/15/f9b9bc/000000?text=+)Furranium</h5></a> pH: 5 | <ul><li><a href="#Crocin">Crocin</a>: 0.1u</li><li><a href="#catnip">catnip</a>: 0.1u OR Moonsugar: 0.1u</li><li><a href="#Silver">Silver</a>: 0.2u</li><li><a href="#Saline-Glucose Solution">Saline-Glucose Solution</a>: 0.1u</li></ul> | <ul><li>Min react temp: 350K</li> <li>Explosion_temp: 700K</li> <li>pH range: 6 to 12</li> <li>Extremely endothermic</li> </ul>| OwO whats this? | <ul><li>Metabolism_rate: 0.1u/s</li>   <li>Minimum purity: 0.3</li> </ul>|
+|<a href="#Furranium"><h5 id="Furranium">![#f9b9bc](https://placehold.it/15/f9b9bc/000000?text=+)Furranium</h5></a> pH: 5 | <ul><li><a href="#Crocin">Crocin</a>: 0.1u</li><li><a href="#catnip">catnip</a>: 0.1u OR <a href="#Moonsugar">Moonsugar</a>: 0.1u</li><li><a href="#Silver">Silver</a>: 0.2u</li><li><a href="#Saline-Glucose Solution">Saline-Glucose Solution</a>: 0.1u</li></ul> | <ul><li>Min react temp: 350K</li> <li>Explosion_temp: 700K</li> <li>pH range: 6 to 12</li> <li>Extremely endothermic</li> </ul>| OwO whats this? | <ul><li>Metabolism_rate: 0.1u/s</li>   <li>Minimum purity: 0.3</li> </ul>|
 |<a href="#Naninte bane"><h5 id="Naninte bane">![#708f8f](https://placehold.it/15/708f8f/000000?text=+)Naninte bane</h5></a> pH: 9 | <ul><li><a href="#Synthflesh">Synthflesh</a>: 1u</li><li><a href="#Uranium">Uranium</a>: 1u</li><li><a href="#Iron">Iron</a>: 1u</li><li><a href="#Saline-Glucose Solution">Saline-Glucose Solution</a>: 1u</li></ul> | <ul><li>Min react temp: 500K</li> <li>Explosion_temp: 700K</li> <li>pH range: 3 to 9.25</li> <li>Very exothermic</li> </ul>| A stablised EMP that is highly volatile, shocking small nano machines that will kill them off at a rapid rate in a patient's system. | <ul><li>Metabolism_rate: 0.2u/s</li> <li>Overdose: 15u</li>  <li>Impure chem:<a href="#Electromagnetic crystals">Electromagnetic crystals</a></li><li>Inverse chem:<a href="#Electromagnetic crystals">Electromagnetic crystals</a></li> <li>Minimum purity: 0.15</li> </ul>|
 |<a href="#Acidic buffer"><h5 id="Acidic buffer">![#fbc314](https://placehold.it/15/fbc314/000000?text=+)Acidic buffer</h5></a> pH: 0 | <ul><li><a href="#Saline-Glucose Solution">Saline-Glucose Solution</a>: 0.2u</li><li><a href="#Ethanol">Ethanol</a>: 0.6u</li><li><a href="#Oxygen">Oxygen</a>: 0.6u</li><li><a href="#Water">Water</a>: 0.6u</li></ul> | <ul><li>Min react temp: 250K</li> <li>Explosion_temp: 9999K</li> <li>pH range: 2 to 6</li> <li>Neutral</li> </ul>| This reagent will consume itself and move the pH of a beaker towards acidity when added to another. | <ul><li>Metabolism_rate: 0.2u/s</li>   <li>Minimum purity: 0.15</li> </ul>|
 |<a href="#Basic buffer"><h5 id="Basic buffer">![#3853a4](https://placehold.it/15/3853a4/000000?text=+)Basic buffer</h5></a> pH: 14 | <ul><li><a href="#Acidic buffer">Acidic buffer</a>: 0.5u</li><li><a href="#Ethanol">Ethanol</a>: 0.5u</li><li><a href="#Water">Water</a>: 0.5u</li><li>Catalyst: <a href="#Sulphuric acid">Sulphuric acid</a>: 1u</li></ul> | <ul><li>Min react temp: 250K</li> <li>Explosion_temp: 9999K</li> <li>pH range: 5 to 12</li> <li>Neutral</li> </ul>| This reagent will consume itself and move the pH of a beaker towards alkalinity when added to another. | <ul><li>Metabolism_rate: 0.2u/s</li>   <li>Minimum purity: 0.15</li> </ul>|
