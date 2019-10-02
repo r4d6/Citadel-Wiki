@@ -231,7 +231,7 @@ When the chem has finished metabolising, it teleports the patient back to the lo
 
 **Addiction:** Patients who have developed an addiction slowly phase out of existance over a period of roughly 60 minutes. In extreme cases, they are never seen again. It is highly recommended to give patients with an addition a low dose to keep their fate at bay.
 
-### <a href="#Hatmium"> Hatmium</a>
+### <a href="#Hatmium"> Hat growth serium</a>
 **Normal use:** Spawns a hat on the patient's head, with slowly increasing strength as it metabolises. Makes the patient say fun phrases when they speak, and renders them unable to remove it by themselves, instead opting to tip their hat.
 
 **Overdose:** Weakens the hat instead.
