@@ -206,7 +206,7 @@
 # FERMI
 
 These chems lie on the cutting edge of chemical technology, and as such are not recommended for beginners! A quick overview of the chems are (MKUltra to come):
-### <a href="#Eigenstasium">Eigenstasium</a>
+### <a href="#Eigenstasium"> Eigenstasium</a>
 **Normal use:** When the chem is created, it saves the creation location.
 If the chem is of a high purity, upon ingestion it teleports the patient to the creation location. If it’s below that, it doesn’t.
 Regardless of purity, it will place a split version of the patient in the return location, to signify where the patient’ll return. 
@@ -222,7 +222,7 @@ When the chem has finished metabolising, it teleports the patient back to the lo
 
 **Lockers:** When sprayed on 2 or more lockers it links them together, letting the user enter one and exit out the next in sequence. if 3 lockers: 1 > 2 > 3 > 1 > 2, etc. For 2, it is a simple 1 > 2 > 1 > 2, etc.
 
-### <a href="#Astrogen">Astrogen</a>
+### <a href="#Astrogen"> Astrogen</a>
 **Normal use:** Creates an astral projection of the patient, transferring their mind into it, letting them roam around the station quickly. The projection can try to interact with other people like this, letting them project a message into their mind. If the patient click the patientrself, the patient can return to their body after the initall dose settles. If the patient attempts to interact with someone else with astrogen in their system it lets the patient possess them provided they continue to have astrogen to support the link!
 
 **Floor:** Turns the floor transparent!
@@ -231,7 +231,7 @@ When the chem has finished metabolising, it teleports the patient back to the lo
 
 **Addiction:** Patients who have developed an addiction slowly phase out of existance over a period of roughly 60 minutes. In extreme cases, they are never seen again. It is highly recommended to give patients with an addition a low dose to keep their fate at bay.
 
-### <a href="#Hatmium">Hatmium</a>
+### <a href="#Hatmium"> Hatmium</a>
 **Normal use:** Spawns a hat on the patient's head, with slowly increasing strength as it metabolises. Makes the patient say fun phrases when they speak, and renders them unable to remove it by themselves, instead opting to tip their hat.
 
 **Overdose:** Weakens the hat instead.
@@ -242,7 +242,7 @@ When the chem has finished metabolising, it teleports the patient back to the lo
 
 **Explosion:** A buncha angry hats accompanied with rooting tooting phrases attack!
 
-### <a href="#Naninte bane">Nanite bane</a>
+### <a href="#Naninte bane"> Nanite bane</a>
 **Normal use:**  Reduces the nanite volume of a person (if they have nanites), equal to purity.
 
 **OD:** Small chance to electrocute and cause an EMP on the person and drains nanites faster.
@@ -251,7 +251,7 @@ When the chem has finished metabolising, it teleports the patient back to the lo
 
 **Sprayed:** Causes an single small EMP when sprayed.
 
-### <a href="#synthetic-derived growth factor">Synthetic-derived growth factor</a>
+### <a href="#synthetic-derived growth factor"> Synthetic-derived growth factor</a>
 **Normal use:** Creates a clone of the patient, Requires around 20u to make a healthy clone, Inoptimal volumes cause damage on the clone, or failure to clone alltogether.
 Clones have been observed to either have mental awareness right after cloning, or for said mental activity to restore after a period of time.
 
@@ -263,11 +263,11 @@ Attempts to make a clone, but clones are often turned into horrible mindless mon
 **Explosion:**
 Spawns horrifying teratomas.
 
-### <a href="#Furranium">Furranium</a>
+### <a href="#Furranium"> Furranium</a>
 **Normal use:**
 Makes people speak with a certain inflection, if highly pure, the tongue will need to be treated with Yamerol.
 
-### <a href="#Yamerol">Yamerol</a>
+### <a href="#Yamerol"> Yamerol</a>
 **Normal use:**
 Reverts Furranium dosing, and soothes lung and tongue damage.
 
@@ -277,7 +277,7 @@ Reforms critical lungs and tongues (for now).
 **Impure chem:**
 Causes oxygen, lung and tongue damage. If the patient has no lungs, it will rapidly cause problems.
 
-### Buffers: <a href="#Acidic buffer">Acidic buffer</a> or <a href="#Basic buffer">Basic buffer</a>
+### Buffers: <a href="#Acidic buffer"> Acidic buffer</a> or <a href="#Basic buffer"> Basic buffer</a>
 **Normal use:**
 Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self consumes (i.e. deletes itself) from the beaker if the beaker has reagents, and the beaker doesn’t have stabilising agent.
 
