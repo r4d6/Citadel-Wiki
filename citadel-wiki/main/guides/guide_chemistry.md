@@ -210,99 +210,120 @@ These chems lie on the cutting edge of chemical technology, and as such are not 
 **Normal use**
 
 When the chem is created, it saves the creation location.
-If the purity is over 0.9, upon ingestion it teleports you to the creation location. If it’s below that, it doesn’t.
-Regardless of purity, it will place a hologram of you in the return location, to signify to other people where you’ll return. 
-When the chem has finished metabolising, it teleports you back to the location you took it.
+If the chem is of a high purity, upon ingestion it teleports the patient to the creation location. If it’s below that, it doesn’t.
+Regardless of purity, it will place a split version of the patient in the return location, to signify where the patient’ll return. 
+When the chem has finished metabolising, it teleports the patient back to the location the patient took it.
 
 **Overdose**
-Teleports you around the station randomly
+
+Teleports the patient around the station randomly. Whee!
 
 **Addiction**
-There are several phases:
-1. Makes you hungry and jittery
-2. Teleports the items off the player up to 5 tiles away, 1 item per tick.
-3. Teleports in clones of the player that yell at the player for taking eigenstasium, then teleports them away (deletes them)
-4. Replaces the player with a copy of the player from another dimension (same mind/player)
+
+There are several things known from Eigenstasium addiction:
+1. Makes the patient hungry.
+2. Makes the patient jittery.
+2. Teleports items off the patient.
+3. Phases in clones from alternative dimentions.
 
 **Lockers**
-When sprayed on 2 or more lockers it links them together, letting you enter one and teleport out the next in sequence (ala The lion, the witch and the wardrobe). if 3 lockers: 1 > 2 > 3 > 1 > 2, ect.
+
+When sprayed on 2 or more lockers it links them together, letting the user enter one and exit out the next in sequence. if 3 lockers: 1 > 2 > 3 > 1 > 2, etc. For 2, it is a simple 1 > 2 > 1 > 2, etc.
 
 ### <a href="#Astrogen">Astrogen</a>
 **Normal use**
-Creates an astral projection of the player, transferring their mind into it, letting them roam around the station quickly. When you click on other players it lets you project a message into their mind. If you click yourself, you return to your body. If you click someone else **with astrogen in their system** it lets you possess them for a short time; based on how much astrogen they have (i.e. when it runs out, you’re booted into a ghost, or if you run out, you’re returned to your body). Astrogen consumption is exponential to prevent perma-posses/projecting.
+
+Creates an astral projection of the patient, transferring their mind into it, letting them roam around the station quickly. The projection can try to interact with other people like this, letting them project a message into their mind. If the patient click the patientrself, the patient can return to their body after the initall dose settles. If the patient attempts to interact with someone else with astrogen in their system it lets the patient possess them provided they continue to have astrogen to support the link!
 
 **Turf**
-Acts like carpet; turns turfs into spacetiles (i.e. the tile that looks like space, doesn't delete the floor)
+
+Turns the floor transparent!
 
 **Bedsheets**
-Turns bedsheets into cosmic bedsheets
+
+Turns bedsheets into a cosmic variant.
 
 **Addiction**
-You slowly disappear over 50-80 minutes, and if you disappear enough then you fully disappear (i.e. die). Taking astrogen again restarts the counter to 0, and takes another 60m from that point.
+
+Patients who have developed an addiction slowly phase out of existance over a period of roughly 60 minutes. In extreme cases, they are never seen again. It is highly recommended to give patients with an addition a low dose to keep their fate at bay.
 
 ### <a href="#Hatmium">Hatmium</a>
 **Normal use**
-Spawns a hat on your head, with slowly increasing armour as it metabolises. Makes you say fun phrases at the end of your spoken messages while it’s there, and you can’t take it off by yourself, someone needs to drag it off you. 
+
+Spawns a hat on the patient's head, with slowly increasing strength as it metabolises. Makes the patient say fun phrases when they speak, and renders them unable to remove it by themselves, instead opting to tip their hat.
 
 **Overdose**
-Inverts the armour instead, reducing the hat’s amour.
+
+Weakens the hat instead.
 
 **Purity**
-Armour gain is equal to purity for both OD and otherwise.
+
+Strength gain is equal to purity for both OD and otherwise.
 
 **On drop**
-The hat gets mad and attacks you, but does very little damage.
+
+The hat gets mad and attacks the patient, but does very little damage.
 
 **Explosion**
+
 Spawns angry hats accompanied with rooting tooting phrases.
 
 ### <a href="#Naninte bane">Nanite bane</a>
 **Normal use** 
-Reduces the nanite volume of a person (if they have nanites), equal to purity*modifier.
+
+Reduces the nanite volume of a person (if they have nanites), equal to purity.
 
 **OD**
+
 Small chance to electrocute and cause an EMP on the person and drains nanites faster.
 
 **Inverted chem**
+
 Chance to electrocute and cause an EMP on the person, but doesn’t drain nanites, and metabolises faster.
 
-**On turf**
-Causes an single EMP when sprayed on the turf it's applied to.
+**Sprayed**
+
+Causes an single small EMP when sprayed.
 
 ### <a href="#synthetic-derived growth factor">Synthetic-derived growth factor</a>
 **Normal use**
-Polls ghosts to see if they want to become a clone of the taker. If so, creates a ghost controlled clone of the person. Requires around 20u to make a healthy clone, as leftover SDGF is converted into SDGF heal, which heals the damaged clone (clone spawns damaged). SDGFheal isn't producible otherwise.
-If no ghost is found, it creates a mindless clone that doesn’t retain memories on death.
-If the volume is too low, it heals the player slightly.
+
+Creates a clone of the patient, Requires around 20u to make a healthy clone, Inoptimal volumes cause damage on the clone, or failure to clone alltogether.
+Clones have been observed to either have mental awareness right after cloning, or for said mental activity to restore after a period of time.
 
 **Impure chem**
-Causes clone and blood damage.
+
+Damages the patient's cells.
 
 **Inverse chem**
-Pretends to act like normal SDGF, but instead of polling ghosts/whatever, it spawns a hostile zombie-like instead (not infectious). If purged, creates a teratoma instead.
+
+Attempts to make a clone, but clones are often turned into horrible mindless monstrosities, often attacking right after the process is complete.
 
 **Explosion**
-Spawns angry teratomas.
+
+Spawns horrifying teratomas.
 
 ### <a href="#Furranium">Furranium</a>
 **Normal use**
+
 Makes people speak with a certain inflection, if highly pure, the tongue will need to be treated with Yamerol.
 
 ### <a href="#Yamerol">Yamerol</a>
 **Normal use**
+
 Reverts Furranium dosing, and soothes lung and tongue damage.
 
 **Overdose**
-Reforms critical lungs and tongues, (for now).
+
+Reforms critical lungs and tongues (for now).
 
 **Impure chem**
+
 Causes oxygen, lung and tongue damage. If the patient has no lungs, it will rapidly cause problems.
 
 ### Buffers: <a href="#Acidic buffer">Acidic buffer</a> or <a href="#Basic buffer">Basic buffer</a>
 **Normal use**
 Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self consumes (i.e. deletes itself) from the beaker if the beaker has reagents, and the beaker doesn’t have stabilising agent.
-
-If the other 2 remaining chems are added to the PR I’ll update with their effects too.
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
