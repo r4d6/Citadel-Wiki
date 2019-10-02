@@ -229,7 +229,7 @@ When the chem has finished metabolising, it teleports the patient back to the lo
 
 **Bedsheets:** Turns bedsheets into a cosmic variant.
 
-**Addiction: ** Patients who have developed an addiction slowly phase out of existance over a period of roughly 60 minutes. In extreme cases, they are never seen again. It is highly recommended to give patients with an addition a low dose to keep their fate at bay.
+**Addiction:** Patients who have developed an addiction slowly phase out of existance over a period of roughly 60 minutes. In extreme cases, they are never seen again. It is highly recommended to give patients with an addition a low dose to keep their fate at bay.
 
 ### <a href="#Hatmium">Hatmium</a>
 **Normal use:** Spawns a hat on the patient's head, with slowly increasing strength as it metabolises. Makes the patient say fun phrases when they speak, and renders them unable to remove it by themselves, instead opting to tip their hat.
@@ -255,9 +255,9 @@ When the chem has finished metabolising, it teleports the patient back to the lo
 **Normal use:** Creates a clone of the patient, Requires around 20u to make a healthy clone, Inoptimal volumes cause damage on the clone, or failure to clone alltogether.
 Clones have been observed to either have mental awareness right after cloning, or for said mental activity to restore after a period of time.
 
-**Impure chem: **Damages the patient's cells.
+**Impure chem:**Damages the patient's cells.
 
-**Inverse chem: **
+**Inverse chem:**
 Attempts to make a clone, but clones are often turned into horrible mindless monstrosities, often attacking right after the process is complete.
 
 **Explosion:**
