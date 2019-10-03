@@ -10,7 +10,7 @@ Modern Nanotrasen stations feature a state-of-the-art Cloning Room within their 
 
 Although primarily intended to bring back the deceased, you may find living crew itching to get scanned, particularly those in high-risk jobs such as [Shaft Miners](/citadel-wiki/main/roles/cargo/shaft_miner.md) or [Security Officers](/citadel-wiki/main/roles/security/security_officer.md). In the Citadel sector of space **it's on you to provide a reason for someone not to be scanned**, as opposed to them proving they're worthy of being scanned, so odds are you should just scan them. It won't let you create a living copy of them then and there, but these "pre-scans" nearly ensure they can be cloned later if need be - odds are they'll be in better shape now than they would be coming in later. **Whether dead or alive, the process is the same:** insert the person in the DNA Scanner, close it, then consult the Cloning Console.
 
-
+![alt text](https://github.com/EmeraldSundisk/Citadel-Wiki/blob/master/citadel-wiki-static/cloning1.png "The 'main menu', if you will.") ![alt text](https://github.com/EmeraldSundisk/Citadel-Wiki/blob/master/citadel-wiki-static/cloning2.png "The record database.") ![alt text](https://github.com/EmeraldSundisk/Citadel-Wiki/blob/master/citadel-wiki-static/cloning3.png "An example of a record.")
 
 Press "Start Scan" - it'll tell you if the scan succeeded. Sometimes you may need to "Refresh" it first. When it's time to bring someone back, you'll want to "View Records" and choose the person you wish to clone by selecting their record. You could delete them too, but it isn't often you're going to outside of dealing with [antagonists](/citadel-wiki/main/roles/antagonist).
 
