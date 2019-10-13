@@ -65,6 +65,7 @@ Acceptable:
 3. Do not antagonizing someone you are a-helping about as it will only complicate a situation.
 4. If an admin tells you not to do something, don't do it. Arguing with an admin during a round about the nature, absence, or applicableness of a rule during a round is not allowed. If you feel you have been wronged, take it up in the admin-forum or make a complaint **after the round is over**.
 5. Do not lie to admins in official channels. Doing so will result in your ban being increased or a ban being applied regardless of any other fault.
+6. If you have an issue with a player, bring it up to administration. If you have an issue with administration, bring it up to a player representative or head admin. If you have an issue with a ban or note that isn't yours, you may attempt to bring up the topic to an admin in private, but all appeals must be done by the original player. **Do not complain about any of your issues in non-specified channels.**
 
 ### Additional Information:
 * When you a-help about anything you should include where it's happening, what's happening, who's involved, and why you think that it's an issue.
