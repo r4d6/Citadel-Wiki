@@ -33,20 +33,20 @@ They are most often found inside syringe boxes in the open around medbay or in m
 <b>It is important to note that strong acids/bases can melt most glass based beakers, while plastic beakers will melt from heat. They will melt slowly over time with a audiable noise. If you heat them melting, either drop the temperature or adjust the pH!</b>
 
 
-![Bottle](https://tgstation13.org/wiki//images/5/5d/Bottle.png) Bottles are small 30 unit containers made from a hardened mesh of glass and polymers, and thus <b>don't melt from temperature or pH</b>. These are produced by the ChemMaster 3000.
+![Bottle](https://tgstation13.org/wiki//images/5/5d/Bottle.png) <b>Bottles</b> are small 30 unit containers made from a hardened mesh of glass and polymers, and thus <b>don't melt from temperature or pH</b>. These are produced by the ChemMaster 3000.
 
-![Beaker](https://tgstation13.org/wiki//images/8/8c/Beaker.png)![LargeBeak](https://tgstation13.org/wiki//images/f/fc/Large_Beaker.png) Beakers holds 50/100 units of liquid depending on size, but begins to <b>melt under strong acids or bases.</b> These can be printed from the autolathe.
+![Beaker](https://tgstation13.org/wiki//images/8/8c/Beaker.png)![LargeBeak](https://tgstation13.org/wiki//images/f/fc/Large_Beaker.png) <b>Glass Beakers</b> holds 50/100 units of liquid depending on size, but begins to <b>melt under strong acids or bases.</b> These can be printed from the autolathe.
 
-![PlastBeaker](https://tgstation13.org/wiki//images/8/83/XL_beaker.png) XL beakers are made of plastic and hold 150 units of liquid. <b> They are immune to pH, but will being to melt when containing liquids over 444K.</b> These can be printed from the autolathe using plastic sheets.
+![PlastBeaker](https://tgstation13.org/wiki//images/8/83/XL_beaker.png) <b>XL beakers</b> are made of plastic and hold 150 units of liquid. <b> They are immune to pH, but will being to melt when containing liquids over 444K.</b> These can be printed from the autolathe using plastic sheets.
 
-![MetaBeak](https://tgstation13.org/wiki//images/c/c0/Meta_beaker.png) Meta Beakers holds 200 units of liquid and is <b>immune to pH and will not melt under high temperature</b>. These can be printed from the autolathe when researched.
+![MetaBeak](https://tgstation13.org/wiki//images/c/c0/Meta_beaker.png) <b>Meta Beakers</b> holds 200 units of liquid and is <b>immune to pH and will not melt under high temperature</b>. These can be printed from the autolathe when researched.
 
-![CyroBeak](https://tgstation13.org/wiki//images/5/5e/Cryostasis_beaker.gif) Cryostasis Beakers holds 50 units of liquid.
+![CyroBeak](https://tgstation13.org/wiki//images/5/5e/Cryostasis_beaker.gif) <b>Cryostasis Beakers</b> holds 50 units of liquid.
 Chemicals will not mix, react or change temperature while in this beaker. Splashing contained chemicals will not make them react either, as with all other beakers. <b>This beaker is immune to pH and will not melt under high temperature.</b> These can be printed from the autolathe when researched.
 
-![BlueBeak](https://tgstation13.org/wiki//images/5/5b/Bluespace_beaker.gif) Bluespace beakers are the largest beakers and hold 300 units of liquid. <b> These are weak to strong acids/bases, but have more durability than standard beakers.</b> These can be printed from the autolathe when researched.
+![BlueBeak](https://tgstation13.org/wiki//images/5/5b/Bluespace_beaker.gif) <b>Bluespace beakers</b> are the largest beakers and hold 300 units of liquid. <b> These are weak to strong acids/bases, but have more durability than standard beakers.</b> These can be printed from the autolathe when researched.
 
-![WBottle](https://tgstation13.org/wiki//images/9/9f/Waterbottle.png)![LargeBottle](https://tgstation13.org/wiki//images/a/ab/Large_water_bottle.png) Water Bottles Can be made with plastic sheets. Works like a beaker but comes with a cap to prevent spilling. Toggle the cap with alt-click. Holds 50/100 units of liquid depending on side. <b> Weak to strong acids/bases and temperatures over 444K.</b>
+![WBottle](https://tgstation13.org/wiki//images/9/9f/Waterbottle.png)![LargeBottle](https://tgstation13.org/wiki//images/a/ab/Large_water_bottle.png) <b>Water Bottles</b> Can be made with plastic sheets. Works like a beaker but comes with a cap to prevent spilling. Toggle the cap with alt-click. Holds 50/100 units of liquid depending on side. <b> Weak to strong acids/bases and temperatures over 444K.</b>
 
 
 ## Medicine types
@@ -63,7 +63,7 @@ Reagents can be dispenced as various different types:
 
 <b>Smoke</b> is produced either by smoke reactions or vaping. Inhalation of a reagent mix with a strong acidity or alkalinity with cause tongue damage, and thus neutralisation is recommended.
 
-<b>Smart darts</b> Smart darts contain up to 20 units of reagent soaked into the mechanism (and thus cannot be removed). These darts will inject a chem right up to the overdose limit when shot into a patient using the Smartdart Gun. Unfortunately, it requires a high velocity to penitrate the skin, and thus cannot be used in hand.
+<b>Smart darts</b> contain up to 20 units of reagent soaked into the mechanism (and thus cannot be removed). These darts will inject a chem right up to the overdose limit when shot into a patient using the Smartdart Gun. Unfortunately, it requires a high velocity to penetrate the skin, and thus cannot be used in hand.
 
 # What should I make first?
 
@@ -115,7 +115,7 @@ All reactions that are non-instant have a reaction rate tied to the temperature 
 Generally, an explosion will depend on what is reacting, and what is present in the beaker. Plasma for example will ignite when given a heat source, and thus should be treated with respect. <b>A chemist that doesn’t respect the chemicals they’re handling, often ends up a dead chemist, be careful</b>. As a general rule for explosions; the larger the volume, the more dangerous it is. As such, you can use large volumes of chems to adjust your pH, but if you fail the explosion is more dangerous. Alternatively, you can use buffers that adjust the pH, which self consume on addition (and thus do not add to the total volume).
 
 ## Potential of Hydrogen (pH)
-Every chemical has an innate pH, which can be seen [here]((citadel-wiki/main/guides/chem_recipies). The pH of the beaker is the sum of the pHes in the mix. The pH of a beaker determines how pure a product is, for the recipes with a given pH, you want to have your pH at the centre of the limits when the reaction starts. As a reaction progresses, it’s likely the pH will begin to drift, and must be compensated for either with [buffer reagents]( buffers--acidic-buffer-or--basic-buffer) or acidic/alkaline compounds. The pH range is something chemists often have to learn over several reactions, and the <b>ChemMaster 3000</b> analyse function can give an insight into what pH you should be aiming for. <b>Highly impure compounds are liable to explode too</b> thus it is prudent to set your pH before reacting. The impure explosion threshold is given by the <i>Minimum Purity</i>.
+Every chemical has an innate pH, which can be seen [here](citadel-wiki/main/guides/chem_recipies). The pH of the beaker is the sum of the pHes in the mix. The pH of a beaker determines how pure a product is, for the recipes with a given pH, you want to have your pH at the centre of the limits when the reaction starts. As a reaction progresses, it’s likely the pH will begin to drift, and must be compensated for either with [buffer reagents]( buffers--acidic-buffer-or--basic-buffer) or acidic/alkaline compounds. The pH range is something chemists often have to learn over several reactions, and the <b>ChemMaster 3000</b> analyse function can give an insight into what pH you should be aiming for. <b>Highly impure compounds are liable to explode too</b> thus it is prudent to set your pH before reacting. The impure explosion threshold is given by the <i>Minimum Purity</i>.
 
 ## Purity
 Purity of a reagent is determined by how pure your reactants were, and how optimal the pH was during the reaction. If the product is slightly impure, it’ll split into the <i>impure chem</i>, if it is highly impure, it will invert <b>all of the product</b> into the <i>inverse chem</i>. Impure chems are listed [here](citadel-wiki/main/guides/chem_recipies#impure-reagents)
