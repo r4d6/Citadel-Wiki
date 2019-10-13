@@ -1,6 +1,6 @@
 # Guide to chemistry
 
-This guide will primarily be useful for chemists but may come in handy to any player and especially traitors. See Chemical recipes for detailed instructions on how to make complicated chemicals, and for info about using the dispenser's recipe recording function. If you don't have a chem dispenser, see the [Guide to Ghetto Chemistry](guide_getto_chems.md). 
+This guide will primarily be useful for chemists but may come in handy to any player and especially traitors. See Chemical recipes for detailed instructions on how to make complicated chemicals, and for info about using the dispenser's recipe recording function. If you don't have a chem dispenser, see the [Guide to Ghetto Chemistry](citadel-wiki/main/guides/guide_getto_chems). 
 
 ## Tools of the trade
 
@@ -8,9 +8,9 @@ This guide will primarily be useful for chemists but may come in handy to any pl
 
 ![ChemMast](https://tgstation13.org/wiki//images/9/95/Chemmaster.gif) The <b>ChemMaster 3000</b> can magically separate chemicals, <b> but not isomers</b> and has the ability to produce a limitless supply of 50 unit pills, 40 unit patches and 30 unit bottles. It can also scan a reagent to give an analysis on the synthesis, accurate purity and optimal pH of a reagent's reaction.
 
-![Grinder](https://tgstation13.org/wiki//images/3/39/Blender.png) The <b>Reagent Grinder</b> is identical to the grinder the Chef has. It can be used to extract chemical reagents from things the Shaft Miners, Chef, and Botanists produce (See [Ground Reagents](chem_recipies.md#GROUND-REAGENTS))
+![Grinder](https://tgstation13.org/wiki//images/3/39/Blender.png) The <b>Reagent Grinder</b> is identical to the grinder the Chef has. It can be used to extract chemical reagents from things the Shaft Miners, Chef, and Botanists produce (See [Ground Reagents](citadel-wiki/main/guides/#GROUND-REAGENTS))
 
-![Heater](https://tgstation13.org/wiki//images/b/bf/Chemheater.png) The <b>Chemical Heater</b> is important for making many recipes that require high temperatures to mix. This is extemely useful in [Fermi Reactions](chem_recipies.md#FERMI) to control the temperature of the reaction. As the heater is upgraded, the accuracy of the pH detection increases in turn, with a fully upgraded heater capable of detecting reagent purity. The heater is capable of accepting injection of chems into the beaker contained within via a ![Syringe](https://tgstation13.org/wiki//images/b/be/Syringes.png)Syringe or a ![Dropper](https://tgstation13.org/wiki//images/7/7a/Eyedropper.png)Dropper.
+![Heater](https://tgstation13.org/wiki//images/b/bf/Chemheater.png) The <b>Chemical Heater</b> is important for making many recipes that require high temperatures to mix. This is extemely useful in [Fermi Reactions](citadel-wiki/main/guides/#FERMI) to control the temperature of the reaction. As the heater is upgraded, the accuracy of the pH detection increases in turn, with a fully upgraded heater capable of detecting reagent purity. The heater is capable of accepting injection of chems into the beaker contained within via a ![Syringe](https://tgstation13.org/wiki//images/b/be/Syringes.png)Syringe or a ![Dropper](https://tgstation13.org/wiki//images/7/7a/Eyedropper.png)Dropper.
 
 <b>pH paper</b> can tell you the rough pH by putting it into the beaker. The colour of the strip will indicate what the pH is.
 
@@ -26,7 +26,7 @@ They are most often found inside syringe boxes in the open around medbay or in m
 
 ![Dropper](https://tgstation13.org/wiki//images/7/7a/Eyedropper.png) The <b>Dropper</b> is a container used for holding 5u of liquids. An empty dropper will store liquids from other liquid containers such as bottles and beakers. Once full, you can squirt the contents of the dropper at any target adjacent or below you, including other liquid containers, or on people's faces. Toggle in hand to change it to drop one to five units at a time, this is extemely useful for fine tuning the pH of a beaker.
 
-<b>Buffers</b> are reagents that alter the pH of a mixture towards [acidity (0)](chem_recipies.md#acidic-buffer) or [alkalinity (14)](chem_recipies.md#basic-buffer). These liquids dissiplate into a mixture, unless [stabilizing agent](chem_recipies.md#stabilizing-agent) is added.
+<b>Buffers</b> are reagents that alter the pH of a mixture towards [acidity (0)](citadel-wiki/main/guides/#acidic-buffer) or [alkalinity (14)](citadel-wiki/main/guides/#basic-buffer). These liquids dissiplate into a mixture, unless [stabilizing agent](citadel-wiki/main/guides/#stabilizing-agent) is added.
 
 ## Reagent containers
 
@@ -70,40 +70,40 @@ Reagents can be dispenced as various different types:
 Generally, it's a good idea to have something for each of the 5 main damage types; Brute, Burn, Toxin, Suffocation and Genetic.
 
 ### Brute
-- [Bicard](chem_recipies.md#bicaridine) is a classic healing for brute, but has an OD at 30u.
-- [Styptic Powder](chem_recipies.md#styptic-powder) heals on application and heals as fast as bicard, but is harder to make
-- [Salicyclic Acid](chem_recipies.md#salicyclic-acid) is useful for really damaged patients.
+- [Bicard](citadel-wiki/main/guides/#bicaridine) is a classic healing for brute, but has an OD at 30u.
+- [Styptic Powder](citadel-wiki/main/guides/#styptic-powder) heals on application and heals as fast as bicard, but is harder to make
+- [Salicyclic Acid](citadel-wiki/main/guides/#salicyclic-acid) is useful for really damaged patients.
 
 ### Burn
-- [Kelotane](chem_recipies.md#kelotane) is a classic healing for burn, but has an OD at 30u.
-- [Silver Sulfadiazine](chem_recipies.md#silver-sulfadiazine) heals on application and heals as fast as bicard, but is harder to make
-- [Oxandrolone](chem_recipies.md#oxandrolone) is useful for really damaged patients, but less so for weak burns.
+- [Kelotane](citadel-wiki/main/guides/#kelotane) is a classic healing for burn, but has an OD at 30u.
+- [Silver Sulfadiazine](citadel-wiki/main/guides/#silver-sulfadiazine) heals on application and heals as fast as bicard, but is harder to make
+- [Oxandrolone](citadel-wiki/main/guides/#oxandrolone) is useful for really damaged patients, but less so for weak burns.
 
 ### Toxin
-- [Charcoal](chem_recipies.md#charcoal) is good in a pinch, but will purge all other chems too.
-- [AntiToxin](chem_recipies.md#anti-toxin) is good for toxins, and will purge any [toxin reagents](chem_recipies.md#toxins)
-- [Pentetic Acid](chem_recipies.md#pentetic-acid) Is the fastest purger, toxic treatment, and also treats radiation.
+- [Charcoal](citadel-wiki/main/guides/#charcoal) is good in a pinch, but will purge all other chems too.
+- [AntiToxin](citadel-wiki/main/guides/#anti-toxin) is good for toxins, and will purge any [toxin reagents](citadel-wiki/main/guides/#toxins)
+- [Pentetic Acid](citadel-wiki/main/guides/#pentetic-acid) Is the fastest purger, toxic treatment, and also treats radiation.
 
 Bear in mind all of these will murder slimes, as toxin healing damages slimepeople.
-For general purging of reagents, rather than treatment of toxin damage, use [Calomel](chem_recipies.md#calomel), which is also the only viable purger for slimes.
+For general purging of reagents, rather than treatment of toxin damage, use [Calomel](citadel-wiki/main/guides/#calomel), which is also the only viable purger for slimes.
 
 ### Oxygen
-- [Epinephrine](chem_recipies.md#epinephrine) Will limit oxygen loss to 35.
-- [Salbutamol](chem_recipies.md#salbutamol) Will treat oxygen loss.
+- [Epinephrine](citadel-wiki/main/guides/#epinephrine) Will limit oxygen loss to 35.
+- [Salbutamol](citadel-wiki/main/guides/#salbutamol) Will treat oxygen loss.
 
 ### Genetic
-- [Clonexadone](chem_recipies.md#clonexadone) when used in a cyrotube/cold shower will treat genetic damage.
+- [Clonexadone](citadel-wiki/main/guides/#clonexadone) when used in a cyrotube/cold shower will treat genetic damage.
 
 ### Radiation
-- [Potassium Iodide](chem_recipies.md#potassium-iodide)
-- [Pentetic Acid](chem_recipies.md#pentetic-acid) Is the fastest purger, toxic treatment, and also treats radiation.
+- [Potassium Iodide](citadel-wiki/main/guides/#potassium-iodide)
+- [Pentetic Acid](citadel-wiki/main/guides/#pentetic-acid) Is the fastest purger, toxic treatment, and also treats radiation.
 
-After that, it's useful to create organ treatment chems; [Mannitol](chem_recipies.md#mannitol) for brain, [Inacusiate](chem_recipies.md#inacusiate) for ears, [Oculine](chem_recipies.md#oculine) for eyes, [Synthflesh](chem_recipies.md#synthflesh) for prepping the dead for defibbing, and if you're feeling up to it,  [Yamerol](chem_recipies.md#yamerol) for lungs and [Synthtissue](chem_recipies.md#synthtissue) for grafting surgeries.
+After that, it's useful to create organ treatment chems; [Mannitol](citadel-wiki/main/guides/#mannitol) for brain, [Inacusiate](citadel-wiki/main/guides/#inacusiate) for ears, [Oculine](citadel-wiki/main/guides/#oculine) for eyes, [Synthflesh](citadel-wiki/main/guides/#synthflesh) for prepping the dead for defibbing, and if you're feeling up to it,  [Yamerol](citadel-wiki/main/guides/#yamerol) for lungs and [Synthtissue](citadel-wiki/main/guides/#synthtissue) for grafting surgeries.
 
 
 # Handling reactions
 
-For a list of all reactions, see [Chemical Reactions](chem_recipies.md). Most reactions simply require each reagent to be present in the beaker in sufficient quantities in order to react, while a few require heating. If you are new, it’s recommended to get used to the simpler reactions first, and stock the fridge full of helpful chemicals. A few of the reactions, however, are advanced reactions, which require a bit more consideration to produce successfully. A good chemist will keep an eye on a reactions temperature, pH and purity when producing chems.
+For a list of all reactions, see [Chemical Reactions](citadel-wiki/main/guides/). Most reactions simply require each reagent to be present in the beaker in sufficient quantities in order to react, while a few require heating. If you are new, it’s recommended to get used to the simpler reactions first, and stock the fridge full of helpful chemicals. A few of the reactions, however, are advanced reactions, which require a bit more consideration to produce successfully. A good chemist will keep an eye on a reactions temperature, pH and purity when producing chems.
 
 ## Do like an otter, add acid to water.
 Adding water to a strong acid (less then pH 2) is like adding fuel to a fire, and it will cause it to areolate into the air. Be careful to either add water <b>first</b> or neutralise your strong acids before adding water to your beaker.
@@ -118,7 +118,7 @@ Generally, an explosion will depend on what is reacting, and what is present in 
 The pH of a beaker determines how pure a product is, for the recipes with a given pH, you want to have your pH at the centre of the limits when the reaction starts. As a reaction progresses, it’s likely the pH will begin to drift, and must be compensated for either with [buffer reagents]( buffers--acidic-buffer-or--basic-buffer) or acidic/alkaline compounds. The pH range is something chemists often have to learn over several reactions, and the <b>ChemMaster 3000</b> analyse function can give an insight into what pH you should be aiming for. <b>Highly impure compounds are liable to explode too</b> thus it is prudent to set your pH before reacting. The impure explosion threshold is given by the <i>Minimum Purity</i>.
 
 ## Purity
-Purity of a reagent is determined by how pure your reactants were, and how optimal the pH was during the reaction. If the product is slightly impure, it’ll split into the <i>impure chem</i>, if it is highly impure, it will invert <b>all of the product</b> into the <i>inverse chem</i>. Impure chems are listed [here](chem_recipies.md#impure-reagents)
+Purity of a reagent is determined by how pure your reactants were, and how optimal the pH was during the reaction. If the product is slightly impure, it’ll split into the <i>impure chem</i>, if it is highly impure, it will invert <b>all of the product</b> into the <i>inverse chem</i>. Impure chems are listed [here](citadel-wiki/main/guides/#impure-reagents)
 
 ## General tips
 - The explosion size in influenced by the beakers volume. It is <b>highly recommended</b> that you react small quantities of reactants in a beaker to ensure safety. <b>The more volume you have, the more that is available to exothermically react too</b>. Buffers are useful for keeping a reactions volume low.
@@ -131,7 +131,7 @@ Purity of a reagent is determined by how pure your reactants were, and how optim
 
 ## Walk through of your first Fermireaction
 
-A good first step onto the road to chemical mastery is to produce some basic buffer. [Basic buffer](chem_recipies.md#basic-buffer) will test your basic understanding of chemistry by asking for lye.
+A good first step onto the road to chemical mastery is to produce some basic buffer. [Basic buffer](citadel-wiki/main/guides/#basic-buffer) will test your basic understanding of chemistry by asking for lye.
 
 
 1. Add 1 part Lye, 2 parts ethanol, 2 parts water and at least 1u of sulphuric acid to a XL beaker (the beaker will resist the intense pH).
@@ -142,7 +142,7 @@ A good first step onto the road to chemical mastery is to produce some basic buf
 6. Separate out the buffer.
 
 
-You're now ready to react [Eigenstasium](chem_recipies.md#eigenstasium).
+You're now ready to react [Eigenstasium](citadel-wiki/main/guides/#eigenstasium).
 
 1. Add the 3 reagents into a glass beaker in equal parts, while keeping total volume low incase of explosion.
 2. Adjust your pH to 8 (the center of the range (2 - 14))
