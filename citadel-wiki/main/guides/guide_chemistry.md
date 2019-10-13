@@ -30,6 +30,9 @@ They are most often found inside syringe boxes in the open around medbay or in m
 
 ## Reagent containers
 
+<b>It is important to note that strong acids/bases can melt most glass based beakers, while plastic beakers will melt from heat. They will melt slowly over time with a audiable noise. If you heat them melting, either drop the temperature or adjust the pH!</b>
+
+
 ![Bottle](https://tgstation13.org/wiki//images/5/5d/Bottle.png) Bottles are small 30 unit containers made from a hardened mesh of glass and polymers, and thus <b>don't melt from temperature or pH</b>. These are produced by the ChemMaster 3000.
 
 ![Beaker](https://tgstation13.org/wiki//images/8/8c/Beaker.png)![LargeBeak](https://tgstation13.org/wiki//images/f/fc/Large_Beaker.png) Beakers holds 50/100 units of liquid depending on size, but begins to <b>melt under strong acids or bases.</b> These can be printed from the autolathe.
@@ -62,9 +65,46 @@ Reagents can be dispenced as various different types:
 
 <b>Smart darts</b> Smart darts contain up to 20 units of reagent soaked into the mechanism (and thus cannot be removed). These darts will inject a chem right up to the overdose limit when shot into a patient using the Smartdart Gun. Unfortunately, it requires a high velocity to penitrate the skin, and thus cannot be used in hand.
 
+# What should I make first?
+
+Generally, it's a good idea to have something for each of the 5 main damage types; Brute, Burn, Toxin, Suffocation and Genetic.
+
+### Brute
+- [Bicard](chem_recipies.md#bicaridine) is a classic healing for brute, but has an OD at 30u.
+- [Styptic Powder](chem_recipies.md#styptic-powder) heals on application and heals as fast as bicard, but is harder to make
+- [Salicyclic Acid](chem_recipies.md#salicyclic-acid) is useful for really damaged patients.
+
+### Burn
+- [Kelotane](chem_recipies.md#kelotane) is a classic healing for burn, but has an OD at 30u.
+- [Silver Sulfadiazine](chem_recipies.md#silver-sulfadiazine) heals on application and heals as fast as bicard, but is harder to make
+- [Oxandrolone](chem_recipies.md#oxandrolone) is useful for really damaged patients, but less so for weak burns.
+
+### Toxin
+- [Charcoal](chem_recipies.md#charcoal) is good in a pinch, but will purge all other chems too.
+- [AntiToxin](chem_recipies.md#anti-toxin) is good for toxins, and will purge any [toxin reagents](chem_recipies.md#toxins)
+- [Pentetic Acid](chem_recipies.md#pentetic-acid) Is the fastest purger, toxic treatment, and also treats radiation.
+
+Bear in mind all of these will murder slimes, as toxin healing damages slimepeople.
+For general purging of reagents, rather than treatment of toxin damage, use [Calomel](chem_recipies.md#calomel), which is also the only viable purger for slimes.
+
+### Oxygen
+- [Epinephrine](chem_recipies.md#epinephrine) Will limit oxygen loss to 35.
+- [Salbutamol](chem_recipies.md#salbutamol) Will treat oxygen loss.
+
+### Genetic
+- [Clonexadone](chem_recipies.md#clonexadone) when used in a cyrotube/cold shower will treat genetic damage.
+
+### Radiation
+- [Potassium Iodide](chem_recipies.md#potassium-iodide)
+- [Pentetic Acid](chem_recipies.md#pentetic-acid) Is the fastest purger, toxic treatment, and also treats radiation.
+
+After that, it's useful to create organ treatment chems; [Mannitol](chem_recipies.md#mannitol) for brain, [Inacusiate](chem_recipies.md#inacusiate) for ears, [Oculine](chem_recipies.md#oculine) for eyes,[Synthflesh](chem_recipies.md#synthflesh) for prepping the dead for defibbing, and if you're feeling up to it,  [Yamerol](chem_recipies.md#yamerol) for lungs and [Synthtissue](chem_recipies.md#synthtissue) for grafting surgeries.
+
+
 # Handling reactions
 
 For a list of all reactions, see [Chemical Reactions](chem_recipies.md). Most reactions simply require each reagent to be present in the beaker in sufficient quantities in order to react, while a few require heating. If you are new, it’s recommended to get used to the simpler reactions first, and stock the fridge full of helpful chemicals. A few of the reactions, however, are advanced reactions, which require a bit more consideration to produce successfully. A good chemist will keep an eye on a reactions temperature, pH and purity when producing chems.
+
 ## Do like an otter, add acid to water.
 Adding water to a strong acid (less then pH 2) is like adding fuel to a fire, and it will cause it to areolate into the air. Be careful to either add water <b>first</b> or neutralise your strong acids before adding water to your beaker.
 
