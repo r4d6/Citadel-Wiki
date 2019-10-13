@@ -98,7 +98,7 @@ For general purging of reagents, rather than treatment of toxin damage, use [Cal
 - [Potassium Iodide](chem_recipies.md#potassium-iodide)
 - [Pentetic Acid](chem_recipies.md#pentetic-acid) Is the fastest purger, toxic treatment, and also treats radiation.
 
-After that, it's useful to create organ treatment chems; [Mannitol](chem_recipies.md#mannitol) for brain, [Inacusiate](chem_recipies.md#inacusiate) for ears, [Oculine](chem_recipies.md#oculine) for eyes,[Synthflesh](chem_recipies.md#synthflesh) for prepping the dead for defibbing, and if you're feeling up to it,  [Yamerol](chem_recipies.md#yamerol) for lungs and [Synthtissue](chem_recipies.md#synthtissue) for grafting surgeries.
+After that, it's useful to create organ treatment chems; [Mannitol](chem_recipies.md#mannitol) for brain, [Inacusiate](chem_recipies.md#inacusiate) for ears, [Oculine](chem_recipies.md#oculine) for eyes, [Synthflesh](chem_recipies.md#synthflesh) for prepping the dead for defibbing, and if you're feeling up to it,  [Yamerol](chem_recipies.md#yamerol) for lungs and [Synthtissue](chem_recipies.md#synthtissue) for grafting surgeries.
 
 
 # Handling reactions
@@ -109,7 +109,7 @@ For a list of all reactions, see [Chemical Reactions](chem_recipies.md). Most re
 Adding water to a strong acid (less then pH 2) is like adding fuel to a fire, and it will cause it to areolate into the air. Be careful to either add water <b>first</b> or neutralise your strong acids before adding water to your beaker.
 
 ## Temperature
-All reactions that are non-instant have a reaction rate tied to the temperature of a beaker. If a chemical is reacting too slowly, simply heat the beaker up to speed it up. As a reaction occurs, it is either <b>Exothermic (heat producing)</b> or <b>Endothermic (heat consuming)</b>. Care should be taken for the Exothermic reactions, as they are liable to overheat and explode, <b> Always check your reaction kinetics first, and in particular, take care around a reactions explosion temperature. The rate in which a reaction heats up is faster the hotter it is, be careful to not lose control, and run if you do.
+All reactions that are non-instant have a reaction rate tied to the temperature of a beaker. If a chemical is reacting too slowly, simply heat the beaker up to speed it up. As a reaction occurs, it is either <b>Exothermic (heat producing)</b> or <b>Endothermic (heat consuming)</b>. Care should be taken for the Exothermic reactions, as they are liable to overheat and explode, <b> Always check your reaction kinetics first, and in particular, take care around a reactions explosion temperature</b>. The rate in which a reaction heats up is faster the hotter it is, be careful to not lose control, and run if you do.
 
 ## Reaction explosions
 Generally, an explosion will depend on what is reacting, and what is present in the beaker. Plasma for example will ignite when given a heat source, and thus should be treated with respect. <b>A chemist that doesn’t respect the chemicals they’re handling, often ends up a dead chemist, be careful</b>.
