@@ -1,4 +1,24 @@
 
+# Table of Contents
+1. [DISPENCEABLE REAGENTS](#DISPENCEABLE REAGENTS)
+2. [COMPONENT REAGENTS](#COMPONENT REAGENTS)
+3. [GROUND REAGENTS](#GROUND REAGENTS)
+4. [MEDICINE](#MEDICINE)
+5. [TOXINS](#TOXINS)
+6. [DRUGS](#DRUGS)
+7. [FERMI](#FERMI)
+8. [IMPURE REAGENTS](#IMPURE REAGENTS)
+9. [GENERAL REAGENTS](#GENERAL REAGENTS)
+10. [DISPENCEABLE SOFT DRINKS](#DISPENCEABLE SOFT DRINKS)
+11. [DISPENCEABLE HARD DRINKS](#DISPENCEABLE HARD DRINKS)
+12. [CONSUMABLE](#CONSUMABLE)
+13. [PLANTS](#PLANTS)
+14. [URANIUM](#URANIUM)
+15. [COLOURS](#COLOURS)
+16. [RACE MUTATIONS](#RACE MUTATIONS)
+17. [BLOB REAGENTS](#BLOB REAGENTS)
+18. [CHEMICAL REACTIONS](#CHEMICAL REACTIONS)
+
 # DISPENCEABLE REAGENTS
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
@@ -56,7 +76,7 @@
 |<a href="#Bluespace Dust"><h5 id="Bluespace Dust">![#0000CC](https://placehold.it/15/0000CC/000000?text=+)Bluespace Dust</h5></a> pH: 12 | N/A |  | A dust composed of microscopic bluespace crystals, with minor space-warping properties. | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
 
 
-# MEDICINE:
+# MEDICINE
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -123,7 +143,7 @@
 |<a href="#Muscle Stimulant"><h5 id="Muscle Stimulant">![#000000](https://placehold.it/15/000000/000000?text=+)Muscle Stimulant</h5></a> pH: 7 | N/A |  | A potent chemical that allows someone under its influence to be at full physical ability even when under massive amounts of pain. | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
 
 
-# TOXIN:
+# TOXINS
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -206,7 +226,7 @@
 
 # FERMI
 
-These chems lie on the cutting edge of chemical technology, and as such are not recommended for beginners! A quick overview of the chems are (MKUltra to come):
+These chems lie on the cutting edge of chemical technology, and as such are not recommended for beginners! A guide on how to safely react these chemicals are overviewed in guide-chemisty. A quick overview of the chems are (MKUltra to come):
 ### <a href="#Eigenstasium"> Eigenstasium</a>
 **Normal use:** When the chem is created, it saves the creation location.
 If the chem is of a high purity, upon ingestion it teleports the patient to the creation location. If it’s below that, it doesn’t.
