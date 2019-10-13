@@ -1,25 +1,27 @@
 
 # Table of Contents
-1. [DISPENCEABLE REAGENTS](#DISPENCEABLE REAGENTS)
-2. [COMPONENT REAGENTS](#COMPONENT REAGENTS)
-3. [GROUND REAGENTS](#GROUND REAGENTS)
+1. [DISPENCEABLE REAGENTS](#DISPENCEABLE0REAGENTS)
+2. [COMPONENT REAGENTS](#COMPONENT0REAGENTS)
+3. [GROUND REAGENTS](#GROUND-REAGENTS)
 4. [MEDICINE](#MEDICINE)
 5. [TOXINS](#TOXINS)
 6. [DRUGS](#DRUGS)
 7. [FERMI](#FERMI)
-8. [IMPURE REAGENTS](#IMPURE REAGENTS)
-9. [GENERAL REAGENTS](#GENERAL REAGENTS)
-10. [DISPENCEABLE SOFT DRINKS](#DISPENCEABLE SOFT DRINKS)
-11. [DISPENCEABLE HARD DRINKS](#DISPENCEABLE HARD DRINKS)
+8. [IMPURE REAGENTS](#IMPURE-REAGENTS)
+9. [GENERAL REAGENTS](#GENERAL-REAGENTS)
+10. [DISPENCEABLE SOFT DRINKS](#DISPENCEABLE-SOFT-DRINKS)
+11. [DISPENCEABLE HARD DRINKS](#DISPENCEABLE-HARD-DRINKS)
 12. [CONSUMABLE](#CONSUMABLE)
 13. [PLANTS](#PLANTS)
 14. [URANIUM](#URANIUM)
 15. [COLOURS](#COLOURS)
-16. [RACE MUTATIONS](#RACE MUTATIONS)
-17. [BLOB REAGENTS](#BLOB REAGENTS)
-18. [CHEMICAL REACTIONS](#CHEMICAL REACTIONS)
+16. [RACE MUTATIONS](#RACE-MUTATIONS)
+17. [BLOB REAGENTS](#BLOB-REAGENTS)
+18. [CHEMICAL REACTIONS](#CHEMICAL-REACTIONS)
 
 # DISPENCEABLE REAGENTS
+
+These reagents are available from the chem dispenser.
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -53,6 +55,8 @@
 
 # COMPONENT REAGENTS
 
+These are very basic chemicals that you'll use in a lot of other more complicated chems. They can still be toxic, though. Some of them are available from an upgraded dispenser.
+
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
 |<a href="#Table Salt"><h5 id="Table Salt">![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+)Table Salt</h5></a> pH: 7 | <ul><li><a href="#Water">Water</a>: 1u</li><li><a href="#Sodium">Sodium</a>: 1u</li><li><a href="#Chlorine">Chlorine</a>: 1u</li></ul> | <ul>   </ul>| A salt made of sodium chloride. Commonly used to season food. | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
@@ -68,6 +72,8 @@
 
 # GROUND REAGENTS
 
+These reagents are made from grinding solid sheets of materials in the grinder.
+
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
 |<a href="#Plasma"><h5 id="Plasma">![#8228A0](https://placehold.it/15/8228A0/000000?text=+)Plasma</h5></a> pH: 4 | N/A |  | Plasma in its liquid form. | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
@@ -77,6 +83,8 @@
 
 
 # MEDICINE
+
+These healing drugs are often used to heal a patients condition. All of these are generally metabolised faster or slower based on the patients liver condition.
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -145,6 +153,8 @@
 
 # TOXINS
 
+The deadliest of deadly chemicals, each one of these causes some level of toxin damage on the patient. You can get a bunch of these through the traitor uplink if desired. The human liver will quickly purge toxins under 3u from its system.
+
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
 |<a href="#sucrose agar"><h5 id="sucrose agar">![#41B0C0](https://placehold.it/15/41B0C0/000000?text=+)sucrose agar</h5></a> pH: 2 | <ul><li><a href="#Sugar">Sugar</a>: 1u</li><li><a href="#mutagenic agar">mutagenic agar</a>: 1u</li></ul> | <ul>   </ul>| Might cause unpredictable mutations. Keep away from children. | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
@@ -204,6 +214,8 @@
 
 
 # DRUGS
+
+Narcotics are highly addictive drugs that can aggressively, or passively, provide a benefit. Be wary as its very easy to become addicted, or overdose, on a narcotic. As a general rule of thumb, the more of a positive effect (or any effect) a narcotic can provide, the easier it is to get addicted or overdose on it. People who overdose or get addicted to Narcotics tend to usually end up dying to the negative effects or requiring immediate medical attention. Take in moderation, and keep secret from security! 
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -330,6 +342,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 # IMPURE REAGENTS
 
+These chemicals are only available from impure reagent metabolization/reactions. As a general rule, if the reagent is insoluble in the pure chem, it will precipitate out after the reaction has finished, as a result, some precipitations can be prevented by pushing up the purity mid reaction. If the chem doesn’t precipitate out, yet is still impure, it will only split on metabolising, thus is can be useful to scan your purity in the Chem Master 3000’s analyse function, or use a handheld Chem Analyser.
+
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
 |<a href="#Chemical Isomers"><h5 id="Chemical Isomers">![FFFFFF](https://placehold.it/15/FFFFF/000000?text=+)Chemical Isomers</h5></a> pH: 7 | N/A |  | Toxic chemical isomers made from impure reactions. At low volumes will cause light toxin damage, but as the volume increases, it deals larger amounts, damages the liver, then eventually the heart. This is default impure chem for all chems, and changes only if stated. | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
@@ -339,6 +353,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 |<a href="#Electromagnetic crystals"><h5 id="Electromagnetic crystals">![#000000](https://placehold.it/15/000000/000000?text=+)Electromagnetic crystals</h5></a> pH: 7 | N/A |  | Causes items upon the patient to sometimes short out, as well as causing a shock in the patient, if the residual charge between the crystals builds up to sufficient quantities | <ul><li>Metabolism_rate: 0.25u/s</li>   </ul>|
 
 # GENERAL REAGENTS
+
+These are other chemicals that usually have non-medicinal uses. Many of these can be useful in the manufacturing of grenades, but some can be quite dangerous. 
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -451,6 +467,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 # DISPENCEABLE SOFT DRINKS
 
+These reagents are available from the Soda Dispenser.
+
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
 |<a href="#Coffee"><h5 id="Coffee">![#482000](https://placehold.it/15/482000/000000?text=+)Coffee</h5></a> pH: 7 | <ul><li><a href="#Coffee Grounds">Coffee Grounds</a>: 1u</li><li><a href="#Water">Water</a>: 5u</li></ul> | <ul>   </ul>| Coffee is a brewed drink prepared from roasted seeds, commonly called coffee beans, of the coffee plant. | <ul><li>Metabolism_rate: 0.2u/s</li> <li>Overdose: 80u</li>  </ul>|
@@ -479,6 +497,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 # DISPENCEABLE HARD DRINKS
 
+These reagents are available from the Booze Dispenser.
+
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
 |<a href="#Kahlua"><h5 id="Kahlua">![#664300](https://placehold.it/15/664300/000000?text=+)Kahlua</h5></a> pH: 6 | <ul><li><a href="#Coffee">Coffee</a>: 5u</li><li><a href="#Sugar">Sugar</a>: 5u</li><li>Catalyst: <a href="#Universal Enzyme">Universal Enzyme</a>: 5u</li></ul> | <ul>   </ul>| A widely known, Mexican coffee-flavoured liqueur. In production since 1936! | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
@@ -502,6 +522,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 
 # CONSUMABLE
+
+These reagents are consumable and usually are drinks or some kind of food.
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -734,6 +756,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 # PLANTS
 
+These reagents are useful in tending plants!
+
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
 |<a href="#E-Z-Nutrient"><h5 id="E-Z-Nutrient">![#376400](https://placehold.it/15/376400/000000?text=+)E-Z-Nutrient</h5></a> pH: 2 | N/A |  | Cheap and extremely common type of plant nutriment. | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
@@ -744,6 +768,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 # URANIUM
 
+These reagents are derived from uranium, and are usually used in virology.
+
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
 |<a href="#decaying uranium gel"><h5 id="decaying uranium gel">![#67ADBA](https://placehold.it/15/67ADBA/000000?text=+)decaying uranium gel</h5></a> pH: 4 | <ul><li><a href="#Uranium">Uranium</a>: 1u</li><li><a href="#Virus Food">Virus Food</a>: 1u</li></ul> | <ul>   </ul>| A silvery-white metallic chemical element in the actinide series, weakly radioactive. | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
@@ -753,6 +779,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 
 # COLOURS
+
+Yey colours! Can be used to dye reagents! 
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -770,6 +798,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 
 # RACE MUTATIONS
+
+These chems will change your species on consumption.
 
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
@@ -794,6 +824,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 # BLOB REAGENTS
 
+These reagents are only avalible to a blob! Know thy enemy.
+
 |Name | Reagents | Reaction vars | Description | Chem properties |
 |---|---|---|-----------|---|
 |<a href="#Replicating Foam"><h5 id="Replicating Foam">![#7B5A57](https://placehold.it/15/7B5A57/000000?text=+)Replicating Foam</h5></a> pH: 7 | N/A |  | will do medium brute damage and occasionally expand again when expanding. | <ul><li>Metabolism_rate: 0.2u/s</li>   </ul>|
@@ -811,6 +843,8 @@ Pushes the pH towards 0 or 14 depending on type (acidic/ alkaline), and self con
 
 
 # CHEMICAL REACTIONS
+
+These reactions donn't result in a traditional reagent.
 
 |Name | Reagents | Reaction vars | Description |
 |---|---|---|----------|
