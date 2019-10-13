@@ -139,7 +139,7 @@ A good first step onto the road to chemical mastery is to produce some basic buf
 3. Notice how your reaction is abysmally slow, and remember that heat = reaction rate!
 4. Heat the beaker to 443K, as heating it above 444K will melt the beaker. If you're using a metabeaker, heat that bad boy up even more and give yourself a gold star.
 5. Cool the beaker back down after the reaction.
-6. Separate out the beaker.
+6. Separate out the buffer.
 
 
 You're now ready to react [Eigenstasium](chem_recipies.md#eigenstasium).
@@ -154,6 +154,6 @@ You're now ready to react [Eigenstasium](chem_recipies.md#eigenstasium).
 7. Adjust the pH during the reaction to keep it around 8 using a dropper or a syringe with basic buffer in.
 8. Enjoy wiggly cosmic dust. (But don't OD!)
 
-If you're able to make these two reactions successfully, you should be ready to tackle the other ones on your own. Bare in mind the others can be more difficult, and should be approached with a thoughtful demeanor.
+If you're able to make these two reactions successfully, you should be ready to tackle the other ones on your own. Bear in mind the others can be more difficult, and should be approached with a thoughtful demeanor.
 Also give yourself a plushie for doing so well!
 
