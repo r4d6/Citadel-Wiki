@@ -129,7 +129,7 @@ Purity of a reagent is determined by how pure your reactants were, and how optim
 - For some reactions, it can be useful to keep reagents away from each other until both of them have optimal conditions.
 - Temperature of buffers will change the temperature of whatever you're adding it to! Make sure to not pour hot buffer into a temperature sensitive reaction!
 
-## Walk through of your first Fermireaction
+## Walkthrough of your first Fermireaction
 
 A good first step onto the road to chemical mastery is to produce some basic buffer. [Basic buffer](citadel-wiki/main/guides/#basic-buffer) will test your basic understanding of chemistry by asking for lye.
 
@@ -155,5 +155,5 @@ You're now ready to react [Eigenstasium](citadel-wiki/main/guides/#eigenstasium)
 8. Enjoy wiggly cosmic dust. (But don't OD!)
 
 If you're able to make these two reactions successfully, you should be ready to tackle the other ones on your own. Bear in mind the others can be more difficult, and should be approached with a thoughtful demeanor.
-Also give yourself a plushie for doing so well!
+Also give yourself a headpat for doing so well!
 
