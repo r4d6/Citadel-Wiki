@@ -12,7 +12,7 @@ This guide will primarily be useful for chemists but may come in handy to any pl
 
 ![Heater](https://tgstation13.org/wiki//images/b/bf/Chemheater.png) The <b>Chemical Heater</b> is important for making many recipes that require high temperatures to mix. This is extemely useful in [Fermi Reactions](chem_recipies.md#FERMI) to control the temperature of the reaction. As the heater is upgraded, the accuracy of the pH detection increases in turn, with a fully upgraded heater capable of detecting reagent purity. The heater is capable of accepting injection of chems into the beaker contained within via a ![Syringe](https://tgstation13.org/wiki//images/b/be/Syringes.png)Syringe or a ![Dropper](https://tgstation13.org/wiki//images/7/7a/Eyedropper.png)Dropper.
 
-<b>pH paper</b> can tell you the roght pH by putting it into the beaker. The colour of the strip will indicate what the pH is.
+<b>pH paper</b> can tell you the rough pH by putting it into the beaker. The colour of the strip will indicate what the pH is.
 
 The <b>Chem analyser</b> can give you an indepth analysis of everything in a beaker, notably, the purity and pH. Very useful for ghetto reactions. Can be printed from the autolathe. Toggle the object to give a detailed or reduced analysis.
 
