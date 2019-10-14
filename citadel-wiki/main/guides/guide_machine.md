@@ -798,6 +798,6 @@ Harvests all organs and limbs from bodies placed inside. Only works on corpses, 
 <b>Upgrade effects</b><br />
 - <b>Better micro-laser:</b> Increases the organ harvesting speed.
 
-## ------------------------------------------------------------------------------------------------------
+## ---------------------------------------------------------------------------------------
 TODO :<br />
 Add the images of the machines and of the parts.
