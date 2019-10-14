@@ -1191,4 +1191,3 @@ Source : https://tgstation13.org/wiki/Guide_to_construction
 - Make tables for everything
 - Do the wire section
 - Put the tools' names in the Deconstruction section bold.
-- Do not forget to do the machine part : https://tgstation13.org/wiki/Machines
