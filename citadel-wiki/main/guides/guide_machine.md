@@ -54,19 +54,6 @@ Smelts minerals and awards mining points based on the amount smelted. Requires a
 - <b>Better manipulator:</b> Smelts ores more quickly.
 - <b>Better micro-laser:</b> Increases points generated for miners - plus 35% per upgrade tier.
 
-## Template
-Sample Text
-
-<b>Part Needed</b><br />
-  1x XXX Board<br />
-  Xx Micro manipulator<br />
-  Xx Matter bins<br />
-  Xx Micro-laser<br />
-  
-<b>Upgrade effects</b><br />
-- <b>Better matter bins:</b> 
-- <b>Better manipulator:</b>
-
 ## Recycler
 Grinds items into their base materials. If emagged it will also grind mobs, killing them instantly.
 
@@ -95,19 +82,6 @@ Biomass can in turn be used to produce several organic items such as toolbelts o
 <b>Upgrade effects</b><br />
 - <b>Better matter bins:</b> Biogenerator is faster and gives more points.
 - <b>Better manipulator:</b> Reduces items costs.
-
-## Template
-Sample Text
-
-<b>Part Needed</b><br />
-  1x XXX Board<br />
-  Xx Micro manipulator<br />
-  Xx Matter bins<br />
-  Xx Micro-laser<br />
-  
-<b>Upgrade effects</b><br />
-- <b>Better matter bins:</b> 
-- <b>Better manipulator:</b>
 
 ## Plant DNA Manipulator
 Edits the genes of any seed inserted. Genes can be extracted from seeds, destroying them in the process, saving them on a disk, or they can be inserted on a seed, replacing the seed's own gene at no cost. Can only save a limited amount of potency (50 with base parts), but it has no limits regarding the other genes. You can quick swap disks or seeds out of it by clicking it with a new seed/disk when there is already another seed or disk inside.
