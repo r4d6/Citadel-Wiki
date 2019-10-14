@@ -332,7 +332,7 @@ Cooks food and heats reagents.
 - <b>Better laser:</b> Faster cooking, cooked food contains higher amounts of some reagents, and lower risk of microwave getting dirty from cooking unsuitable items.
 
 ## Gibber
-Lets you gib/butcher humanoids, to turn them into meat and some other byproducts, such as skin. This will destroy all organs. To gib someone, grab them aggressively and then click the gibber with an empty hand while on grab intent Intent Grab.png. After a progress bar, that person will be inserted into the gibber. Click the gibber again with an empty hand to turn it on. Without upgrades you can only gib unclothed bodies. They can still be alive though.
+Lets you gib/butcher humanoids, to turn them into meat and some other byproducts, such as skin. This will destroy all organs. To gib someone, grab them aggressively and then click the gibber with an empty hand while on grab intent. After a progress bar, that person will be inserted into the gibber. Click the gibber again with an empty hand to turn it on. Without upgrades you can only gib unclothed bodies. They can still be alive though.
 
 Meat produced by the gibber will contain any reagents the inserted body had in its systems when gibbed, with some blacklisted exceptions.
 
@@ -462,10 +462,10 @@ Produces research points, as long as it is cooled properly.
 
 ## Nanite Machinery
 ## Nanite Chamber
-Used for implanting non-synchronised (non-cloud) nanites, as well as modifying options of already implanted nanite swarms. Must be operated by a second person with an adjacent Nanite Chamber Control Console (they link automatically). Click the nanite chamber to open it, click-drag a person to put them into the chamber, and then click the console for a menu. With a subject in the chamber, start by clicking "Implant Nanites". This will implant a nanite swarm in the subject. These nanites will not have any programs yet, so they do nothing except generate nanite volume. To install programs you first need to get a nanite program disk with a program on it from a Nanite Program Hub Nanite program hub.png. You have two optional ways to install the program:
+Used for implanting non-synchronised (non-cloud) nanites, as well as modifying options of already implanted nanite swarms. Must be operated by a second person with an adjacent Nanite Chamber Control Console (they link automatically). Click the nanite chamber to open it, click-drag a person to put them into the chamber, and then click the console for a menu. With a subject in the chamber, start by clicking "Implant Nanites". This will implant a nanite swarm in the subject. These nanites will not have any programs yet, so they do nothing except generate nanite volume. To install programs you first need to get a nanite program disk with a program on it from a Nanite Program Hub. You have two optional ways to install the program:
 
 1. Without cloud sync: Put the program disk into the nanite chamber control console and click Install Program From Disk. This will install that single program in the subject inside the scanner. Cloud ID must stay set to "No Cloud" or the program will be overwritten by the cloud.
-2. With cloud sync: Instead of putting the disk into the nanite chamber control console, open its menu and use it to set a Cloud ID (such as 1). Put the program disk in another console; the Nanite Cloud Controller Nanite cloud controller.gif. Create a backup cloud with the same cloud ID as you just gave the subject (such as 1). Then click that backup and then "Upload Program From Disk". The program will then be installed in all implanted subjects with the same cloud ID within a minute.
+2. With cloud sync: Instead of putting the disk into the nanite chamber control console, open its menu and use it to set a Cloud ID (such as 1). Put the program disk in another console; the Nanite Cloud Controller. Create a backup cloud with the same cloud ID as you just gave the subject (such as 1). Then click that backup and then "Upload Program From Disk". The program will then be installed in all implanted subjects with the same cloud ID within a minute.
 
 Other options in this machine:
 Safety Threshold: See Guide to Nanites.
@@ -482,7 +482,7 @@ Uninstall (program): Removes an installed program (will only work with no cloud 
 None
 
 ## Public Nanite Chamber
-The public nanite chamber will automatically implant nanites into anyone who enters it, without the need for a second person. The nanites will be synchronised to a cloud and will do nothing unless that cloud has nanite programs installed. Use a multitool Multitool.png on the Public Nanite Chamber circuit board first to choose which backup cloud you want it synced to. If you don't multitool the board it will default to cloud 1. You must install programs on same backup cloud with a Nanite Cloud Controller Nanite cloud controller.gif to get functional nanites. Does not need a Nanite Chamber Control Console.
+The public nanite chamber will automatically implant nanites into anyone who enters it, without the need for a second person. The nanites will be synchronised to a cloud and will do nothing unless that cloud has nanite programs installed. Use a multitool on the Public Nanite Chamber circuit board first to choose which backup cloud you want it synced to. If you don't multitool the board it will default to cloud 1. You must install programs on same backup cloud with a Nanite Cloud Controller to get functional nanites. Does not need a Nanite Chamber Control Console.
 
 <b>Part Needed</b><br />
   1x Public Nanite Chamber Board<br />
@@ -565,7 +565,7 @@ Stores and distributes large amounts of power.
   1x Capacitor<br />
   5x Power cells<br />
   5x Pieces of cable<br />
-<b>Building the Terminal:</b> Screwdriver open the SMES, and use 10x CableCoils.pngPieces of cable
+<b>Building the Terminal:</b> Screwdriver open the SMES, and use 10x Pieces of cable
   
 <b>Upgrade effects</b><br />
 - <b>Better capacitor:</b> Increases the maximum input & output levels.
@@ -798,6 +798,6 @@ Harvests all organs and limbs from bodies placed inside. Only works on corpses, 
 <b>Upgrade effects</b><br />
 - <b>Better micro-laser:</b> Increases the organ harvesting speed.
 
-##----------------------------------------------------------------------------------------------------
-TODO :
+## ------------------------------------------------------------------------------------------------------
+TODO :<br />
 Add the images of the machines and of the parts.
