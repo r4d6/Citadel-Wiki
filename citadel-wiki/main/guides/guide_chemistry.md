@@ -8,9 +8,9 @@ This guide will primarily be useful for chemists but may come in handy to any pl
 
 ![ChemMast](https://tgstation13.org/wiki//images/9/95/Chemmaster.gif) The <b>ChemMaster 3000</b> can magically separate chemicals, <b> but not isomers</b> and has the ability to produce a limitless supply of 50 unit pills, 40 unit patches and 30 unit bottles. It can also scan a reagent to give an analysis on the synthesis, accurate purity and optimal pH of a reagent's reaction.
 
-![Grinder](https://tgstation13.org/wiki//images/3/39/Blender.png) The <b>Reagent Grinder</b> is identical to the grinder the Chef has. It can be used to extract chemical reagents from things the Shaft Miners, Chef, and Botanists produce (See [Ground Reagents](/citadel-wiki/main/guides/chem_recipies#GROUND-REAGENTS))
+![Grinder](https://tgstation13.org/wiki//images/3/39/Blender.png) The <b>Reagent Grinder</b> is identical to the grinder the Chef has. It can be used to extract chemical reagents from things the Shaft Miners, Chef, and Botanists produce (See [Ground Reagents](/citadel-wiki/main/guides/chem_recipies#ground-reagents))
 
-![Heater](https://tgstation13.org/wiki//images/b/bf/Chemheater.png) The <b>Chemical Heater</b> is important for making many recipes that require high temperatures to mix. This is extemely useful in [Fermi Reactions](/citadel-wiki/main/guides/chem_recipies#FERMI) to control the temperature of the reaction. As the heater is upgraded, the accuracy of the pH detection increases in turn, with a fully upgraded heater capable of detecting reagent purity. The heater is capable of accepting injection of chems into the beaker contained within via a ![Syringe](https://tgstation13.org/wiki//images/b/be/Syringes.png)Syringe or a ![Dropper](https://tgstation13.org/wiki//images/7/7a/Eyedropper.png)Dropper.
+![Heater](https://tgstation13.org/wiki//images/b/bf/Chemheater.png) The <b>Chemical Heater</b> is important for making many recipes that require high temperatures to mix. This is extemely useful in [Fermi Reactions](/citadel-wiki/main/guides/chem_recipies#fermi) to control the temperature of the reaction. As the heater is upgraded, the accuracy of the pH detection increases in turn, with a fully upgraded heater capable of detecting reagent purity. The heater is capable of accepting injection of chems into the beaker contained within via a ![Syringe](https://tgstation13.org/wiki//images/b/be/Syringes.png)Syringe or a ![Dropper](https://tgstation13.org/wiki//images/7/7a/Eyedropper.png)Dropper.
 
 <b>pH paper</b> can tell you the rough pH by putting it into the beaker. The colour of the strip will indicate what the pH is.
 
@@ -26,7 +26,7 @@ They are most often found inside syringe boxes in the open around medbay or in m
 
 ![Dropper](https://tgstation13.org/wiki//images/7/7a/Eyedropper.png) The <b>Dropper</b> is a container used for holding 5u of liquids. An empty dropper will store liquids from other liquid containers such as bottles and beakers. Once full, you can squirt the contents of the dropper at any target adjacent or below you, including other liquid containers, or on people's faces. Toggle in hand to change it to drop one to five units at a time, this is extemely useful for fine tuning the pH of a beaker.
 
-<b>Buffers</b> are reagents that alter the pH of a mixture towards [acidity (0)](/citadel-wiki/main/guides/chem_recipies#acidic-buffer) or [alkalinity (14)](/citadel-wiki/main/guides/chem_recipies#basic-buffer). These liquids dissiplate into a mixture, unless [stabilizing agent](/citadel-wiki/main/guides/chem_recipies#stabilizing-agent) is added.
+<b>Buffers</b> are reagents that alter the pH of a mixture towards [acidity (0)](/citadel-wiki/main/guides/chem_recipies#Acidic buffer) or [alkalinity (14)](/citadel-wiki/main/guides/chem_recipies#Basic buffer). These liquids dissiplate into a mixture, unless [stabilizing agent](/citadel-wiki/main/guides/chem_recipies#Stabilizing Agent) is added.
 
 ## Reagent containers
 
