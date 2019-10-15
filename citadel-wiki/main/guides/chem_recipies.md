@@ -15,9 +15,10 @@
 13. [Plants](#plants)
 14. [Uranium](#uranium)
 15. [Colours](#colours)
-16. [Race mutations](#race-mutations)
-17. [Blob reagents](#blob-reagents)
-18. [Chemical reactions](#chemical-reactions)
+16. [Carpet](#carpet)
+17. [Race mutations](#race-mutations)
+18. [Blob reagents](#blob-reagents)
+19. [Chemical reactions](#chemical-reactions)
 
 # DISPENCEABLE REAGENTS
 
