@@ -5,7 +5,6 @@
 <b>Supervisors :</b> Chief Engineer<br />
 <b>Duties: :</b> Ensure the air is breathable on the station, fill oxygen tanks, fight fires, purify the air because jerks release toxins, do the job of the always incompetent engineers.<br />
 <b>Quote :</b> *I am at work. I can't leave work. Work is breathing. I am testing air quality.* - Manfred Hayden, Atmospheric Technician <br />
-<b>Supervisors :</b> Chief Engineer<br />
 
 What you do is rather simple, if there is any sort of environmental disaster, head off and fix it! You have your tools, your engineering headset, pipe, space heaters, and atmospheric survival equipment. When things get quiet, sit back and start building an on station super slide while people ask why you even work here. When things go wrong, people will scream at you and ask why you even work here.
 
