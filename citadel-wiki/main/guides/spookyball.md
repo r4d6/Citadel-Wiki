@@ -2,7 +2,7 @@
 
 ## Rough Map
 
-![#ChemDisp]("/citadel-wiki/main/guides/images/map.png")
+![#ChemDisp](/citadel-wiki/main/guides/images/map.png)
 
 Above you can see the basic sections of the map! There's lots of secrets and stuff to find that isn't shown here, as well as the cave system itself that's hidden! Go and explore!
 
