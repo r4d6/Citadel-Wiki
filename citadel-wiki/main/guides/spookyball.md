@@ -1,5 +1,7 @@
 # Spookyball guide!
 
+**Welcome to Nanotransylvania, otherwise known as Spooky Station!** It goes without saying this former asylum is quite a bit different than the space stations you normally find yourselves sent to, so here's some information to help you make the most of this little shindig!
+
 ## Spooky Map
 
 ![#Map](/citadel-wiki/main/guides/images/map.png)
@@ -20,4 +22,8 @@ The caves themselves can be mined out using a pickaxe, so you can create your ow
 
 # I can't see!
 
-To the south of the bus is a house with lots of torches, as well as candles being avalible at the woodsman's hut. It's a good idea to keep a source of light on you at all times as comms are down due to the intensisty of spookiness at the spookyball! (PDAs work though!)
+To the south of the bus is a house with lots of torches, as well as candles being available at the woodsman's hut. It's a good idea to keep a source of light on you at all times as comms are down due to the intensisty of spookiness at the spookyball! (PDAs work though!)
+
+## I died!
+
+In the event you party a little _too_ hard, dont worry! The asylum's medbay has been refurbished with modern replacements as needed and there are rumors Nanotrasen has authorized sanctioned warlocks to assist with healing magic. Should you perish deep in the woods without sensors enabled or a clone pre-scan, **this event is one of the few times you'll be able to respawn**. 
