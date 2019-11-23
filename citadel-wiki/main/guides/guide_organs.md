@@ -240,11 +240,8 @@ Transplanting in a new organ is potentially the easiest and fastest way to resto
 # Organ specific treatments
 
 ## Brain <img src="https://tgstation13.org/wiki//images/3/3f/Brain.png"></img>
-
 As the brain becomes damage, it has a chance of gaining random [[Guide_to_Traumas|brain traumas]] and other problems. If a brain reaches 0% health, the person dies. To be able to see exact brain health, you need an advanced health analyzer, which [[CMO]] gets one of by default. Getting killed and cloned does not cure brain traumas. 
-
 ### Ways of getting damaged:
-
 - Imperfect cloning.
 - Certain chemicals such as [[Guide_to_chemistry#Mercury|mercury]], [[Guide_to_chemistry#Impedrezene|impedrezene]], or [[Guide_to_chemistry#Fentanyl|fentanyl]]
 - Abusing certain [[Guide_to_chemistry#Drugs|drugs]].
@@ -252,30 +249,23 @@ As the brain becomes damage, it has a chance of gaining random [[Guide_to_Trauma
 - [[Blood Cult|Unholy Water]]
 - [[Infections#Infection_Listings|Brainrot]]
 - Earthsblood from [[Guide_to_hydroponics#Plants|Ambrosia Gaia]].
-
 ### Treatment:
-
 #### Universal:
 - [[Surgery#Brain_Surgery|Brain Surgery]], will fix brain damage also cure ## severe##  traumas. You can identify severe brain traumas by the prefix "severe" on health analyzer. [[Nanites#Healing_Programs|Nanites]] can cure these and lower level traumas. 
 - [[Surgery#Lobotomy|Lobotomy]] will cure ## deep-rooted brain traumas## . You can identify deep-rooted brain traumas by the prefix "deep-rooted" on health analyzer. Some [[Virus#Symptoms_Table|viruses]] can cure these and lower level traumas. 
-
-
 #### Acute:
 -	Mannitol will slowly treat acute level damage.
 -	Neuro-Smash will also treat acute brain damage slowly.
-
 #### Chronic:
 -	Pure Mannitol will slowly treat chronic and acute level damage.
 -	Neurine will treat chronic and acute level damage, and cure basic brain traumas. These traumas have no prefix on health analyzer.
-
 #### End stage:
 -	Injecting pure Neurine into a corpse, or splashing a disembodied brain with neurine will restore a brain back to chronic levels of damage for a short time.
 
 #### Permanent :
 Brain traumas that are either permanent or curable with magic, which is typically unavailable. Failing a lobotomy can cause these traumas. You can identify permanent brain traumas by the prefix "permanent" on health analyzer. If you get one of these, then assume "this is life now".
 
-## Heart
-
+## Heart ![Heart](https://tgstation13.org/wiki//images/f/f7/Heart.png)
 ### Ways of getting damaged:
 -	I dunno yet
 -	Probably bleeding
@@ -288,9 +278,7 @@ Brain traumas that are either permanent or curable with magic, which is typicall
 -	Coronary bypass
 -	Emergency Cardioversion Induction
 
-
-## Liver
-
+## Liver ![Liver](https://tgstation13.org/wiki//images/f/f7/Liver_organ.png)
 ### Ways of getting damaged:
 -	Too much alcohol
 -	Toxin ingestion
@@ -302,10 +290,8 @@ Brain traumas that are either permanent or curable with magic, which is typicall
 #### End stage:
 -	Hepatectomy
 
-
-## Lungs
-Lungs are unusual in that they have more health than most organs, and will take longer to treat. At a certain point,
-
+## Lungs ![Lungs](https://tgstation13.org/wiki//images/f/f7/Lungs.png)
+Lungs are unusual in that they have more health than most organs, and will take longer to treat. When chronic, there is a small chance on damage for a lobe to deflate. If both lobes deflate it will instantly fail.
 ### Ways of getting damaged:
 -	Impure Yamerol
 -	Breathing very hot/very cold air.
@@ -318,16 +304,14 @@ Lungs are unusual in that they have more health than most organs, and will take 
 -	Lobectomy
 
 ## Appendix
-
 ### Ways of getting damaged:
 -	Appendicitis 
-#### Treatment:
+### Treatment:
 #### Universal:
 -	Removing the appendix with surgery.
 
-## Stomach
+## Stomach ![Stomach](https://tgstation13.org/wiki//images/f/f7/Stomach_organ.png)
 The stomach repairs itself quicker than other organs and thus treatments are usually secondary rather than primary.
-
 ### Ways of getting damaged:
 -	Very acidic/basic stomach acid pH
 ### Treatment:
@@ -337,8 +321,7 @@ The stomach repairs itself quicker than other organs and thus treatments are usu
 #### End stage:
 -	There is no specific treatment for stomachs, rely on transplantation or grafting SuperSomatic Synthtissue.
 
-## Eyes
-
+## Eyes ![Eyes](https://tgstation13.org/wiki//images/f/f7/Eyes.png)
 ### Ways of getting damaged:
 -	Bright flashes
 -	Using the welder without protection
@@ -350,8 +333,7 @@ The stomach repairs itself quicker than other organs and thus treatments are usu
 -	Pure Oculine can restore non-functional eyes.
 -	Eye surgery
 
-## Ears
-
+## Ears ![Ears](https://tgstation13.org/wiki//images/f/f7/Ears.png)
 ### Ways of getting damaged:
 -	Loud noises
 ### Treatment:
