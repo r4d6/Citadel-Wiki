@@ -1,4 +1,4 @@
-# ![Liver](https://tgstation13.org/wiki//images/f/f7/Liver_organ.png) Organ damage
+# ![Liver<img src="https://tgstation13.org/wiki//images/f/f7/Liver_organ"></img> Organ damage
 
 
 Organ damage will cause side-effects as they reach thresholds, which will alert the owner when passed. If an organ shows up as "non-functional", that means its failing, and will not work, and will cause some life-threatening ailments depending on which organ it is. There is currently no way to see the exact damage of each organ, but for the most part they function on low-threshold, high-threshold, and failing, which will show up as "mildly damaged", "severely damaged", and "non-functional" lists when you scan someone with a medical scanner. Note that all the listed organs decay over time, which is the most common way they'll get damaged- but [[Surgery#Cybernetic_Organs|synthetic organs]] do not! The best way to avoid any of these side-effects is to replace your fleshy organs for [[Surgery#Cybernetic_Organs|metallic ones]], though these too come with downsides in the form of EMP vulnerability.
@@ -46,7 +46,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td><img src="https://tgstation13.org/wiki//images/d/d9/Heart.png"></img>)
+   <td><img src="https://tgstation13.org/wiki//images/d/d9/Heart.png"></img>
    </td>
    <td>Heart
    </td>
@@ -60,7 +60,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Liver](https://tgstation13.org/wiki//images/f/f7/Liver_organ.png)
+   <td><img src="https://tgstation13.org/wiki//images/f/f7/Liver_organ"></img>
    </td>
    <td>Liver
    </td>
@@ -74,7 +74,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Lungs](https://tgstation13.org/wiki//images/f/f7/Lungs.png)
+   <td>![Lungs<img src="https://tgstation13.org/wiki//images/f/f7/Lungs"></img>
    </td>
    <td>Lungs
    </td>
@@ -88,7 +88,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Appendix](https://tgstation13.org/wiki//images/f/f7/Appendix.png)
+   <td>![Appendix<img src="https://tgstation13.org/wiki//images/f/f7/Appendix"></img>
    </td>
    <td>Appendix
    </td>
@@ -102,7 +102,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Stomach](https://tgstation13.org/wiki//images/f/f7/Stomach_organ.png)
+   <td>![Stomach<img src="https://tgstation13.org/wiki//images/f/f7/Stomach_organ"></img>
    </td>
    <td>Stomach
    </td>
@@ -116,7 +116,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Eyes](https://tgstation13.org/wiki//images/f/f7/Eyes.png)
+   <td>![Eyes<img src="https://tgstation13.org/wiki//images/f/f7/Eyes"></img>
    </td>
    <td>Eyes
    </td>
@@ -130,7 +130,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Ears](https://tgstation13.org/wiki//images/f/f7/Ears.png)
+   <td>![Ears<img src="https://tgstation13.org/wiki//images/f/f7/Ears"></img>
    </td>
    <td>Ears
    </td>
@@ -144,7 +144,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Brain](https://tgstation13.org/wiki//images/f/f7/Brain.png)
+   <td>![Brain<img src="https://tgstation13.org/wiki//images/f/f7/Brain"></img>
    </td>
    <td>Brain
    </td>
@@ -161,52 +161,52 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
 
 |Image|Organ| Decay time| Damage effects| End stage Failure effects| Acute Treatment | Chronic Treatment | End stage Failure options|
 |-|-|-|-|-|-|-|
-|![Heart](https://tgstation13.org/wiki//images/f/f7/Heart.png)|Heart|5 minutes|Expends oxygen faster by increasing breathing rate. |Heart attack. The patient will fall [[Status_Effects#Unconscious|unconscious]] and rapidly take suffocation and brute damage until death. A broken heart stops defibrillation from working. |[[Surgery#Coronary_Bypass|Coronary bypass]], [[Guide_to_chemistry#Corazone|corazone]] or replacing the heart with [[Surgery#Organ_Manipulation|surgery]]. Heart attack is treatable with defibrillation, unless the heart is broken.| |-
+|![Heart<img src="https://tgstation13.org/wiki//images/f/f7/Heart"></img>|Heart|5 minutes|Expends oxygen faster by increasing breathing rate. |Heart attack. The patient will fall [[Status_Effects#Unconscious|unconscious]] and rapidly take suffocation and brute damage until death. A broken heart stops defibrillation from working. |[[Surgery#Coronary_Bypass|Coronary bypass]], [[Guide_to_chemistry#Corazone|corazone]] or replacing the heart with [[Surgery#Organ_Manipulation|surgery]]. Heart attack is treatable with defibrillation, unless the heart is broken.| |-
 
 
-|![Liver](https://tgstation13.org/wiki//images/f/f7/Liver_organ.png)
+|![Liver<img src="https://tgstation13.org/wiki//images/f/f7/Liver_organ"></img>
 |Liver
 |15 minutes
 |Toxin damage. 
 |Rapid toxin damage and chemicals are no longer processed. 
 |[[Guide_to_chemistry#Corazone|Corazone]] or replacing the liver with [[Surgery#Organ_Manipulation|surgery]]. 
 |-
-|![Lungs](https://tgstation13.org/wiki//images/f/f7/Lungs.png)
+|![Lungs<img src="https://tgstation13.org/wiki//images/f/f7/Lungs"></img>
 |Lungs
 |15 minutes
 |Expends oxygen faster by increasing breathing rate. 
 |Prevents breathing, leading to rapid death from suffocation. 
 |[[Surgery#Lobectomy|Lobectomy]] or replacing the lungs with [[Surgery#Organ_Manipulation|surgery]]. 
 |-
-|![Appendix](https://tgstation13.org/wiki//images/f/f7/Appendix.png)|Appendix]]
+|![Appendix<img src="https://tgstation13.org/wiki//images/f/f7/Appendix"></img>|Appendix]]
 |Appendix
 |15 minutes
 |Nothing.
 |It bursts, causing toxin damage until the organ is removed. 
 |Removing the appendix with [[Surgery#Organ_Manipulation|surgery]]. 
 |-
-|![Stomach](https://tgstation13.org/wiki//images/f/f7/Stomach_organ.png)
+|![Stomach<img src="https://tgstation13.org/wiki//images/f/f7/Stomach_organ"></img>
 |Stomach
 |15 minutes
 |Causing vomiting depending on the amount of food consumed and the damage of the stomach. 
 |Can't digest any food.
 |Replacing the stomach with [[Surgery#Organ_Manipulation|surgery]]. 
 |-
-|![Eyes](https://tgstation13.org/wiki//images/f/f7/Eyes.png)
+|![Eyes<img src="https://tgstation13.org/wiki//images/f/f7/Eyes"></img>
 |Eyes
 |15 minutes
 |Worsening eyesight until fully blind. 
 |Blindness. 
 |[[Guide_to_chemistry#Oculine|Oculine]] or [[Surgery#Eye_Surgery|eye surgery]]. 
 |-
-|![Ears](https://tgstation13.org/wiki//images/f/f7/Ears.png)
+|![Ears<img src="https://tgstation13.org/wiki//images/f/f7/Ears"></img>
 |Ears
 |15 minutes
 |Worsening occasional tinnitus, causing very brief deafness. 
 |Deafness.
 |[[Guide_to_chemistry#Inacusiate|Inacusiate]]. 
 |-
-|![Brain](https://tgstation13.org/wiki//images/f/f7/Brain.png)
+|![Brain<img src="https://tgstation13.org/wiki//images/f/f7/Brain"></img>
 |Brain
 |30 minutes
 |See [[#Brain_damage|Brain damage]].
@@ -214,7 +214,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
 |See [[#Brain_damage|Brain damage]].
 |}
 
-=== ![Brain](https://tgstation13.org/wiki//images/f/f7/Brain.png)Brain damage ===
+=== ![Brain<img src="https://tgstation13.org/wiki//images/f/f7/Brain"></img>Brain damage ===
 
 Nasty. Randomly causes [[Guide_to_Traumas|brain traumas]] and other problems. If a brain reaches 0% health, the person dies. To be able to see exact brain health, you need an advanced health analyzer, which [[CMO]] gets one of by default. Getting killed and cloned does not cure brain traumas. 
 
