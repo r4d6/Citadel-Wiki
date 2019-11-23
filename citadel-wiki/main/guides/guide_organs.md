@@ -55,7 +55,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
    <td>Expends oxygen faster by increasing breathing rate.
    </td>
-   <td>Heart attack. The patient will fall unconsciousand rapidly take suffocation and brute damage until death. inability to defib patient.
+   <td>Heart attack. The patient will fall unconscious and rapidly take suffocation and brute damage until death. inability to defib patient.
    </td>
   </tr>
   <tr>
@@ -158,11 +158,15 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
   </tr>
 </table>
 
-# Treatment options
-
 ## Types of damage
 
-An organ can suffer either Acute, Chronic or End Stage Failure. Depending on the severity, different treatment options are avalible for each organ. One of the most versatile options is Grafting Synthtissue to an organ. Synthtissue can be grafted to any organ to repair some of the damage, using 10u of the solution each step. This step can be repeated with 10u each time to continue treating the patient. It's important to note, however, that the patient will slowly metabolise synthtissue if you take too long. The strength of the treatment is equal to the colony size.
+An organ can suffer either Acute, Chronic or End Stage Failure which will limit what treatments are available to it and the potency of the effects applied. A normal health scanner can only detect chronic to end stage, while an advanced can see acute too.
+
+# Treatment Options
+
+ Depending on the severity, different treatment options are available for each organ. One of the most versatile options is Grafting Synthtissue to an organ. Synthtissue can be grafted to any organ to repair some of the damage, using 10u of the solution each step. This step can be repeated with 10u each time to continue treating the patient. It's important to note, however, that the patient will slowly metabolise synthtissue if you take too long. The strength of the treatment is equal to the colony size.
+
+### Universal Treatment Options
 
 ### Synthtissue colony size and effects.
 
@@ -206,7 +210,7 @@ Synthtissue can take
    </td>
    <td>>135u
    </td>
-   <td>Fixes any dead tissue found in the patient, and restarts any failing organs, bringing them back to life. If they are revived this way, the synthtissue can only keep them alive for so long, effectively giving them a "borrowed health". Follow up treatment is heavily recommended to combat the resulting toxin and clone damage. If the patient is given a purge, they will take severe damage, and thus purging agents should be avoided until synthtissue is through their system.
+   <td>Fixes any dead tissue found in the patient when added to a corpse, and restarts any failing organs, bringing them back to life. If they are revived this way, the synthtissue can only keep them alive for so long, effectively giving them a "borrowed health". Follow up treatment is heavily recommended to combat the resulting toxin and clone damage. If the patient is given a purge, they will take severe damage, and thus purging agents should be avoided until synthtissue is through their system.
    </td>
   </tr>
   <tr>
@@ -219,27 +223,141 @@ Synthtissue can take
   </tr>
 </table>
 
+One way to create a large amount is to create a big batch of the reactants, set the pH and temperature, then pour it in multiple beakers so they all grow simultaneously.
+
+### Revival surgery
+
+A researchable surgery which allows you to bring any corpse back to life. Performing this surgery will work regardless of the time of death and will restore any end stage organs to chronic levels.
+
+### Emergency Cardioversion Induction
+
+An emergency surgery useful for reviving a person within the defib limit, but with a end stage brain or heart. Will bring any corpses back to life with chronic heart and brain failure. Also useful for emergency revivals in situations with no defib available, just use a power cell or an inducer. 
+
+### Transplant
+
+Transplanting in a new organ is potentially the easiest and fastest way to restore organ functionality. Just make sure the patient is not suffering from a bacterial infection, as this will transfer across(NOT IMPLEMENTED YET).
+
+# Organ specific treatments
 
 ## Brain <img src="https://tgstation13.org/wiki//images/3/3f/Brain.png"></img>
 
-Nasty. Randomly causes [[Guide_to_Traumas|brain traumas]] and other problems. If a brain reaches 0% health, the person dies. To be able to see exact brain health, you need an advanced health analyzer, which [[CMO]] gets one of by default. Getting killed and cloned does not cure brain traumas. 
+As the brain becomes damage, it has a chance of gaining random [[Guide_to_Traumas|brain traumas]] and other problems. If a brain reaches 0% health, the person dies. To be able to see exact brain health, you need an advanced health analyzer, which [[CMO]] gets one of by default. Getting killed and cloned does not cure brain traumas. 
 
 ### Ways of getting damaged:
 
-* Imperfect cloning.
-* Certain chemicals such as [[Guide_to_chemistry#Mercury|mercury]], [[Guide_to_chemistry#Impedrezene|impedrezene]], or [[Guide_to_chemistry#Fentanyl|fentanyl]]
-* Abusing certain [[Guide_to_chemistry#Narcotics|narcotics]].
-* [[Chaplain]]'s bible applied to the head.
-* [[Blood Cult|Unholy Water]]
-* [[Infections#Infection_Listings|Brainrot]]
-* Earthsblood from [[Guide_to_hydroponics#Plants|Ambrosia Gaia]].
+- Imperfect cloning.
+- Certain chemicals such as [[Guide_to_chemistry#Mercury|mercury]], [[Guide_to_chemistry#Impedrezene|impedrezene]], or [[Guide_to_chemistry#Fentanyl|fentanyl]]
+- Abusing certain [[Guide_to_chemistry#Drugs|drugs]].
+- [[Chaplain]]'s bible applied to the head.
+- [[Blood Cult|Unholy Water]]
+- [[Infections#Infection_Listings|Brainrot]]
+- Earthsblood from [[Guide_to_hydroponics#Plants|Ambrosia Gaia]].
 
 ### Treatment:
 
-#### Acute
+#### Universal:
+- [[Surgery#Brain_Surgery|Brain Surgery]], will fix brain damage also cure ## severe##  traumas. You can identify severe brain traumas by the prefix "severe" on health analyzer. [[Nanites#Healing_Programs|Nanites]] can cure these and lower level traumas. 
+- [[Surgery#Lobotomy|Lobotomy]] will cure ## deep-rooted brain traumas## . You can identify deep-rooted brain traumas by the prefix "deep-rooted" on health analyzer. Some [[Virus#Symptoms_Table|viruses]] can cure these and lower level traumas. 
 
-* [[Guide_to_chemistry#Mannitol|Mannitol]] pills or injections slowly cure brain damage, but does not cure [[Guide_to_Traumas|brain traumas]]. 
-* [[Guide_to_chemistry#Neurine|Neurine]] will treat the most ## basic##  brain traumas. These traumas have no prefix on health analyzer. 
-* [[Surgery#Brain_Surgery|Brain Surgery]], will also cure ## severe##  traumas. You can identify severe brain traumas by the prefix "severe" on health analyzer. [[Nanites#Healing_Programs|Nanites]] can cure these and lower level traumas. 
-* [[Surgery#Lobotomy|Lobotomy]] will cure ## deep-rooted brain traumas## . You can identify deep-rooted brain traumas by the prefix "deep-rooted" on health analyzer. Some [[Virus#Symptoms_Table|viruses]] can cure these and lower level traumas. 
-* ## Permanent##  brain traumas are either permanent or curable with magic, which is typically unavailable. Failing a lobotomy can cause these traumas. You can identify permanent brain traumas by the prefix "permanent" on health analyzer. If you get one of these, then assume "this is life now".
+
+#### Acute:
+-	Mannitol will slowly treat acute level damage.
+-	Neuro-Smash will also treat acute brain damage slowly.
+
+#### Chronic:
+-	Pure Mannitol will slowly treat chronic and acute level damage.
+-	Neurine will treat chronic and acute level damage, and cure basic brain traumas. These traumas have no prefix on health analyzer.
+
+#### End stage:
+-	Injecting pure Neurine into a corpse, or splashing a disembodied brain with neurine will restore a brain back to chronic levels of damage for a short time.
+
+#### Permanent :
+Brain traumas that are either permanent or curable with magic, which is typically unavailable. Failing a lobotomy can cause these traumas. You can identify permanent brain traumas by the prefix "permanent" on health analyzer. If you get one of these, then assume "this is life now".
+
+## Heart
+
+### Ways of getting damaged:
+-	I dunno yet
+-	Probably bleeding
+### Treatment:
+#### Acute:
+-	Corazone will slowly treat acute level damage and prevent sudden onset cardiac arrest.
+#### Chronic:
+-	Pure Corazone will very slowly treat Chronic heart damage
+#### End stage:
+-	Coronary bypass
+-	Emergency Cardioversion Induction
+
+
+## Liver
+
+### Ways of getting damaged:
+-	Too much alcohol
+-	Toxin ingestion
+### Treatment:
+#### Acute:
+-	Antihol will slowly treat acute level damage
+#### Chronic:
+-	Hepatectomy
+#### End stage:
+-	Hepatectomy
+
+
+## Lungs
+Lungs are unusual in that they have more health than most organs, and will take longer to treat. At a certain point,
+
+### Ways of getting damaged:
+-	Impure Yamerol
+-	Breathing very hot/very cold air.
+### Treatment:
+#### Acute:
+-	Yamerol
+#### Chronic:
+-	Pure Yamerol
+#### End stage:
+-	Lobectomy
+
+## Appendix
+
+### Ways of getting damaged:
+-	Appendicitis 
+#### Treatment:
+#### Universal:
+-	Removing the appendix with surgery.
+
+## Stomach
+The stomach repairs itself quicker than other organs and thus treatments are usually secondary rather than primary.
+
+### Ways of getting damaged:
+-	Very acidic/basic stomach acid pH
+### Treatment:
+-	Neutralise internal pH and let natural regeneration fix it.
+-	Antacids will neutralise acidic stomach conditions and sooth acute damage.
+-	Antbases will neutralise acidic stomach conditions and sooth acute damage.
+#### End stage:
+-	There is no specific treatment for stomachs, rely on transplantation or grafting SuperSomatic Synthtissue.
+
+## Eyes
+
+### Ways of getting damaged:
+-	Bright flashes
+-	Using the welder without protection
+### Treatment:
+#### Acute + Chronic:
+-	Oculine will slowly treat eye damage and treat some other sources of blindness
+-	Eye surgery
+#### End stage:
+-	Pure Oculine can restore non-functional eyes.
+-	Eye surgery
+
+## Ears
+
+### Ways of getting damaged:
+-	Loud noises
+### Treatment:
+#### Acute + Chronic:
+-	Inacusiate will slowly treat ear damage.
+#### End stage:
+-	Pure Inacusiate will instantly restore all ear function.
+
+
