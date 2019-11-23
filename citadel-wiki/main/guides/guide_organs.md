@@ -73,7 +73,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Lungs<img src="https://tgstation13.org/wiki//images/f/f7/Lungs.png"></img>
+   <td><img src="https://tgstation13.org/wiki//images/2/23/Lungs.png"></img>
    </td>
    <td>Lungs
    </td>
@@ -143,7 +143,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Brain<img src="https://tgstation13.org/wiki//images/f/f7/Brain.png"></img>
+   <td><img src="https://tgstation13.org/wiki//images/3/3f/Brain.png"></img>
    </td>
    <td>Brain
    </td>
@@ -158,8 +158,69 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
   </tr>
 </table>
 
+# Treatment options
 
-## Brain https://tgstation13.org/wiki//images/3/3f/Brain.png"></img>
+## Types of damage
+
+An organ can suffer either Acute, Chronic or End Stage Failure. Depending on the severity, different treatment options are avalible for each organ. One of the most versatile options is Grafting Synthtissue to an organ. Synthtissue can be grafted to any organ to repair some of the damage, using 10u of the solution each step. This step can be repeated with 10u each time to continue treating the patient. It's important to note, however, that the patient will slowly metabolise synthtissue if you take too long. The strength of the treatment is equal to the colony size.
+
+### Synthtissue colony size and effects.
+
+Synthtissue can take 
+
+<table>
+  <tr>
+   <td><strong>Name</strong>
+   </td>
+   <td><strong>Grown amount</strong>
+   </td>
+   <td><strong>Effects</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Induced Synthtissue Colony
+   </td>
+   <td>0
+   </td>
+   <td>Used in Graft synthtissue surgery to fix Acute and Chronically damaged organs. When applied by touch on a living person, it will treat Brute and burn damage instantly based on colony growth size and volume. If used on the dead, it will rapidly treat non organ damage to prepare for defib. If a patient is treated while dead, the urgency of the touch application will cause toxin and clone damage from the imperfect cell merging process and follow up treatment should be given to the patient. Under no circumstances should dead touch applied synthtissue be purged, and this will dramatically damage the patient when removed.
+   </td>
+  </tr>
+  <tr>
+   <td>Oligopotent Synthtissue Colony
+   </td>
+   <td>>50u
+   </td>
+   <td>Able to be injected into the heart by targeting the chest to emergency repair an end stage failed heart to prep for defib.
+   </td>
+  </tr>
+  <tr>
+   <td>Pluripotent Synthtissue Colony
+   </td>
+   <td>>80u
+   </td>
+   <td>Able to be used with End Stage Failing organs to repair them.
+   </td>
+  </tr>
+  <tr>
+   <td>SuperSomatic Synthtissue Colony
+   </td>
+   <td>>135u
+   </td>
+   <td>Fixes any dead tissue found in the patient, and restarts any failing organs, bringing them back to life. If they are revived this way, the synthtissue can only keep them alive for so long, effectively giving them a "borrowed health". Follow up treatment is heavily recommended to combat the resulting toxin and clone damage. If the patient is given a purge, they will take severe damage, and thus purging agents should be avoided until synthtissue is through their system.
+   </td>
+  </tr>
+  <tr>
+   <td>Omnipotent Synthtissue Colony
+   </td>
+   <td>>175u
+   </td>
+   <td>Regenerates a single missing organ, and repairs a single failing organ per 15u injection.
+   </td>
+  </tr>
+</table>
+
+
+## Brain <img src="https://tgstation13.org/wiki//images/3/3f/Brain.png"></img>
 
 Nasty. Randomly causes [[Guide_to_Traumas|brain traumas]] and other problems. If a brain reaches 0% health, the person dies. To be able to see exact brain health, you need an advanced health analyzer, which [[CMO]] gets one of by default. Getting killed and cloned does not cure brain traumas. 
 
