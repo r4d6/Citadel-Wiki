@@ -1,6 +1,5 @@
 # ![Liver<img src="https://tgstation13.org/wiki//images/f/f7/Liver_organ.png"></img> Organ damage
 
-
 Organ damage will cause side-effects as they reach thresholds, which will alert the owner when passed. If an organ shows up as "non-functional", that means its failing, and will not work, and will cause some life-threatening ailments depending on which organ it is. There is currently no way to see the exact damage of each organ, but for the most part they function on low-threshold, high-threshold, and failing, which will show up as "mildly damaged", "severely damaged", and "non-functional" lists when you scan someone with a medical scanner. Note that all the listed organs decay over time, which is the most common way they'll get damaged- but [[Surgery#Cybernetic_Organs|synthetic organs]] do not! The best way to avoid any of these side-effects is to replace your fleshy organs for [[Surgery#Cybernetic_Organs|metallic ones]], though these too come with downsides in the form of EMP vulnerability.
 
 ## Ways of getting damaged:
@@ -8,13 +7,13 @@ Organ damage will cause side-effects as they reach thresholds, which will alert 
 * Flashes and sharp objects in the eyes (eyes)
 * Loud noises (ears)
 * Appendicitis (appendix)
-* Otherwise, an organ that's not in a living body (thus is on the ground or in a dead body) will decay if not held in a freezer, fridge, morgue unit, or [[Machines#Smartfridge|organ smartfridge]]. Organs will go from perfectly healthy to broken in 15 minutes, except for hearts, which will decay completely in 3 minutes, and brains, which will decay completely in 30 minutes.
+* Otherwise, an organ that's not in a living body (thus is on the ground or in a dead body) will decay if not held in a freezer, fridge, morgue unit, or [[Machines#Smartfridge|organ smartfridge]]. Organs will go from perfectly healthy to broken in 25 minutes, except for hearts, which will decay completely in 3 minutes, and brains, which will decay completely in 30 minutes.
 
 ## Treatment:
 
 * [[Surgery#Coronary_Bypass|A coronary bypass]] can be performed on a heart that's decayed past 60 damage, and restores functionality. Good for getting a heart that's too damaged to defib to work again.
-* [[Surgery#Lobectomy|A lobectomy]] will do the same as above but for the lungs, which will scarce occur due to their 15 minute decay timer, but it's still an option. 
-* [[Guide_to_chemistry#Oculine|Oculine]] will rapidly fix damaged eyes, clearing any shortsightedness/blindness caused by damage.
+* [[Surgery#Lobectomy|A lobectomy]] will do the same as above but for the lungs, which will scarce occur due to their 25 minute decay timer, but it's still an option. 
+* [[Guide_to_chemistry#Oculine|Oculine]] will rapidly fix damaged eyes, clearing any short sightedness/blindness caused by damage.
 * [[Guide_to_chemistry#Inacusiate|Inacusiate]] will immediately fix damaged ears to a perfect state.
 * Otherwise, time and health will fix most organs (not the brain!). The healthier you are, the faster this rate goes, with a base rate of around half an hour for an organ to go from max damage to perfectly healthy. Taking vitamins increases your health, and thus increases this rate, so eat smart!
 
@@ -64,7 +63,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
    <td>Liver
    </td>
-   <td>15 minutes
+   <td>25 minutes
    </td>
    <td>Filters out toxins below 3u.
    </td>
@@ -78,7 +77,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
    <td>Lungs
    </td>
-   <td>15 minutes
+   <td>25 minutes
    </td>
    <td>Lets the patient breathe, and passivel restore suffocation damage.
    </td>
@@ -88,11 +87,11 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Appendix<img src="https://tgstation13.org/wiki//images/f/f7/Appendix.png"></img>
+   <td><img src="https://tgstation13.org/wiki//images/9/98/Appendix.png"></img>
    </td>
    <td>Appendix
    </td>
-   <td>15 minutes
+   <td>25 minutes
    </td>
    <td>Supports immune system
    </td>
@@ -102,11 +101,11 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Stomach<img src="https://tgstation13.org/wiki//images/f/f7/Stomach_organ.png"></img>
+   <td><img src="https://tgstation13.org/wiki//images/f/f7/Stomach_organ.png"></img>
    </td>
    <td>Stomach
    </td>
-   <td>15 minutes
+   <td>25 minutes
    </td>
    <td>Handles digestion
    </td>
@@ -116,11 +115,11 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Eyes<img src="https://tgstation13.org/wiki//images/f/f7/Eyes.png"></img>
+   <td><img src="https://tgstation13.org/wiki//images/5/57/Eyes.png"></img>
    </td>
    <td>Eyes
    </td>
-   <td>15 minutes
+   <td>25 minutes
    </td>
    <td>Lets the patient see.
    </td>
@@ -130,11 +129,11 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Ears<img src="https://tgstation13.org/wiki//images/f/f7/Ears.png"></img>
+   <td><img src="https://tgstation13.org/wiki//images/e/ec/Ears.png"></img>
    </td>
    <td>Ears
    </td>
-   <td>15 minutes
+   <td>25 minutes
    </td>
    <td>Lets the patient hear.
    </td>
@@ -159,66 +158,12 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
   </tr>
 </table>
 
-|Image|Organ| Decay time| Damage effects| End stage Failure effects| Acute Treatment | Chronic Treatment | End stage Failure options|
-|-|-|-|-|-|-|-|
-|![Heart<img src="https://tgstation13.org/wiki//images/f/f7/Heart.png"></img>|Heart|5 minutes|Expends oxygen faster by increasing breathing rate. |Heart attack. The patient will fall [[Status_Effects#Unconscious|unconscious]] and rapidly take suffocation and brute damage until death. A broken heart stops defibrillation from working. |[[Surgery#Coronary_Bypass|Coronary bypass]], [[Guide_to_chemistry#Corazone|corazone]] or replacing the heart with [[Surgery#Organ_Manipulation|surgery]]. Heart attack is treatable with defibrillation, unless the heart is broken.| |-
 
-
-|![Liver<img src="https://tgstation13.org/wiki//images/f/f7/Liver_organ.png"></img>
-|Liver
-|15 minutes
-|Toxin damage. 
-|Rapid toxin damage and chemicals are no longer processed. 
-|[[Guide_to_chemistry#Corazone|Corazone]] or replacing the liver with [[Surgery#Organ_Manipulation|surgery]]. 
-|-
-|![Lungs<img src="https://tgstation13.org/wiki//images/f/f7/Lungs.png"></img>
-|Lungs
-|15 minutes
-|Expends oxygen faster by increasing breathing rate. 
-|Prevents breathing, leading to rapid death from suffocation. 
-|[[Surgery#Lobectomy|Lobectomy]] or replacing the lungs with [[Surgery#Organ_Manipulation|surgery]]. 
-|-
-|![Appendix<img src="https://tgstation13.org/wiki//images/f/f7/Appendix.png"></img>|Appendix]]
-|Appendix
-|15 minutes
-|Nothing.
-|It bursts, causing toxin damage until the organ is removed. 
-|Removing the appendix with [[Surgery#Organ_Manipulation|surgery]]. 
-|-
-|![Stomach<img src="https://tgstation13.org/wiki//images/f/f7/Stomach_organ.png"></img>
-|Stomach
-|15 minutes
-|Causing vomiting depending on the amount of food consumed and the damage of the stomach. 
-|Can't digest any food.
-|Replacing the stomach with [[Surgery#Organ_Manipulation|surgery]]. 
-|-
-|![Eyes<img src="https://tgstation13.org/wiki//images/f/f7/Eyes.png"></img>
-|Eyes
-|15 minutes
-|Worsening eyesight until fully blind. 
-|Blindness. 
-|[[Guide_to_chemistry#Oculine|Oculine]] or [[Surgery#Eye_Surgery|eye surgery]]. 
-|-
-|![Ears<img src="https://tgstation13.org/wiki//images/f/f7/Ears.png"></img>
-|Ears
-|15 minutes
-|Worsening occasional tinnitus, causing very brief deafness. 
-|Deafness.
-|[[Guide_to_chemistry#Inacusiate|Inacusiate]]. 
-|-
-|![Brain<img src="https://tgstation13.org/wiki//images/f/f7/Brain.png"></img>
-|Brain
-|30 minutes
-|See [[#Brain_damage|Brain damage]].
-|Death.
-|See [[#Brain_damage|Brain damage]].
-|}
-
-=== ![Brain<img src="https://tgstation13.org/wiki//images/f/f7/Brain.png"></img>Brain damage ===
+## Brain https://tgstation13.org/wiki//images/3/3f/Brain.png"></img>
 
 Nasty. Randomly causes [[Guide_to_Traumas|brain traumas]] and other problems. If a brain reaches 0% health, the person dies. To be able to see exact brain health, you need an advanced health analyzer, which [[CMO]] gets one of by default. Getting killed and cloned does not cure brain traumas. 
 
-## Ways of getting damaged:
+### Ways of getting damaged:
 
 * Imperfect cloning.
 * Certain chemicals such as [[Guide_to_chemistry#Mercury|mercury]], [[Guide_to_chemistry#Impedrezene|impedrezene]], or [[Guide_to_chemistry#Fentanyl|fentanyl]]
@@ -228,7 +173,9 @@ Nasty. Randomly causes [[Guide_to_Traumas|brain traumas]] and other problems. If
 * [[Infections#Infection_Listings|Brainrot]]
 * Earthsblood from [[Guide_to_hydroponics#Plants|Ambrosia Gaia]].
 
-## Treatment:
+### Treatment:
+
+#### Acute
 
 * [[Guide_to_chemistry#Mannitol|Mannitol]] pills or injections slowly cure brain damage, but does not cure [[Guide_to_Traumas|brain traumas]]. 
 * [[Guide_to_chemistry#Neurine|Neurine]] will treat the most ## basic##  brain traumas. These traumas have no prefix on health analyzer. 
