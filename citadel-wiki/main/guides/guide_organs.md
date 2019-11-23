@@ -46,7 +46,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Heart](https://tgstation13.org/wiki//images/f/f7/Heart.png)
+   <td><img src="https://tgstation13.org/wiki//images/d/d9/Heart.png"></img>)
    </td>
    <td>Heart
    </td>
@@ -88,7 +88,7 @@ Each organ has 100 max hp, except the brain which has 200, and the lungs which h
    </td>
   </tr>
   <tr>
-   <td>![Appendix](https://tgstation13.org/wiki//images/f/f7/Appendix.png)|Appendix]]
+   <td>![Appendix](https://tgstation13.org/wiki//images/f/f7/Appendix.png)
    </td>
    <td>Appendix
    </td>
