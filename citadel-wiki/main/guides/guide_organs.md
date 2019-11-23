@@ -265,7 +265,7 @@ As the brain becomes damage, it has a chance of gaining random [[Guide_to_Trauma
 #### Permanent :
 Brain traumas that are either permanent or curable with magic, which is typically unavailable. Failing a lobotomy can cause these traumas. You can identify permanent brain traumas by the prefix "permanent" on health analyzer. If you get one of these, then assume "this is life now".
 
-## Heart ![Heart](https://tgstation13.org/wiki//images/f/f7/Heart.png)
+## Heart <img src="https://tgstation13.org/wiki//images/d/d9/Heart.png"></img>
 ### Ways of getting damaged:
 -	I dunno yet
 -	Probably bleeding
@@ -290,7 +290,7 @@ Brain traumas that are either permanent or curable with magic, which is typicall
 #### End stage:
 -	Hepatectomy
 
-## Lungs ![Lungs](https://tgstation13.org/wiki//images/f/f7/Lungs.png)
+## Lungs <img src="https://tgstation13.org/wiki//images/2/23/Lungs.png"></img>
 Lungs are unusual in that they have more health than most organs, and will take longer to treat. When chronic, there is a small chance on damage for a lobe to deflate. If both lobes deflate it will instantly fail.
 ### Ways of getting damaged:
 -	Impure Yamerol
@@ -303,14 +303,14 @@ Lungs are unusual in that they have more health than most organs, and will take 
 #### End stage:
 -	Lobectomy
 
-## Appendix
+## Appendix <img src="https://tgstation13.org/wiki//images/9/98/Appendix.png"></img>
 ### Ways of getting damaged:
 -	Appendicitis 
 ### Treatment:
 #### Universal:
 -	Removing the appendix with surgery.
 
-## Stomach ![Stomach](https://tgstation13.org/wiki//images/f/f7/Stomach_organ.png)
+## Stomach <img src="https://tgstation13.org/wiki//images/f/f7/Stomach_organ.png"></img>
 The stomach repairs itself quicker than other organs and thus treatments are usually secondary rather than primary.
 ### Ways of getting damaged:
 -	Very acidic/basic stomach acid pH
@@ -333,7 +333,7 @@ The stomach repairs itself quicker than other organs and thus treatments are usu
 -	Pure Oculine can restore non-functional eyes.
 -	Eye surgery
 
-## Ears ![Ears](https://tgstation13.org/wiki//images/f/f7/Ears.png)
+## Ears <img src="https://tgstation13.org/wiki//images/e/ec/Ears.png"></img>
 ### Ways of getting damaged:
 -	Loud noises
 ### Treatment:
