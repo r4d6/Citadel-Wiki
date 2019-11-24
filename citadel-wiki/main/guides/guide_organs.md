@@ -166,11 +166,11 @@ An organ can suffer either Acute, Chronic or End Stage Failure which will limit 
 
  Depending on the severity, different treatment options are available for each organ. One of the most versatile options is Grafting Synthtissue to an organ. Synthtissue can be grafted to any organ to repair some of the damage, using 10u of the solution each step. This step can be repeated with 10u each time to continue treating the patient. It's important to note, however, that the patient will slowly metabolise synthtissue if you take too long. The strength of the treatment is equal to the colony size.
 
-### Universal Treatment Options
+## Universal Treatment Options
 
 ### Synthtissue colony size and effects.
 
-Synthtissue can take 
+Synthtissue's effects depend on how long the colony has been growing, thus it's recomended to grow some as early as possible.
 
 <table>
   <tr>
@@ -342,4 +342,8 @@ The stomach repairs itself quicker than other organs and thus treatments are usu
 #### End stage:
 -	Pure Inacusiate will instantly restore all ear function.
 
-
+## Tongue
+### Ways of getting damaged:
+- Consuming high pH stuff
+### Treatment
+- Yamerol
