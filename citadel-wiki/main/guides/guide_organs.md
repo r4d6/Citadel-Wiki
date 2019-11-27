@@ -218,7 +218,7 @@ Synthtissue's effects depend on how long the colony has been growing, thus it's 
    </td>
    <td>>175u
    </td>
-   <td>Regenerates a single missing organ, and repairs a single failing organ per 15u injection.
+   <td>Regenerates a single missing organ or repairs a single failing organ per 15u injection.
    </td>
   </tr>
 </table>
