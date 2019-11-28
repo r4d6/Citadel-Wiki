@@ -10,7 +10,7 @@ Organ damage will cause side-effects as they reach thresholds, which will alert 
 * Overly strong stomach acid
 * High metabolic stress
 * Collapsed lung
-* Otherwise, an organ that's not in a living body (thus is on the ground or in a dead body) will decay if not held in a freezer, fridge, morgue unit, or [[Machines#Smartfridge|organ smartfridge]]. Organs will go from perfectly healthy to broken in 25 minutes, except for hearts, which will decay completely in 3 minutes, and brains, which will decay completely in 30 minutes.
+* Otherwise, an organ that's not in a living body (thus is on the ground or in a dead body) will decay if not held in a freezer, fridge, morgue unit, or [[Machines#Smartfridge|organ smartfridge]]. Organs will go from perfectly healthy to broken in 25 minutes, except for hearts, which will decay completely in 5 minutes, and brains, which will decay completely in 30 minutes.
 
 ## Side-Effects:
 
@@ -315,7 +315,7 @@ Lungs are unusual in that they have more health than most organs, and will take 
 #### Acute:
 -	Yamerol
 #### Chronic:
--	>0.9 purity Yamerol
+-	(>0.9) purity Yamerol
 #### End stage:
 -	Lobectomy
 -	Yamerol overdose will fill in for a missing lung, granting them temporary lungs that will slowly decay without Yamerol present.
@@ -338,7 +338,7 @@ The stomach repairs itself quicker than other organs when within healthy pH and 
 #### End stage:
 -	There is no specific treatment for stomachs, rely on transplantation or grafting SuperSomatic Synthtissue.
 
-## Eyes ![Eyes](https://tgstation13.org/wiki//images/f/f7/Eyes.png)
+## Eyes ![Eyes](https://tgstation13.org/wiki//images/5/57/Eyes.png)
 ### Ways of getting damaged:
 -	Bright flashes
 -	Using the welder without protection
