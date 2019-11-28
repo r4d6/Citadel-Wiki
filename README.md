@@ -18,4 +18,8 @@ A rendering of this repository can be found at [katlin.dog/citadel-wiki](https:/
 
 Pages should be written in Markdown. [This cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) provides good example on syntax. A barebones example page can be found in `citadel-wiki/example-template.md` and rendered at [katlin.dog/citadel-wiki/example-template](https://katlin.dog/citadel-wiki/example-template)
 
+**Name files using hyphens (`-`) instead of underscores (`_`) for readability.** It won't break anything, but consistency is good.
+
 Links to header can be made within pages by making an `#id` link, using the slug of the header. For example, the slug of the header **"Assistants: What not to do"** would be `#assistants-what-not-to-do`. Alphanumeric characters and hyphens only.
+
+When referencing wiki pages with in-game books, add `?book=1' to the end of the URL, for it to be displayed in book page format. For example, [katlin.dog/citadel-wiki/example-template?book=1](https://katlin.dog/citadel-wiki/example-template?book=1)
