@@ -304,21 +304,21 @@ Healthy livers prevent toxic reagents effects when their metabolic stress is bel
 ## Lungs <img src="https://tgstation13.org/wiki//images/2/23/Lungs.png"></img>
 Lungs are unusual in that they have more health than most organs, and will take longer to treat. When a lung fails for the first time, one of the lobes collaspes first, before the other. If both lobes deflate it will enter end stage failure. A collapsed lung will stress the heart and reduce functional breathing. Lobectomies additionally can only be performed once, and will cause very minor negative effects on affected lungs..
 ### Ways of getting damaged:
--	Impure Yamerol
+-	Impure [[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol)](/citadel-wiki/main/guides/chem_recipies#[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol))
 -	Breathing very hot/very cold air.
 -	Acid/bile reflux
 -	Multiver
 ### Treatment:
 #### Collapsed lung:
--	Yamerol will temporarily reinflate collapsed lungs on overdose.
+-	[[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol)](/citadel-wiki/main/guides/chem_recipies#[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol)) will temporarily reinflate collapsed lungs on overdose.
 -	Lobectomy
 #### Acute:
--	Yamerol
+-	[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol)
 #### Chronic:
--	(>0.9) purity Yamerol
+-	(>0.9) purity [Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol)
 #### End stage:
 -	Lobectomy
--	Yamerol overdose will fill in for a missing lung, granting them temporary lungs that will slowly decay without Yamerol present.
+-	[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol) overdose will fill in for a missing lung, granting them temporary lungs that will slowly decay without [Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol) present.
 
 ## Appendix <img src="https://tgstation13.org/wiki//images/9/98/Appendix.png"></img>
 ### Ways of getting damaged:
@@ -344,10 +344,10 @@ The stomach repairs itself quicker than other organs when within healthy pH and 
 -	Using the welder without protection
 ### Treatment:
 #### Acute + Chronic:
--	Oculine will slowly treat eye damage and treat some other sources of blindness
+-	[Oculine](/citadel-wiki/main/guides/chem_recipies#Oculine) will slowly treat eye damage and treat some other sources of blindness 
 -	Eye surgery
 #### End stage:
--	Pure Oculine can restore non-functional eyes.
+-	Pure [Oculine](/citadel-wiki/main/guides/chem_recipies#Oculine) can restore non-functional eyes.
 -	Eye surgery
 
 ## Ears <img src="https://tgstation13.org/wiki//images/e/ec/Ears.png"></img>
@@ -355,16 +355,16 @@ The stomach repairs itself quicker than other organs when within healthy pH and 
 -	Loud noises
 ### Treatment:
 #### Acute + Chronic:
--	Inacusiate will slowly treat ear damage.
+-	[Inacusiate](/citadel-wiki/main/guides/chem_recipies#Inacusiate) will slowly treat ear damage.
 #### End stage:
--	Pure Inacusiate will instantly restore all ear function.
+-	Pure [Inacusiate](/citadel-wiki/main/guides/chem_recipies#Inacusiate) will instantly restore all ear function.
 
 ## Tongue <img src="https://tgstation13.org/wiki//images/c/c4/Tongue.png"></img>
 ### Ways of getting damaged:
 - Consuming high pH stuff
 ### Treatment
 #### Acute + Chronic:
-- Yamerol
+- [[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol)](/citadel-wiki/main/guides/chem_recipies#[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol))
 #### End stage:
-- Yamerol OD
+- [[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol)](/citadel-wiki/main/guides/chem_recipies#[Yamerol](/citadel-wiki/main/guides/chem_recipies#Yamerol)) OD
 - Replacement
