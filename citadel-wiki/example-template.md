@@ -5,7 +5,7 @@ Example Wiki Page
 A handy direct link to this page when rendered is [right here](/citadel-wiki/example-template).
 
 ## HRP Assistants
-They do lots of heavy RP stuff. ~~Wink wink.~~
+They do lots of heavy RP stuff. Wink wink.
 
 ## LRP Assistants
-They make admins cry. ~~A lot.~~
+They make admins cry. A lot.
