@@ -1,4 +1,4 @@
-# ![Liver<img src="https://tgstation13.org/wiki//images/f/f7/Liver_organ.png"></img> Organ damage
+# Organ damage
 
 Organ damage will cause side-effects as they reach thresholds, which will alert the owner when passed. If an organ shows up as "non-functional", that means its failing, and will not work, and will cause some life-threatening ailments depending on which organ it is. There is currently no way to see the exact damage of each organ, but for the most part they function on low-threshold, high-threshold, and failing, which will show up as "mildly damaged", "severely damaged", and "non-functional" lists when you scan someone with a medical scanner. Note that all the listed organs decay over time, which is the most common way they'll get damaged- but [[Surgery#Cybernetic_Organs|synthetic organs]] do not! The best way to avoid any of these side-effects is to replace your fleshy organs for [[Surgery#Cybernetic_Organs|metallic ones]], though these too come with downsides in the form of EMP vulnerability.
 
@@ -7,15 +7,10 @@ Organ damage will cause side-effects as they reach thresholds, which will alert 
 * Flashes and sharp objects in the eyes (eyes)
 * Loud noises (ears)
 * Appendicitis (appendix)
+* Overly strong stomach acid
+* High metabolic stress
+* Collapsed lung
 * Otherwise, an organ that's not in a living body (thus is on the ground or in a dead body) will decay if not held in a freezer, fridge, morgue unit, or [[Machines#Smartfridge|organ smartfridge]]. Organs will go from perfectly healthy to broken in 25 minutes, except for hearts, which will decay completely in 3 minutes, and brains, which will decay completely in 30 minutes.
-
-## Treatment:
-
-* [[Surgery#Coronary_Bypass|A coronary bypass]] can be performed on a heart that's decayed past 60 damage, and restores functionality. Good for getting a heart that's too damaged to defib to work again.
-* [[Surgery#Lobectomy|A lobectomy]] will do the same as above but for the lungs, which will scarce occur due to their 25 minute decay timer, but it's still an option. 
-* [[Guide_to_chemistry#Oculine|Oculine]] will rapidly fix damaged eyes, clearing any short sightedness/blindness caused by damage.
-* [[Guide_to_chemistry#Inacusiate|Inacusiate]] will immediately fix damaged ears to a perfect state.
-* Otherwise, time and health will fix most organs (not the brain!). The healthier you are, the faster this rate goes, with a base rate of around half an hour for an organ to go from max damage to perfectly healthy. Taking vitamins increases your health, and thus increases this rate, so eat smart!
 
 ## Side-Effects:
 
@@ -25,6 +20,16 @@ Organ damage will cause side-effects as they reach thresholds, which will alert 
 * A non-functional appendix will burst, causing toxin damage until the organ is removed. Life-threatening!
 * A damaged heart will increase the rate at which you breath by 25%, and will cease when non-functional, causing immediate heart attack. Life-threatening!
 * A damaged stomach will be unable to hold nutriment and food down as easily, causing vomiting depending on the amount of food consumed and the damage of the stomach. A non-functional stomach does not digest any food.
+* A collapsed lung will stress the heart and reduce functional breathing.
+* A stressed liver will cause (dependant on the stress level) liver damage, then tox, then heart damage, then stamina loss, finally resulting in swelling of the liver.
+* A stomach with high pH within it will cause stomach damage, then lung damage, then burning on the chest, and then heart and tongue damage at extreme values. 
+
+## How to detect the condition of an Organ:
+* A hand scanner will tell you what organs are Chronic or worse as well as lobe + swelling status.
+* An advance scanner will tell you what organs are Acute or worse.
+* Both scanners can detect Brain traumas.
+* A sleeper can detect metabolic stress.
+* The Magnetic Resonance Scanner (MRS) will scan all organs, and give you real time information on all of them, including metabolic stress, lung lobe collapse detection, brain traumas and pH.
 
 # Organ effects
 Each organ has 100 max hp, except the brain which has 200, and the lungs which has 300. 
@@ -240,7 +245,7 @@ Transplanting in a new organ is potentially the easiest and fastest way to resto
 # Organ specific treatments
 
 ## Brain <img src="https://tgstation13.org/wiki//images/3/3f/Brain.png"></img>
-As the brain becomes damage, it has a chance of gaining random [[Guide_to_Traumas|brain traumas]] and other problems. If a brain reaches 0% health, the person dies. To be able to see exact brain health, you need an advanced health analyzer, which [[CMO]] gets one of by default. Getting killed and cloned does not cure brain traumas. 
+As the brain becomes damaged, it has a chance of gaining random [[Guide_to_Traumas|brain traumas]] and other problems. If a brain reaches 0% health, the person dies. To be able to see exact brain health, you need an advanced health analyzer, which [[CMO]] gets one of by default. Getting killed and cloned does not cure brain traumas. 
 ### Ways of getting damaged:
 - Imperfect cloning.
 - Certain chemicals such as [[Guide_to_chemistry#Mercury|mercury]], [[Guide_to_chemistry#Impedrezene|impedrezene]], or [[Guide_to_chemistry#Fentanyl|fentanyl]]
@@ -266,42 +271,54 @@ As the brain becomes damage, it has a chance of gaining random [[Guide_to_Trauma
 Brain traumas that are either permanent or curable with magic, which is typically unavailable. Failing a lobotomy can cause these traumas. You can identify permanent brain traumas by the prefix "permanent" on health analyzer. If you get one of these, then assume "this is life now".
 
 ## Heart <img src="https://tgstation13.org/wiki//images/d/d9/Heart.png"></img>
+The heart is usually damaged due to secondary effects of other organs under duress.
 ### Ways of getting damaged:
--	I dunno yet
--	Probably bleeding
+-	High metabolic stress
+-	Extreme Acid reflux/bile reflux
+-	Collapsed lung
 ### Treatment:
 #### Acute:
 -	Corazone will slowly treat acute level damage and prevent sudden onset cardiac arrest.
 #### Chronic:
--	Pure Corazone will very slowly treat Chronic heart damage
+-	Pure Corazone (>0.95) will very slowly treat Chronic heart damage
 #### End stage:
 -	Coronary bypass
 -	Emergency Cardioversion Induction
+-	[[Surgery#Coronary_Bypass|A coronary bypass]] can be performed on a heart that's decayed past 60 damage, and restores functionality. Good for getting a heart that's too damaged to defib to work again.
 
 ## Liver ![Liver](https://tgstation13.org/wiki//images/f/f7/Liver_organ.png)
+Healthy livers prevent toxic reagents effects when their metabolic stress is below 15. A stressed liver will cause (dependant on the stress level) liver damage, then tox, then heart damage, then stamina loss, finally resulting in swelling of the liver. Swelling will increase the blood requirements of the patient and slow them down. The only means of treatment at the moment for a swollen liver is transplantation.
 ### Ways of getting damaged:
 -	Too much alcohol
 -	Toxin ingestion
+- 	Metabolic stress
 ### Treatment:
-#### Acute:
--	Antihol will slowly treat acute level damage
-#### Chronic:
+#### Acute & Chronic:
+-	Livers will only heal when their metabolic stress is reduced past 0.
+-	Soothehol will slowly treat metabolic stress based on it's purity (Byproduct of Antihol, it's purity is equal to Antihol's impurity, up until 0.3.).  Soothhol at purities >0.66 can push a liver's metabolic stress into chronic healing levels.
+-	Dialysis on sleepers will reduce a liver's metabolic stress into acute treatment levels when tier 2, or chronic treatment levels when tier 4. Dialysis has to be left on for a period of time to reach chronic treatment levels.
 -	Hepatectomy
 #### End stage:
 -	Hepatectomy
 
 ## Lungs <img src="https://tgstation13.org/wiki//images/2/23/Lungs.png"></img>
-Lungs are unusual in that they have more health than most organs, and will take longer to treat. When chronic, there is a small chance on damage for a lobe to deflate. If both lobes deflate it will instantly fail.
+Lungs are unusual in that they have more health than most organs, and will take longer to treat. When a lung fails for the first time, one of the lobes collaspes first, before the other. If both lobes deflate it will enter end stage failure. A collapsed lung will stress the heart and reduce functional breathing. Lobectomies additionally can only be performed once, and will cause very minor negative effects on affected lungs..
 ### Ways of getting damaged:
 -	Impure Yamerol
 -	Breathing very hot/very cold air.
+-	Acid/bile reflux
+-	Multiver
 ### Treatment:
+#### Collapsed lung:
+-	Yamerol will temporarily reinflate collapsed lungs on overdose.
+-	Lobectomy
 #### Acute:
 -	Yamerol
 #### Chronic:
--	Pure Yamerol
+-	>0.9 purity Yamerol
 #### End stage:
 -	Lobectomy
+-	Yamerol overdose will fill in for a missing lung, granting them temporary lungs that will slowly decay without Yamerol present.
 
 ## Appendix <img src="https://tgstation13.org/wiki//images/9/98/Appendix.png"></img>
 ### Ways of getting damaged:
@@ -311,13 +328,13 @@ Lungs are unusual in that they have more health than most organs, and will take 
 -	Removing the appendix with surgery.
 
 ## Stomach <img src="https://tgstation13.org/wiki//images/f/f7/Stomach_organ.png"></img>
-The stomach repairs itself quicker than other organs and thus treatments are usually secondary rather than primary.
+The stomach repairs itself quicker than other organs when within healthy pH and thus treatments are usually secondary rather than primary. A stomach with high pH within it will cause stomach damage, then lung damage, then burning on the chest, and then heart and tongue damage at extreme values. If a patients system is purged from non dialysis methods, it will also purge stomach acid from the patient. A health patient usually has 50u of acid, and will regenerate it slowly. If acid is regenerated, their pH will shoot up. If they have no acid to purge, they will take direct stomach damage.
 ### Ways of getting damaged:
 -	Very acidic/basic stomach acid pH
 ### Treatment:
 -	Neutralise internal pH and let natural regeneration fix it.
--	Antacids will neutralise acidic stomach conditions and sooth acute damage.
--	Antbases will neutralise acidic stomach conditions and sooth acute damage.
+-	Antacids will neutralise acidic stomach conditions quickly and sooth acute damage.
+-	Antbases will neutralise basic stomach conditions quickly and sooth acute damage.
 #### End stage:
 -	There is no specific treatment for stomachs, rely on transplantation or grafting SuperSomatic Synthtissue.
 
@@ -342,8 +359,12 @@ The stomach repairs itself quicker than other organs and thus treatments are usu
 #### End stage:
 -	Pure Inacusiate will instantly restore all ear function.
 
-## Tongue
+## Tongue <img src="https://tgstation13.org/wiki//images/c/c4/Tongue.png"></img>
 ### Ways of getting damaged:
 - Consuming high pH stuff
 ### Treatment
+#### Acute + Chronic:
 - Yamerol
+#### End stage:
+- Yamerol OD
+- Replacement
