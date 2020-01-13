@@ -398,6 +398,7 @@ In the absence of a captain, an acting captain should be picked as soon as possi
 | Changelings | No\* | No\* |
 | Converted revolutionary | Yes | Yes |
 | Head rev/cult master | Yes | Yes |
+| Vampires | No | Yes |
 
 > \*These marked entities can only be considered as non-human or non-crew if the Silicon has reliable and confirmed information to convince them. Such as command staff with evidence, or directly witnessing a non-human act (such as growing an armblade).
 
