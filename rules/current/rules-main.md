@@ -465,9 +465,10 @@ In the absence of a captain, an acting captain should be picked as soon as possi
 
 **Slaying** is killing crewmembers in order to complete your objective(s), whether the killings are directly or indirectly related to the objective(s). Protecting yourself from validhunters or lynch mobs, killing witnesses, and killing to gain access also all count as slaying.
 
-1. Murderboning is a form of bad sportsmanship. You will not be directly punished with bans for doing it, but admins can and will incentivize you to refrain from doing it. They may call the shuttle early, or send an ERT team to stop you. They may give certain advantages to the crew, or take away certain advantages from you.
-2. If admins notice that you repeatedly murderbone every round, or even a majority of rounds, they reserve the right to ban you from antag roles anyway.
+1. Murderboning is a form of bad sportsmanship. Unless you have a very good reason to kill a large portion of the crew, expect to have your right to play antag roles removed.
+2. If admins notice that you repeatedly, throughout the course of multiple rounds, instigate lynch mobs and make no, or very few attempts to disengage with these mobs in favor of combat with the mob, you may have your rights to antag roles removed anyway.
 3. The longer you take trying to kill everyone, the more likely that it will be considered murderboning instead of slaying.
+4. As an antag, you are expected to act in good faith and make the round fun for as many players as possible.  If you know you wouldn't have fun if you were in the crew's shoes, then it's safe to say they aren't having fun with what you're doing.
 
 ### Specific antagonist policies
 
